@@ -150,13 +150,13 @@ Semestre  1º período
 
 ## Ementa
 
-Projeto de Software: Conceitos Básicos de Algoritmos; Fundamentos de Programação e Linguagens de Programação (variáveis, expressões, comandos, estruturas de decisão e estruturas de repetição, manipulação de dados estruturados, funções e classes); Resolução Algorítmica de Problemas; Desenvolvimento de Programas; Linguagens de Programação; 
+Projeto de Software: Conceitos Básicos de Algoritmos; Fundamentos de Programação e Linguagens de Programação (variáveis, expressões, comandos, estruturas de decisão e estruturas de repetição, manipulação de dados estruturados, funções e classes); Resolução Algorítmica de Problemas; Desenvolvimento de Programas; Linguagens de Programação;
 
 Times Ágeis: Processo de desenvolvimento de software; Técnicas de Projeto de Software; Introdução a técnicas de Planejamento e Gerenciamento de Software (Metodologias ágeis); Documentação de projetos de Software; Introdução a ferramentas de controle de versão.
 
 Design Centrado no Usuário: acessibilidade; usabilidade e testes de usabilidade; prototipação e iteração; gráficos e sons; conhecimento do contexto e as pessoas; a natureza da interação com o usuário e ambientes virtuais; interação humano-computador; padrões para interface; definição e métodos de avaliação;
 
-Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Introdução a protocolo HTTP;  Introdução a bancos de dados relacionais e operações básica de manipulação de dados (CRUD); Introdução ao desenvolvimento de sistemas Web; Visão estratégica da evolução da tecnologia 
+Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Introdução a protocolo HTTP;  Introdução a bancos de dados relacionais e operações básica de manipulação de dados (CRUD); Introdução ao desenvolvimento de sistemas Web; Visão estratégica da evolução da tecnologia
 
 ## Objetivos
 
@@ -266,9 +266,9 @@ Projeto de Sistemas Complexos:
 
 Projeto de Software:
 
-1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011 
+1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
 2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
-3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009 
+3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
 
 Desenvolvimento colaborativo:
 
@@ -278,9 +278,9 @@ Design:
 
 1.	WEINSCHENK, Susan., 100 Things Every Designer Needs to Know About People., New Riders, 2011
 2.	NORMAN, Donald., The Design of Everyday Things, Basic Books, 2002
-3.	TULLIS, Thomas; ALBERT, William., Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics, 1ª ed., Morgan Kaufmann, 2008 
+3.	TULLIS, Thomas; ALBERT, William., Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics, 1ª ed., Morgan Kaufmann, 2008
 4.	GARRETT, Jesse, The Elements of User Experience, 2ª ed., Ed. New Riders, 2010
-5.	KUMAR, Vijay. , 101 Design Methods: A Structured Approach for Driving Innovation in Your Organization. , Wiley & Sons, 2013 
+5.	KUMAR, Vijay. , 101 Design Methods: A Structured Approach for Driving Innovation in Your Organization. , Wiley & Sons, 2013
 
 Projeto de Sistemas Complexos:
 
@@ -323,15 +323,15 @@ Ao final do curso o aluno deverá ser capaz de:
 7. Economia e inovação tecnológica;
 8. Escolhas tecnológicas e seus usos sociais.
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
 1.	ALVES, Rubem, Filosofia da Ciência. Introdução ao jogo e as suas regras, Loyola, 2007
 2.	COLLINS, Harry and PINCH, Trevor, O Golem: Tudo que você queria deveria saber sobre Ciência, UNESP, 2003
-3. ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019. 
-4.  MOROZOV, Evgeny. Big Tech: A ascensão dos dados e a morte da política. São Paulo: Ubu Editora, 2018. 
-5. 	O’Neil Cathy. Algoritmos de destruição em massa: Como o Big Data aumenta a desigualdade e ameaça a democracia. 1ª Edição – Santo André, SP. Editora Rua do Sabão, 2020.			
+3. ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019.
+4.  MOROZOV, Evgeny. Big Tech: A ascensão dos dados e a morte da política. São Paulo: Ubu Editora, 2018.
+5. 	O’Neil Cathy. Algoritmos de destruição em massa: Como o Big Data aumenta a desigualdade e ameaça a democracia. 1ª Edição – Santo André, SP. Editora Rua do Sabão, 2020.
 
 
 Artigos:
@@ -341,7 +341,7 @@ Artigos:
 3.	GOULART, Guilherme Damásio. O impacto das novas tecnologias nos direitos humanos e fundamentais: o acesso à internet e a
 Liberdade de expressão. Revista Direitos Emergentes na Sociedade Global (RedesSG). , v. 1 , n. 1 , 2012. ; Disponível em: https://periodicos.ufsm.br/REDESG/article/view/5955/pdf_1#.W3G7qtJKiUk. Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
@@ -362,7 +362,7 @@ Livros:
 
 Artigos:
 
-HOGAN, M.; SHEPHERD, T. Information Ownership and Materiality in an Age of Big Data Surveillance. Journal of Information Policy. , v. 5 , p. 6 - 31 , 2015. ; Disponível em: https://www.jstor.org/stable/10.5325/jinfopoli.5.2015.0006. Acesso em: 27 maio 2019. 
+HOGAN, M.; SHEPHERD, T. Information Ownership and Materiality in an Age of Big Data Surveillance. Journal of Information Policy. , v. 5 , p. 6 - 31 , 2015. ; Disponível em: https://www.jstor.org/stable/10.5325/jinfopoli.5.2015.0006. Acesso em: 27 maio 2019.
 
 
  
@@ -408,7 +408,7 @@ Ao final da disciplina o estudante será capaz de:
 11. Análise Léxica e Sintática
 12. Linguagens
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
@@ -420,7 +420,7 @@ Artigos:
 
 KHAN, S. et. Al.. A high performance processor architecture for multimedia applications.. Computer & Electrical Engineering. , v. 66 , p. 14-29 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0045790616305894. Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
@@ -431,7 +431,7 @@ Livros:
 Artigos:
 
 MISHRA, D.. A survey of memory management techniques in virtualized systems.. Computer Science Review.. , v. 29 , p. 56-73 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1574013716301186. Acesso em: 27 maio 2019.
- 
+
  
 
 \newpage
@@ -474,14 +474,14 @@ Ao final da disciplina o aluno será capaz de:
 Livros:
 
 1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
-2.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016 
+2.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
 3.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 2011
 
 Artigos:
 
 BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2019
 
-Bibliografia Complementar 
+Bibliografia Complementar
 
 Livros:
 
@@ -502,7 +502,7 @@ NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Ex
 
 
 
-\newpage 
+\newpage
 
 # Matemática da Variação
 
@@ -554,15 +554,15 @@ Livros:
 
 1.	STEWART, J. , Cálculo, Volumes I, 7ª ed., Cengage Learning, 2013
 2.	STEWART, J. , Cálculo, Volume II, 7ª ed., Cengage Learning, 2013
-3.	ANTON, H.; RORRES, C., Álgebra Linear com Aplicações, 10ª ed., Bookman, 2012 
+3.	ANTON, H.; RORRES, C., Álgebra Linear com Aplicações, 10ª ed., Bookman, 2012
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 1.	BOYCE, W. E.; DIPRIMA, R. C., Equações Diferenciais Elementares e Problemas de Valores de Contorno, 9ª ed., LTC, 2013
-2.	 APOSTOL, T. M., Cálculo 1: Cálculo com Funções de uma Variável, com uma Introdução à Álgebra Linear, Reverté , 1998 
+2.	 APOSTOL, T. M., Cálculo 1: Cálculo com Funções de uma Variável, com uma Introdução à Álgebra Linear, Reverté , 1998
 3.	POOLE, D, Álgebra Linear, 1ª ed., Pioneira Thomson Learning, 2004 ZILL, D., CULLEN, M. , Equações Diferenciais, 3ª ed., Pearson, 2001
-4.	ROGAWSKI, J., Cálculo, Volume 1, 1ª ed., Bookman, 2009 
+4.	ROGAWSKI, J., Cálculo, Volume 1, 1ª ed., Bookman, 2009
 
 
 
@@ -575,7 +575,7 @@ Semestre  1º período
 
 ## Ementa:
 
-Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log). 
+Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log).
 
 ## Objetivos
 
@@ -611,7 +611,7 @@ Ao final da disciplina o aluno será capaz de:
 3.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
 4. BROWN, TIM. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 4.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
 5.	SOMMERVILLE, I. , Engenharia de Software , 9ª ed., Pearson, 2011
@@ -639,7 +639,7 @@ Estruturas ligadas simples, pilhas e filas; estratégia de resolução de proble
 
 Ao final do curso, o aluno deve ser capaz de...
 
-1.	Resolver problemas de divisão e conquista utilizando recursão 
+1.	Resolver problemas de divisão e conquista utilizando recursão
 2.	Empregar estruturas ligadas para implementar pilhas e filas
 3.	Aplicar estruturas lineares simples (pilhas e filas)
 4.	Problemas geométricos usando computação gráfica e processamento de imagem
@@ -664,14 +664,14 @@ Ao final do curso, o aluno deve ser capaz de...
 8.	Arquivos, alocação e liberação de recursos
 9.	Introdução a testes de software.
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 1.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
 2.	SEDGEWICK,, Robert. Algorithms in C - Parts1-4: Fundamentals, Data Strucutures, Sorting, Searching. 3ª ed. Addison-Wesley, 1997
 3.	SEDGEWICK, R.; WAYNE, K.; DONDERO, R. Introduction to Programming in Python: An Interdisciplinary Approach. Ed. Addison Wesley. 2015.
-  
 
-## Bibliografia Complementar 
+
+## Bibliografia Complementar
 
 1.	VAUGHAN, L. Impractical Python: Playful Programming Activities to Make You Smarter. Ed. No Starch Press. 1.a ed. 2018.
 2.	WIRTH, N., Algoritmos e Estruturas de Dados. Rio de Janeiro: Editora LTC, 1989.
@@ -683,7 +683,7 @@ Ao final do curso, o aluno deve ser capaz de...
 
 \newpage
 
-# Inteligência Artificial e Robótica 
+# Inteligência Artificial e Robótica
 
 Carga Horária:  80
 
@@ -728,26 +728,26 @@ Ao final da disciplina o estudante será capaz de:
 18. Tópicos avançados: Classificação de padrões aplicada a robótica
 19. Tópicos avançados: Visão computacional avançada
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
 1.	NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
-2.	SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011 
+2.	SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
 3.	SZELISKI, R.; GRIES, D.; SCHNEIDER, F. B. (Ed.), Computer Vision: Algorithms and Applications, Springer, 2011
 
 Artigos:
 
 INGRAND, F.; GHALLAB, M.. Deliberation for autonomous robots: a survey.. Artificial Intelligence. , v. 247 , p. 10-44 , 2017. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0004370214001350. Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
-1.	KAEHLER, A.; BRADSKI, G., Learning OpenCV: Computer Vision in C++ with the OpenCV Library, 2ª ed., O'Reilly Media, 2015 
+1.	KAEHLER, A.; BRADSKI, G., Learning OpenCV: Computer Vision in C++ with the OpenCV Library, 2ª ed., O'Reilly Media, 2015
 2.	O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
-3.	SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013 
-4.	ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008 
+3.	SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
+4.	ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
 5.	THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
 
 Artigos:
@@ -766,48 +766,52 @@ Semestre  : 3º período
 
 ## Ementa
 
-Vetores, bases e projeções; espaços vetoriais em geometria; decomposição em valores singulares; sistemas lineares e método de eliminação de Gauss; aplicações de álgebra linear em processamento de sinais; aplicações em grafos; aplicações em processamento de imagens.
+Vetores e espaços vetoriais; geometria em espaços vetoriais; sistemas de equações lineares; transformações lineares; decomposição em valores singulares; Informação e incerteza, entropia de Shannon, informação mútua; codificação e compressão, códigos corretores de erro.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de
 
-1.	Resolver problemas aplicados de Geometria Espacial que envolvam decomposições e projeções de vetores em bases
-2.	Reconhecer problemas em que a linearidade permite expressar um elemento de um conjunto como soma de outros elementos
-3.	Identificar aplicações em computação de conceitos de Álgebra Linear
-4.	Aplicar métodos de resolução de problemas baseados em Álgebra Linear
-5.  Reconhecer como a decomposição de informação e a reconstrução por linearidade está presente nas várias aplicações da computação
-6.  Reconhecer como os conceitos de sinal, ruído, perda e informação se manifestam nas várais aplicações da computação
-7. Entender as noções de informação de Shannon e de  Turing e sua interação nas aplicações da computação
+1. Aplicar conceitos de espaços vetoriais para a descrição e manipulação de objetos
+2. Resolver problemas de geometria espacial envolvendo conceitos de espaços vetoriais
+3. Avaliar e resolver sistemas de equações lineares
+4. Interpretar e analisar transformações lineares
+5. Aplicar a decomposição em valores singulares
+6. Explicar as noções de informação e codificação
+7. Aplicar métodos de compressão e de correção de erro
+
 
 Conteúdo Programático:
-1.	Vetor
-2.	Base e Espaço Vetorial
-3.	Decomposição e Projeção
-4.	Álgebra Linear em Geometria
-5.	Outros espaços vetoriais: Aplicações em sinais
-6.	Aplicações em processamento de imagens
-7.	Aplicações em grafos
-8.	Eliminação de Gauss
-9.	Decomposição em valores singulares
-.
 
-Bibliografia Básica 
-1.	KLEIN, P. N. Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
-2.	AXLER, S. Linear Algebra Done Right. 3rd. ed. Springer. 2014.
-3.	STRANG. G. Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
-4. MacKay, D. J. Information Theory, Inference and Learning Algorithms. 
+1. Vetores e espaços vetoriais
+2. Norma e produto interno, distância, geometria linear: ângulo, projeção, plano
+3. Combinações lineares, bases e dimensão, ortogonalização de Gram-Schmidt
+4. Sistemas de equações lineares, eliminação de Gauss
+5. Transformações lineares e representação matricial
+6. Mudança de base e similaridade de transformações
+7. Determinantes
+8. Autovalores e autovetores
+9. Decomposição em valores singulares
+10. Informação e incerteza
+11. Entropia de Shannon, informação mútua
+12. Codificação e compressão
+13. Códigos corretores de erro
 
-  
-Bibliografia Complementar 
+Bibliografia Básica
+1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
+2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
+3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
+4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
 
-1.	STRANG, G. Introduction to Linear Algebra. Wellesley-Cambridge Presss. 2019.
-2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008. 
-3.	STRANG. G. Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+Bibliografia Complementar
+
+1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
+2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008.
+3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
 4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
 5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
-6.	HEFFERON, J. Linear Algebra. 4.a ed. 
-7.	COHEN, X. M. Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021. 
+6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
+7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
 
 
 \newpage
@@ -849,19 +853,19 @@ Ao final do curso, o aluno deve ser capaz de:
 9.	Algoritmos aleatorizados
 10.	NP completude
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 1.	STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. Editora Pearson, 2013.
 2.	GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação: Um Tratamento Moderno de Matemática Discreta, 7ª ed., Editora LTC, 2016.
 3.	SILVA, Flávio S.C.; Finger, M.; de Melo, Ana C.V. Lógica para Computação, 2a. ed. Ed. Cengage Learning, 2017.
 
-  
 
-## Bibliografia Complementar 
+
+## Bibliografia Complementar
 
 1.	GRAHAM, R.; KNUTH, D.; PATASHNIK, O. Concrete Mathematics: A Foundation for Computer Science. 2 ed. Ed. Addison-Wesley 1994.
 2.	MENDELSON, E. Introduction to Mathematical Logic (Discrete Mathematics and Its Applications). 6 ed. Ed. CRC Press, 2015.
-3.	VELLEMAN, D. How to Prove It: A Structured Approach. 3 ed. Ed. Cambridge University Press, 2019. 
+3.	VELLEMAN, D. How to Prove It: A Structured Approach. 3 ed. Ed. Cambridge University Press, 2019.
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
  
@@ -872,7 +876,7 @@ Ao final do curso, o aluno deve ser capaz de:
 
 # Programação Web e Times Ágeis
 
-Carga Horária:  80 
+Carga Horária:  80
 
 Semestre  : 3º período
 
@@ -909,7 +913,7 @@ Arquitetura da Web: IP, TCP/IP e roteamento
 12. Front-ends com frameworks single-page (Angular)
 13. Backends com Node JS
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
@@ -921,12 +925,12 @@ Artigos:
 
 GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the making of HTML 5.. Telematics and Informatics. , v. 35 , n. 5 , p. 1438-1449 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0736585317306342 . Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
 1.	SILVEIRA, P.et al., Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java., 1ª ed., Campus Elsevier, 2012
-2.	 DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016 
+2.	 DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016
 3.	DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
 4.	CANTELON, M. , Node. js in Action, 2ª ed., Manning, 2017
 5.	MCGOVERN, J., Java web services architecture, Morgan Kaufmann, 2003
@@ -934,14 +938,14 @@ Livros:
 Artigos:
 
 GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Network and Computer Applications. , v. 60 , n. 32 , p. 32-53 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804515002933. Acesso em: 27 maio 2019.
- 
+
 
 
 
 
 \newpage
 
-# Algoritmos e Estruturas de Dados 
+# Algoritmos e Estruturas de Dados
 
 Carga Horária:  80
 Semestre  4º período
@@ -994,26 +998,26 @@ Artigos:
 
 RUBIO, M. A. et al.. Closing the gender gap in an introductory programming course.. Computers & Education. , v. 82 , p. 409-420 , 2015. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0360131514002802. Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
-1.	SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013 
+1.	SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013
 2.	BENTLEY, J., Programming Pearls, Addison-Wesley, 1999
 3.	AHO, A. V.; ULLMAN, J. D. , Foundations of Computer Science: C Edition. W. H. , Freeman, 1994
-4.	R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001 
+4.	R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
 
 Artigos:
 
 CODISH, M. et al.. Sorting nine inputs requires twenty-five comparisons.. Journal of Computer and System Sciences. , v. 82 , n. 3 , p. 551-563 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0022000015001397. Acesso em: 27 maio 2019.
- 
+
 
 
 
 
 
 \newpage
-# Machine Learning 
+# Machine Learning
 
 Carga Horária:  80
 
@@ -1057,15 +1061,15 @@ Artigos:
 
 LE CUN, Y.; BENGIO, Y.; HINTON, G.. Deep Learning.. Nature. , v. 521 , p. 436-444 , 0. ; Disponível em: http://dx.doi.org/10.1038/nature14539. Acesso em: 27 maio 2019.
 
-Bibliografia Complementar 
+Bibliografia Complementar
 Livros:
-1.	HASTIE, T., TIBSHIRANI, R., FRIEDMAN, J., , The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2ª ed., Springer, 2009 
+1.	HASTIE, T., TIBSHIRANI, R., FRIEDMAN, J., , The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2ª ed., Springer, 2009
 2.	MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. , Introduction to Information Retrieval, 1ª ed., Cambridge University Press, 2008
 3.	DUDA, R. O., HART, P. E., STORK, D. G, Pattern Classification, 2ª ed., Wiley, 2001
 4.	O’NEILL, C., SCHUTT, R., , Doing Data Science: Straight Talk from the Frontline, O’Reilly, 2014
 5.	MURPHY, K. P., , Machine Learning: A Probabilistic Perspective, MIT Press, 2012
 Artigos:
-SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v. 550 , p. 354-359 , 2017. ; Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019. 
+SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v. 550 , p. 354-359 , 2017. ; Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
 
 
 
@@ -1104,7 +1108,7 @@ SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v
 
 
 \newpage
-# Teoria da Computação e Linguagens Formais 
+# Teoria da Computação e Linguagens Formais
 
 Carga Horária:  80
 
@@ -1138,7 +1142,7 @@ Ao final da disciplina o aluno será capaz de:
 10. Análise léxica, sintática e semântica
 11. Geração de código
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
@@ -1160,10 +1164,10 @@ Livros:
 4.	 SIPSTER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
 5.	SILVA, F. C.; FINGER, M.; MELO, A. C. V., Lógica para Computação, 2ª ed., Cengage, 2017
 
-Artigos: 
+Artigos:
 
 KONDOH, H., FUTATSUGI, K.. To use or not to use the goto statement: Programming styles viewed from Hoare Logic.. Science of Computer Programming. , v. 60 , n. 1 , p. 82-116 , 2006. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0167642305000924. Acesso em: 27 maio 2019.
- 
+
 
  \newpage
 
@@ -1198,11 +1202,11 @@ Ao final da disciplina o estudante será capaz de:
 6. Gerenciamento de processos em sistemas operacionais: exceções de hardware, sinais, agendamento, arquivos, Entrada/Saída;
 7. Introdução a programação concorrente: threads vs. processos, primitivas de sincronização e controle de deadlocks, concorrência vs. paralelismo.
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
-1.	BRYANT, R. E.; O’HALLARON, D. R. , Computer systems: a programmer's perspective, 3ª ed., Pearson, 2015 
+1.	BRYANT, R. E.; O’HALLARON, D. R. , Computer systems: a programmer's perspective, 3ª ed., Pearson, 2015
 2.	D. A. PATTERSON; J. L. HENNESSY, Organização e Projetos de Computadores: a Interface Hardware/Software., 4ª ed., Elsevier, 2014
 3.	KOCHAN, S. G., Programming in C, 4ª ed., Addison-Wesley, 2014
 
@@ -1210,21 +1214,21 @@ Artigos:
 
 KIVITY, A.; COSTA, D.; ENBERG, P.. Optimizing the Operating System for Virtual Machines.. Proceedings of USENIX ATC’14: 2014 USENIX Annual Technical Conference. , p. 61 , 2014.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
 1.	KERNIGHAN, B. W.; RITCHIE, D. M., The C programming language, 2ª ed., Prentice-Hall, 1988
-2.	J. H. SALTZER, M. F. KAASHOEK., Principles of Computer System Design: An Introduction, Morgan Kaufmann, 2009 
+2.	J. H. SALTZER, M. F. KAASHOEK., Principles of Computer System Design: An Introduction, Morgan Kaufmann, 2009
 3.	STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Pearson, 2013
-4.	SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G., Operating System Concepts, 9ª ed., Wiley, 2013 
+4.	SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G., Operating System Concepts, 9ª ed., Wiley, 2013
 5.	TANENBAUM, A. S., Sistemas Operacionais Modernos, 4ª ed., Pearson, 2016
 
 Artigos:
 
 GERBER, F.; MÖSINGER, K.; FURRER, R.. DotCall64: An R package providing an efficient interface to compiled C, C++, and Fortran code supporting long vectors.
 SoftwareX. , n. 7 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S2352711018300785. Acesso em: 27 maio 2019.
- 
+
 
 
 
@@ -1246,7 +1250,7 @@ Semestre  : 4º período
 Modelagem da Arquitetura de Software; Padrões de Projeto; Formas de documentação do projeto e boas práticas de codificação;
 Engenharia de Software; Padrões de Projeto; Princípios da responsabilidade única, princípio do aberto/fechado, princípio da substituição de Liskov, da segregação de interface e da inversão de dependência. Refatoração de código. Estratégias de testes automatizados de software: testes de interface, testes de integração, testes funcionais e testes de aceitação; Métricas estáticas de controle de qualidade. Dívida técnica.  Decisão de projeto baseada em dados; Produtividade de times de software. Alinhamento dos projetos de software com as estratégias de negócios; Estimativas de custos de projetos: de mão-de-obra e arquitetura. Práticas Ágeis aplicadas ao desenvolvimento de software (Pair Programming, Code review); Papel e responsabilidade de um líder de projeto; Habilidades e características importantes para liderar equipes ágeis em projetos complexos.
 
-## Objetivos: 
+## Objetivos:
 
 Ao final da disciplina o aluno será capaz de:
 
@@ -1298,17 +1302,17 @@ MARTIN ROBERT. C, MICHAEL C. FEATHERS, TIMOTHY R. OTTINGER. Clean Code: A Handbo
 
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
-SUTHERLAND, JEFF. SCRUM: a arte de fazer o dobro do trabalho na metade do tempo, 2019. 
+SUTHERLAND, JEFF. SCRUM: a arte de fazer o dobro do trabalho na metade do tempo, 2019.
 
 VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtitivdade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
 
-WINTERS, TITUS, TOM MANSHREK, HYRUM WRIGHT. Software Engineering at Google. O’Reilly’s  Media, Inc, 2020. 
+WINTERS, TITUS, TOM MANSHREK, HYRUM WRIGHT. Software Engineering at Google. O’Reilly’s  Media, Inc, 2020.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 1. GAMMA, ERICH, RICHARD HELM e outros. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos, 2000.
 1. GREEVER, TOM.Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário, 2021.
-1. RIGBY DARREL, SARAH ELK e outros. Ágil do Jeito Certo: Transformação sem caos. Edição Português, 2020. 
-	
+1. RIGBY DARREL, SARAH ELK e outros. Ágil do Jeito Certo: Transformação sem caos. Edição Português, 2020.
+
 
 
 
@@ -1346,7 +1350,7 @@ Ao final do curso, o aluno deve ser capaz de:
 
 ## Conteúdo Programático
 
-1.	Revisão de algoritmos clássicos e notação assintótica 
+1.	Revisão de algoritmos clássicos e notação assintótica
 2.	Análise de correção por invariantes.
 3.	Análise de correção por indução.
 4.	Estratégias para análise precisa de caso médio.
@@ -1360,7 +1364,7 @@ Ao final do curso, o aluno deve ser capaz de:
 4. Projeto de testes.
 
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 5.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 6.	SEDGEWICK, R. Algorithms in C, Part 5: Graph Algorithms, 3rd ed. Addison-Wesley, 2001.
@@ -1370,8 +1374,8 @@ Ao final do curso, o aluno deve ser capaz de:
 7.	SANCHEZ-ORO, J.; DUARTE, A. Iterated Greedy algorithm for performing community detection in social networks. Future Generation Computer Systems, v. 88, págs 785-791, 2018.
 
 
-  
-## Bibliografia Complementar 
+
+## Bibliografia Complementar
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
 2.	SKIENA, S. S.; REVILLA, M. A. Programming Challenges: The Programming Contest Training Manual. Springer, 2003.
@@ -1435,15 +1439,15 @@ Ao final da disciplina o estudante será capaz de:
 
 Livros:
 
-1.	SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S, Sistema de Banco de Dados, 6ª ed., Campus Elsevier, 2012 
+1.	SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S, Sistema de Banco de Dados, 6ª ed., Campus Elsevier, 2012
 2.	OLIVEIRA, C. H. P, SQL: Curso Prático, Novatec, 2002
 3.	RIBEIRO-NETO, B.; BAEZA-YATES, R. , Recuperação de Informação - Conceitos e Tecnologia Das Máquinas de Busca, 2ª ed., Bookman, 2013
 
 Artigos:
 
-ASSUNÇÃO, M. D. et al.. Big data computing and clouds: trends and future directions.. J. Parallel and Distributed Computing. , p. 3-15 , 2015. 
+ASSUNÇÃO, M. D. et al.. Big data computing and clouds: trends and future directions.. J. Parallel and Distributed Computing. , p. 3-15 , 2015.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 Livros:
 
@@ -1456,12 +1460,12 @@ Livros:
 Artigos:
 
 ZAHARIA, M. et al.. Resilient distributed datasets: a fault-tolerant abstraction for in-memory cluster computing.. Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation. , 2012.
- 
+
 
 \newpage
 
 
-# AI Startup 
+# AI Startup
 
 ## Ementa
 
@@ -1469,7 +1473,7 @@ Ciclo de adoção de técnicas de inteligência artificial e técnicas analític
 
 ## Objetivos
 
-Ao final da disciplina o aluno será capaz de: 
+Ao final da disciplina o aluno será capaz de:
 
 1. Situar fenômenos de inovação, e antecipar suas consequências como fonte de criação de valor.
 2. Ser capaz de analisar uma empresa tecnológica e definir as dinâmicas envolvidas, bem como as competências necessárias às pessoas que nelas atuam.
@@ -1543,7 +1547,7 @@ BOGERS, M., CHESBROUGH, H., MOEDAS, C.. Open innovation: research, practices, an
 
 # Jogos e Interação
 
-Carga Horária:  80 
+Carga Horária:  80
 Semestre  5º período
 
 ## Ementa
@@ -1575,11 +1579,11 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 12. Compilação e implantação de jogos em consoles.
 13. Aspectos de negócios em jogos: portfólios, processo de publishing, marketing e empresas indie de jogos.
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
-1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley , 2015 
+1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley , 2015
 2.	MARTINHO, C.; SANTOS, P.; PRADA, R., Design e Desenvolvimento de Jogos, FCA, 2014
 3.	MILES, J., Unity 3D e PlayMaker Essentials: Game Development from Concept to Publishing, CRC Press,, 2016
 
@@ -1598,7 +1602,7 @@ Livros:
 Artigos:
 
 WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A review of literature.. Entertainment Computing. , v. 4 , n. 3 , p. 143-155 , 2013.
-; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84875590999&doi=10.1016%2fj.entcom.2013.02.002&partnerID=40&md5=e7f5b9129a9fa8e7d2366 266db57d87f. Acesso em: 27 maio 2019.  
+; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84875590999&doi=10.1016%2fj.entcom.2013.02.002&partnerID=40&md5=e7f5b9129a9fa8e7d2366 266db57d87f. Acesso em: 27 maio 2019.
 
 \newpage
 
@@ -1635,13 +1639,13 @@ Ao final da disciplina o estudante será capaz de:
 8. Software como um serviço.
 9. Gestão de níveis de Serviço.
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
-1.	TANENBAUM, A. S.; VAN STEEN, M., Sistemas Distribuídos, 2ª ed., Prentice Hall Brasil, 2007 
+1.	TANENBAUM, A. S.; VAN STEEN, M., Sistemas Distribuídos, 2ª ed., Prentice Hall Brasil, 2007
 2.	KAVIS, M., Architecting the Cloud:  Design Decisions for Cloud Computing Service Models , Wiley, 2014
-3.	TANENBAUM, A. S; Wetherall, D. J. , Redes de Computadores, 5ª ed., Pearson Prentice Hall, 2011 
+3.	TANENBAUM, A. S; Wetherall, D. J. , Redes de Computadores, 5ª ed., Pearson Prentice Hall, 2011
 Artigos:
 NOOR, T. H. et al.. Mobile cloud computing: Challenges and future research directions.. Journal of Network and Computer Applications. , v. 115 , p. 70-75 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804518301504. Acesso em: 27 maio 2019.
 
@@ -1650,14 +1654,14 @@ NOOR, T. H. et al.. Mobile cloud computing: Challenges and future research direc
 Livros:
 
 1.	PATTERSON, D.; FOX, A. , Engineering Software as a Service: An Agile Approach Using Cloud Computing, 3ª ed., LLC Press, 2013
-2.	ERL, T.; PUTTINI, R.; MAHMOOD, Z. , Cloud Computing: Concepts, Technology & Architecture, Prentice Hall, 2013 
+2.	ERL, T.; PUTTINI, R.; MAHMOOD, Z. , Cloud Computing: Concepts, Technology & Architecture, Prentice Hall, 2013
 3.	JACKSON, K.; BUNCH, C.; SIGLER, E. , Openstack Cloud Computing Cookbook., 3ª ed., Packt Publishing, 2015
 4.	PORTNOY, M., Virtualization Essentials, 2ª ed., John Wiley, 2016
 5.	 GENG, H. , Datacenter Handbook, John Wiley, 2015
 
 Artigos:
 
-AI, Y.; PENG, M.; ZHANG, K.. Edge computing technologies for Internet of Things: a primer.. Digital Communications and Networks. , v. 4 , n. 2 , p. 77-86 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S2352864817301335 . Acesso em: 27 maio 2019. 
+AI, Y.; PENG, M.; ZHANG, K.. Edge computing technologies for Internet of Things: a primer.. Digital Communications and Networks. , v. 4 , n. 2 , p. 77-86 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S2352864817301335 . Acesso em: 27 maio 2019.
 
 
 
@@ -1699,19 +1703,19 @@ Condução de projetos em Computação. Desenvolvimento de planejamento, prototi
 6. Elaboração de relatório técnico-científico
 7. Apresentação de resultados da etapa a stakeholders e avaliadores
 
-## Bibliografia Básica 
+## Bibliografia Básica
 
 Livros:
 
 1.	BASTOS, C. L. Aprendendo a Aprender: Introdução à Metodologia Cientifica. 24. ed. Petrópolis: Vozes 2012
-2.	ULRICH, K. T., EPPINGER, S. D. Product Design and Development, McGraw-Hill Education, 5 edição, ISBN: 78-0073404776, 2011 
-3.	RIES, M., SUMMERS, D. Agile Project Management: A Complete Beginner's Guide to Agile Project Management, CreateSpace Independent Publishing Platform, ISBN-13: 978-1539877301, 2016 
+2.	ULRICH, K. T., EPPINGER, S. D. Product Design and Development, McGraw-Hill Education, 5 edição, ISBN: 78-0073404776, 2011
+3.	RIES, M., SUMMERS, D. Agile Project Management: A Complete Beginner's Guide to Agile Project Management, CreateSpace Independent Publishing Platform, ISBN-13: 978-1539877301, 2016
 
 Artigo:
 
 HUNDHAUSEN, C. Special Issue on Capstone Projects. ACM Transactions on Computing Education. v. 18, n. 2, 2018. Disponível em < https://dl.acm.org/citation.cfm?id=3239167  >. Acesso em: 27 maio 2019.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 
 Livros:
@@ -1725,9 +1729,3 @@ Livros:
 Artigo:
 
 FRANCHETTI, M., ARISS, S. S., The Implementation of Senior Design Capstone Projects Combining Engineering and Business Students. Journal of STEM Education, v. 17, n. 4, 2016. Disponível em < https://www.jstem.org/index.php/JSTEM/article/view/2163 >. Acesso em: 27 maio 2019.
-
-
- 
-
-
-
