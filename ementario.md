@@ -1123,9 +1123,9 @@ Lógica proposicional e de predicados; Teoria da Computabilidade; Decidibilidade
 Ao final da disciplina o aluno será capaz de:
 
 1. Especificar uma gramática para reconhecer uma linguagem de interesse.
-2. Saber programar e gerar o diagrama explicativo de um a	utômato que implementa uma gramática.
+2. Programar e gerar o diagrama explicativo de um autômato que implementa uma gramática.
 3. Especificar um analisador léxico por meio de expressões regulares.
-4. Compreender os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
+4. Explicar os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
 5. Entender todos os passos necessários à compilação de programas.
 
 ## Conteúdo Programático
