@@ -543,7 +543,7 @@ Funções de Rn em R:
 3. Limites e continuidade.
 4. Derivadas parciais e interpretação geométrica; derivadas direcionais; derivadas de ordens superiores.
 5. Vetor gradiente: interpretação e cálculo.
-6. Plano tangente e reta normal; diferencia
+6. Plano tangente e reta normal; diferencial
 
 
 
