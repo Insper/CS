@@ -830,8 +830,8 @@ Lógica proposicional; lógica de predicados e quantificadores; relações lógi
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Aprender a representar conhecimento através de lógica proposicional
-2.	Aprender a derivar sentenças verdadeiras a partir de um conjunto de proposições
+1.	Representar conhecimento através de lógica proposicional
+2.	Derivar sentenças verdadeiras a partir de um conjunto de proposições
 3.	Aplicar lógica de predicados para representar relações mais complexas
 4.	Raciocinar de forma matemática sobre predicados lógicos
 5.	Entender limitações computacionais de sistemas provadores de teoremas
