@@ -181,7 +181,7 @@ Projeto de Sistemas Complexos:
 1. Utilizar as linguagens, frameworks e arquiteturas apresentadas na disciplina a fim de implementar sistemas web;
 2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP enviando requests e tratando responses;
 3. Utilizar as linguagens, frameworks e arquiteturas para resolver problemas reais dos usuários por meio da web;
-4. Compreender como assuntos da fronteira da computação podem ser usados para resolução de um problema real;
+4. Relacionar assuntos da fronteira da computação como soluções para um problema real;
  
 ## Conteúdo programático
 
