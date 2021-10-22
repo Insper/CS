@@ -586,9 +586,9 @@ Ao final da disciplina o aluno será capaz de:
 3.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
 4.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
 5.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
-6.	Familiarizar-se com uma base de código pré-existente e entendê-la a ponto de fazer intervenções
+6.	Analizar uma base de código pré-existente e propor intervenções
 7.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
-8.	Dentre um conjunto de requisitos identificar quais são funcionais e quais são não funcionais
+8.	Classificar requisitos como funcionais ou não-funcionais
 
 ## Conteúdo Programático
 
