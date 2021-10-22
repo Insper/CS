@@ -1261,7 +1261,7 @@ Ao final da disciplina o aluno será capaz de:
 5.	Entender e identificar padrões de projeto
 6.	Definir quais práticas ágeis são adequadas para cada necessidade de projeto
 7.	Aplicar as práticas ágeis em seus projetos
-8.	Garantir e mensurar a qualidade do código
+8.	Medir e favorecer a qualidade do código
 9.	Identificar e gerir Dívida Técnica
 10.	Definir estratégias e métricas que suportem a tomada de decisão baseada em dados
 11.	Utilizar data driven como forma de tomada de decisão do projeto e da equipe
