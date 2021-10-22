@@ -389,7 +389,7 @@ Ao final da disciplina o estudante será capaz de:
 1. Implementar um computador digital simples a partir de componentes eletrônicos.
 2. Integrar as camadas de programação e execução de um computador simples.
 3. Trabalhar de forma colaborativa no desenvolvimento de um sistema computacional.
-4. Compreender a evolução da informática.
+4. Explicar a evolução da informática.
 5. Descrever como dados e instruções são armazenados e tratados em computadores.
 6. Entender questões relacionadas a desempenho,  operação e manutenção de sistemas digitais
 
