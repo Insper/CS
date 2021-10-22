@@ -223,7 +223,7 @@ Projeto de Sistemas Complexos:
 4. Modelo Model-View-Controller usando framework Django
 5. Camada de comunicação entre back-end servidor e banco de dados
 6. Geração de páginas web usando Templates
-7. Tópicos introdutórios de assutos avançados como IA, Machine Learning, Processamento de sinais e imagens.
+7. Tópicos introdutórios de assuntos avançados como IA, Machine Learning, Processamento de sinais e imagens.
 
 
 ## Bibliografia básica
