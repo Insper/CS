@@ -646,7 +646,7 @@ Ao final do curso, o aluno deve ser capaz de...
 5.	Relacionar pixels a formas e contornos
 6.	Identificar casos de complexidade linear e quadrática e expressá-la usando notação assintótica
 7.	Resolver problemas computacionais que exijam representação com matrizes
-8.	Trabalhar com arquivos, diferentes tipos de representação e diferentes tipos de acesso
+8.	Carregar e salvar arquivos com diferentes tipos de representação e diferentes tipos de acesso
 9.	Expressar alocação de recursos e liberação após o uso em uma linguagem de programação
 10.	Escrever algoritmos simples de busca e comparação de cadeias de caracteres
 11.	Resolver problemas simples com busca e backtracking
