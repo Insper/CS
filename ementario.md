@@ -1116,31 +1116,47 @@ Semestre  : 4º período
 
 ## Ementa
 
-Lógica proposicional e de predicados; Teoria da Computabilidade; Decidibilidade e Intratabilidade; Máquina de Turing; Hierarquia de Chomsky; Gramáticas e reconhecedores (autômatos) para linguagens regulares, livres de contexto, sensíveis a contexto e recursivamente enumeráveis; Forma normal de Backus-Naur; Analisadores léxicos, sintáticos e semântico; Compiladores.
+Fundamentos de linguagem formais; Hierarquia de Chomsky; linguagens regulares; linguagens livres de contexto; aplicações em compiladores e interpretadores; linguagens sensíveis ao contexto; linguagens enumeráveis; computabilidade e modelos de computação; Modelo de Turing;  decidibilidade e enumerabilidade; complexidade; classes de complexidade; modelos não-convencionais de computação.  
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Especificar uma gramática para reconhecer uma linguagem de interesse.
-2. Saber programar e gerar o diagrama explicativo de um a	utômato que implementa uma gramática.
-3. Especificar um analisador léxico por meio de expressões regulares.
-4. Compreender os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
-5. Entender todos os passos necessários à compilação de programas.
+1. Transformar problemas computacionais em problemas de linguagens formais
+2. Avaliar computabilidade de problemas
+3. Avaliar complexidade de problemas
+4. Propor estratégias para abordar a intratabilidade de problemas
+5. Reconhecer limites do Modelo de Computação de Turing e propor estratégias de computação não-convencionais
+6. Especificar e implementar reconhecedores de linguagens formais
+7. Aplicar teoria de linguagens formais no desenvolvimento de compiladores e intepretadores
 
 ## Conteúdo Programático
 
-1. Linguagens regulares e autômatos finitos
-2. Linguagens livres de contexto e autômatos de pilha
-3. Linguagens sensíveis ao contexto
-4. Linguagens recursivamente enumeráveis
-5. Máquina de Turing
-6. Decidibilidade e intratabilidade
-7. Complexidade e as classes P e NP
-8. Lógica proposicional e de predicados
-9. Compiladores
-10. Análise léxica, sintática e semântica
-11. Geração de código
+1. Alfabetos, palavras, linguagens e gramáticas
+2. Hierarquia de Chomsky
+3. Linguagens regulares e autômatos finitos
+4. Implementação de autômatos finitos
+5. Implementação de analisadores léxicos
+6. Linguagens livres de contexto e autômatos à pilha
+7. Implementação de autômatos à pilha
+8. Implementação de analisadores sintáticos
+9. Implementação de analisadores semânticos
+10. Implementação de geradores de código
+11. Linguagens sensíveis ao contexto e autômatos linearmente limitados
+12. Implementação de autômatos linearmente limitados
+13. Linguagens enumeráveis e recusivamente enumeráveis
+14. Implementação de Máquinas de Turing
+15. Modelo de Computação de Turing e a noção de computabilidade
+16. Problemas de decisão
+17. Problemas de enumeração
+18. Problema da parada e problemas não-computáveis
+19. Complexidade de problemas
+20. Classes de complexidade de tempo: P, NP, NP-completo e NP-difícil
+21. Redução de problemas NP-Completos e NP-difíceis
+22. Classe de complexidade de espaço: P-espaço, NP-espaço, NP-espaço completo e NP-espaço difícil
+23. Complexidade energética
+24. Estratégias sequenciais para problemas NP: algoritmos probabilísticos, algoritmos de aproximação, algoritmos baseados em oráculos, algoritmos paralelos
+25. Estratégias não-convencionais para problemas NP: algoritmos bioinspirados, algoritmos quânticos, algoritmos moleculares
 
 ## Bibliografia Básica
 
