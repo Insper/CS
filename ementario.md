@@ -824,34 +824,59 @@ Semestre  : 3º período
 
 ## Ementa
 
-Lógica proposicional; lógica de predicados e quantificadores; relações lógicas e tabela verdade; regras de dedução; leis de De Morgan; indução e recursividade; relações sobre conjuntos e o produto cartesiano; regras de inferência direta; aspectos matemáticos de sistemas provadores de teoremas; provas matemáticas por contradição; recursões, recorrências e indução; análise probabilística discreta de estruturas de dados; algoritmos aleatorizados; NP completude.
+Lógica proposicional; lógica de predicados; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações discretas; estruturas de ordem; estruturas algébricas; aplicações discretas.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Aprender a representar conhecimento através de lógica proposicional
-2.	Aprender a derivar sentenças verdadeiras a partir de um conjunto de proposições
-3.	Aplicar lógica de predicados para representar relações mais complexas
-4.	Raciocinar de forma matemática sobre predicados lógicos
-5.	Entender limitações computacionais de sistemas provadores de teoremas
-6.	Aplicar lógica para representar conhecimento
-7.	Realizar provas por contradição sobre propriedades matemáticas e computacionais
-8.	Aplicar probabilidade para analisar estruturas de dados e algoritmos
-9.	Reconhecer problemas clássicos que são NP-Completos e aplicar heurísticas e estratégias para encontrar soluções aproximadas
+1.	Representar estruturas computacionais utilizando recursos de lógica de primeira ordem
+2.	Representar estruturas computacionais utilizando recursos algébricos
+3.	Realizar provas matemáticas sobre as representações lógicas e algébricas
+4.	Enumerar elementos em representações lógicas e algébricas
+5.	Estimar cardinalidades de representaçõeslógicas e algébricas
+6.	Identificar relações discretas entre elementos de representações lógicas e algébricas
+7.	Representar estruturas de ordem advindas de relações discretas
+8.	Aplicar técnicas discretas em problemas computacionais
+
 
 ## Conteúdo Programático
 
-1.	Lógica proposicional
-2.	Tabelas verdade
-3.	Regras de dedução e leis de DeMorgan
-4.	Regras de inferência direta
-5.	Aspectos matemáticos de sistemas provadores de teoremas
-6.	Provas matemáticas por contradição
-7.	Recursões, recorrências e indução
-8.	Análise probabilística de estrutura de dados
-9.	Algoritmos aleatorizados
-10.	NP completude
+1.	Valores e operadores lógicos
+2.	Proposições e Lógica Proposicional
+3.	Inferência em Lógica Proposicional
+4.	Provadores automatizados para Lógica Proposicional
+5.	Aplicações de Lógica Proposicional
+6.	Predicados e Lógica de Predicados
+7.	Inferência em Lógica de Predicados
+8.	Provadores automatizados para Lógica Proposicional
+9.	Aplicações de Lógica de Predicados
+10.	Provas diretas e por negação
+11.	Provas por redução ao absurdo
+12.	Provas por indução finita
+13.	Conjuntos discretos
+14.	Operações entre conjuntos
+15.	Leis de DeMorgan
+16.	Aplicações de teoria de conjuntos
+17.	Conjunto dos números naturais e inteiros com propriedades
+18.	Conjunto dos números racionais e reais com propriedades
+19.	Conjunto dos números complexos e hipercomplexos com propriedades
+20.	Cardinalidade de conjuntos numéricos e números finitos e transfinitos
+21.	Aplicações de conjuntos numéricos
+22.	Técnicas de enumeração de conjuntos numéricos
+23.	Técnicas de contagem em conjuntos numéricos
+24.	Contagem indutiva e relações de recorrência
+25.	Aplicações de enumeração e contagem em análise de algoritmos
+26.	Tipos de relações discretas
+27.	Relações de igualdade e de equivalência
+28.	Relações de ordem
+29.	Conjuntos parcialmente e totalmente ordenados
+30.	Reticulados
+31.	Aplicações de relações discretas e estruturas de ordem
+32.	Fundamentos de teoria de grupos
+33.	Fundamentos de teoria de corpos
+34.	Aplicações de grupos e corpos
+
 
 ## Bibliografia Básica
 
