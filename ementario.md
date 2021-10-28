@@ -774,11 +774,11 @@ Ao final do curso, o aluno deve ser capaz de
 
 1. Aplicar conceitos de espaços vetoriais para a descrição e manipulação de objetos
 2. Resolver problemas de geometria espacial envolvendo conceitos de espaços vetoriais
-3. Avaliar e resolver sistemas de equações lineares
+3. Avaliar e resolver computacionalmente sistemas de equações lineares
 4. Interpretar e analisar transformações lineares
-5. Aplicar a decomposição em valores singulares
+5. Aplicar a decomposição em valores singulares em problemas computacionais
 6. Explicar as noções de informação e codificação
-7. Aplicar métodos de compressão e de correção de erro
+7. Aplicar métodos de compressão de informação e de correção de erro
 
 
 Conteúdo Programático:
