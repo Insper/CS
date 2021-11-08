@@ -7,6 +7,12 @@
 
 \newpage
 
+** Objetivos: Ciência de Dados/IA **
+
+1. (Análise) Realizar análises exploratórias em dados, descrevendo sistematicamente seu conteúdo;
+2. (Análise) Propor e validar modelos matemáticos correspondentes a situações do mundo real, atuando em processos de tomada de decisão;
+3. (Aplicação) Implementar provas de conceito de modelos computacionais, incluindo seu ajuset (fit) e avaliação;
+4. (Análise) Mostrar dados e resultados de inferências usando diferentes mídias, de forma a atingir diferentes públicos-alvo (desenvolvedores, clientes, público geral).
 
 - [Experiência como Desenvolvedor - Developer Life](#experi-ncia-como-desenvolvedor---developer-life)
   * [Ementa](#ementa)
@@ -457,17 +463,17 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático
 
-1. Variáveis quantitativas e qualitativas.
-2. Medidas resumo, centralidade e dispersão.
-3. Diagramas e recursos gráficos.
-4. Introdução ao ambiente de tratamento de dados.
-5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção.
-6. Análise bidimensional.
-7. Teoria da probabilidade.
-8. Introdução à classificação.
-9. Variáveis e distribuições discretas e contínuas.
-10. Inferência estatística e por reamostragem.
-11. Regressão linear simples e múltipla.
+1. Variáveis quantitativas e qualitativas. (1)
+2. Medidas resumo, centralidade e dispersão. (1)
+3. Diagramas e recursos gráficos. (4)
+4. Introdução ao ambiente de tratamento de dados. (2)
+5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. (2)
+6. Análise bidimensional. (2)
+7. Teoria da probabilidade. (2)
+8. Introdução à classificação. (3)
+9. Variáveis e distribuições discretas e contínuas. (1,3)
+10. Inferência estatística e por reamostragem. (3)
+11. Regressão linear simples e múltipla. (3)
 
 ## Bibliografia Básica
 
@@ -1041,13 +1047,13 @@ O aluno deve ser capaz de:
 
 ## Conteúdo Programático
 
-1. O aprendizado de máquina: arquitetura de solução, seleção de características, métodos de avaliação
-2. Regressão: Regressão linear, regularização, Support Vector Machines, redes neurais
-3. Classificação: Regressão logística, k-NN, árvores de decisão, boosting e métodos de ensemble
-4. Clustering e métodos não-supervisionados, análise de componentes principais.
-5. Análise de texto: análise de sentimento e modelagem de tópicos
-6. Reinforcement learning
-7. Deep learning.
+1. O aprendizado de máquina: arquitetura de solução, seleção de características, métodos de avaliação (1,3)
+2. Regressão: Regressão linear, regularização, Support Vector Machines, redes neurais (3)
+3. Classificação: Regressão logística, k-NN, árvores de decisão, boosting e métodos de ensemble (3)
+4. Clustering e métodos não-supervisionados, análise de componentes principais. (3)
+5. Análise de texto: análise de sentimento e modelagem de tópicos (2,3)
+6. Reinforcement learning (2,3)
+7. Deep learning. (3)
 
 ## Bibliografia Básica
 
@@ -1729,3 +1735,4 @@ Livros:
 Artigo:
 
 FRANCHETTI, M., ARISS, S. S., The Implementation of Senior Design Capstone Projects Combining Engineering and Business Students. Journal of STEM Education, v. 17, n. 4, 2016. Disponível em < https://www.jstem.org/index.php/JSTEM/article/view/2163 >. Acesso em: 27 maio 2019.
+
