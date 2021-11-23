@@ -830,71 +830,48 @@ Lógica proposicional; lógica de predicados; técnicas de provas; provadores au
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Representar estruturas computacionais utilizando recursos de lógica de primeira ordem
-2.	Representar estruturas computacionais utilizando recursos algébricos
-3.	Realizar provas matemáticas sobre as representações lógicas e algébricas
-4.	Enumerar elementos em representações lógicas e algébricas
-5.	Estimar cardinalidades de representaçõeslógicas e algébricas
-6.	Identificar relações discretas entre elementos de representações lógicas e algébricas
-7.	Representar estruturas de ordem advindas de relações discretas
-8.	Aplicar técnicas discretas em problemas computacionais
+1.	Representar estruturas computacionais utilizando lógica de primeira ordem
+2.	Realizar provas e inferências com estruturas de lógicas de primeira ordem
+3.	Enumerar e contar elementos em representações lógicas e algébricas
+4.	Identificar relações discretas em representações lógicas e algébricas
+5.	Aplicar técnicas discretas em problemas computacionais
 
 
 ## Conteúdo Programático
 
-1.	Valores e operadores lógicos
-2.	Proposições e Lógica Proposicional
-3.	Inferência em Lógica Proposicional
-4.	Provadores automatizados para Lógica Proposicional
-5.	Aplicações de Lógica Proposicional
-6.	Predicados e Lógica de Predicados
-7.	Inferência em Lógica de Predicados
-8.	Provadores automatizados para Lógica Proposicional
-9.	Aplicações de Lógica de Predicados
-10.	Provas diretas e por negação
-11.	Provas por redução ao absurdo
-12.	Provas por indução finita
-13.	Conjuntos discretos
-14.	Operações entre conjuntos
-15.	Leis de DeMorgan
-16.	Aplicações de teoria de conjuntos
-17.	Conjunto dos números naturais e inteiros com propriedades
-18.	Conjunto dos números racionais e reais com propriedades
-19.	Conjunto dos números complexos e hipercomplexos com propriedades
-20.	Cardinalidade de conjuntos numéricos e números finitos e transfinitos
-21.	Aplicações de conjuntos numéricos
-22.	Técnicas de enumeração de conjuntos numéricos
-23.	Técnicas de contagem em conjuntos numéricos
-24.	Contagem indutiva e relações de recorrência
-25.	Aplicações de enumeração e contagem em análise de algoritmos
-26.	Tipos de relações discretas
-27.	Relações de igualdade e de equivalência
-28.	Relações de ordem
-29.	Conjuntos parcialmente e totalmente ordenados
-30.	Reticulados
-31.	Aplicações de relações discretas e estruturas de ordem
-32.	Fundamentos de teoria de grupos
-33.	Fundamentos de teoria de corpos
-34.	Aplicações de grupos e corpos
+1.	Cálculo proposicional: representação, inferência e aplicações
+2.	Cálculo de Predicados: representação, inferência e aplicações
+3. Provadores automatizados para Cálculo Proposicional e de Predicados
+4.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
+5.	Conjuntos discretos: representação, operações, propriedades
+6. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
+7.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
+8.	Técnicas de enumeração e contagem diretas, aplicações
+9.	Contagem indutiva, relações de recorrência e aplicações
+10.	Relações discretas e aplicações
+11.	Conjuntos parcialmente e totalmente ordenados, reticulados e aplicações
+12. Estruturas algébricas (grupos e corpos) e aplicações
 
 
 ## Bibliografia Básica
-
+Livros:
 1.	STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. Editora Pearson, 2013.
 2.	GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação: Um Tratamento Moderno de Matemática Discreta, 7ª ed., Editora LTC, 2016.
 3.	SILVA, Flávio S.C.; Finger, M.; de Melo, Ana C.V. Lógica para Computação, 2a. ed. Ed. Cengage Learning, 2017.
 
-
+Artigo:
+NICKERSON, R. Counting, Computing, and the Representation of Numbers. Human Factors The Journal of the Human Factors and Ergonomics Society 30(2), pp. 181-199, 1988.
 
 ## Bibliografia Complementar
-
+Livros:
 1.	GRAHAM, R.; KNUTH, D.; PATASHNIK, O. Concrete Mathematics: A Foundation for Computer Science. 2 ed. Ed. Addison-Wesley 1994.
 2.	MENDELSON, E. Introduction to Mathematical Logic (Discrete Mathematics and Its Applications). 6 ed. Ed. CRC Press, 2015.
 3.	VELLEMAN, D. How to Prove It: A Structured Approach. 3 ed. Ed. Cambridge University Press, 2019.
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
- 
 
+Artigo: 
+GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010. 
  
 \newpage
 
