@@ -824,41 +824,44 @@ Semestre  : 3º período
 
 ## Ementa
 
-Lógica proposicional; lógica de predicados e quantificadores; relações lógicas e tabela verdade; regras de dedução; leis de De Morgan; indução e recursividade; relações sobre conjuntos e o produto cartesiano; regras de inferência direta; aspectos matemáticos de sistemas provadores de teoremas; provas matemáticas por contradição; recursões, recorrências e indução; análise probabilística discreta de estruturas de dados; algoritmos aleatorizados; NP completude.
+Lógica proposicional; lógica de predicados; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações discretas; estruturas de ordem; estruturas algébricas; aplicações discretas.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Aprender a representar conhecimento através de lógica proposicional
-2.	Aprender a derivar sentenças verdadeiras a partir de um conjunto de proposições
-3.	Aplicar lógica de predicados para representar relações mais complexas
-4.	Raciocinar de forma matemática sobre predicados lógicos
-5.	Entender limitações computacionais de sistemas provadores de teoremas
-6.	Aplicar lógica para representar conhecimento
-7.	Realizar provas por contradição sobre propriedades matemáticas e computacionais
-8.	Aplicar probabilidade para analisar estruturas de dados e algoritmos
-9.	Reconhecer problemas clássicos que são NP-Completos e aplicar heurísticas e estratégias para encontrar soluções aproximadas
+1.	Representar estruturas computacionais utilizando lógica de primeira ordem
+2.	Realizar provas e inferências com estruturas de lógicas de primeira ordem
+3.	Enumerar e contar elementos em representações lógicas e algébricas
+4.	Identificar relações discretas em representações lógicas e algébricas
+5.	Aplicar técnicas discretas em problemas computacionais
 
 ## Conteúdo Programático
 
-1.	Lógica proposicional
-2.	Tabelas verdade
-3.	Regras de dedução e leis de DeMorgan
-4.	Regras de inferência direta
-5.	Aspectos matemáticos de sistemas provadores de teoremas
-6.	Provas matemáticas por contradição
-7.	Recursões, recorrências e indução
-8.	Análise probabilística de estrutura de dados
-9.	Algoritmos aleatorizados
-10.	NP completude
+1.	Cálculo proposicional: representação, inferência e aplicações
+2.	Cálculo de Predicados: representação, inferência e aplicações
+3. Provadores automatizados para Cálculo Proposicional e de Predicados
+4.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
+5.	Conjuntos discretos: representação, operações, propriedades
+6. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
+7.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
+8.	Técnicas de enumeração e contagem diretas, aplicações
+9.	Contagem indutiva, relações de recorrência e aplicações
+10.	Relações discretas e aplicações
+11.	Conjuntos parcialmente e totalmente ordenados, reticulados e aplicações
+12. Estruturas algébricas (grupos e corpos) e aplicações
 
 ## Bibliografia Básica
+
+Livros:
 
 1.	STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. Editora Pearson, 2013.
 2.	GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação: Um Tratamento Moderno de Matemática Discreta, 7ª ed., Editora LTC, 2016.
 3.	SILVA, Flávio S.C.; Finger, M.; de Melo, Ana C.V. Lógica para Computação, 2a. ed. Ed. Cengage Learning, 2017.
 
+Artigo:
+
+NICKERSON, R. Counting, Computing, and the Representation of Numbers. Human Factors The Journal of the Human Factors and Ergonomics Society 30(2), pp. 181-199, 1988.
 
 
 ## Bibliografia Complementar
@@ -869,6 +872,9 @@ Ao final do curso, o aluno deve ser capaz de:
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
  
+ Artigo:
+ 
+GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010. 
 
  
 \newpage
