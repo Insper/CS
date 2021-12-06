@@ -824,32 +824,36 @@ Semestre  : 3º período
 
 ## Ementa
 
-Lógica proposicional; lógica de predicados; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações discretas; estruturas de ordem; estruturas algébricas; aplicações discretas.
+Lógica proposicional; lógica de predicados; máquinas de turing; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações e funções discretas; funções computáveis; aplicações discretas.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Representar estruturas computacionais utilizando lógica de primeira ordem
-2.	Realizar provas e inferências com estruturas de lógicas de primeira ordem
-3.	Enumerar e contar elementos em representações lógicas e algébricas
-4.	Identificar relações discretas em representações lógicas e algébricas
-5.	Aplicar técnicas discretas em problemas computacionais
+1.	Produzir abstrações domínios de problemas e representá-las utilizando lógica de primeira ordem
+2.	Reconhecer limites de computabilidade em domínios 
+3.	Realizar inferências e provas em domínios 
+4.	Enumerar e contar elementos de domínios
+5.	Identificar relações e funções discretas entre elementos de domínios 
 
 ## Conteúdo Programático
 
 1.	Cálculo proposicional: representação, inferência e aplicações
 2.	Cálculo de Predicados: representação, inferência e aplicações
 3. Provadores automatizados para Cálculo Proposicional e de Predicados
-4.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
-5.	Conjuntos discretos: representação, operações, propriedades
-6. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
-7.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
-8.	Técnicas de enumeração e contagem diretas, aplicações
-9.	Contagem indutiva, relações de recorrência e aplicações
-10.	Relações discretas e aplicações
-11.	Conjuntos parcialmente e totalmente ordenados, reticulados e aplicações
-12. Estruturas algébricas (grupos e corpos) e aplicações
+4. Máquinas de Turing e a noção de algoritmo
+5. Especificação axiomática e operacional de Máquinas de Turing
+6.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
+7.	Conjuntos discretos: representação, operações, propriedades
+8. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
+9.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
+10.	Técnicas de enumeração e contagem diretas, aplicações
+11.	Contagem indutiva, relações de recorrência e aplicações
+12.	Relações e funções discretas e aplicações
+13.	Funções discretas computáveis
+
+
+
 
 ## Bibliografia Básica
 
