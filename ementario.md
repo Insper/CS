@@ -81,7 +81,7 @@
   * [Objetivos](#objetivos-12)
   * [Conteúdo Programático](#conte-do-program-tico-8)
   * [Bibliografia Básica](#bibliografia-b-sica-10)
-- [Teoria da Computação e Linguagens Formais](#teoria-da-computa--o-e-linguagens-formais)
+- [Linguagens e Paradigmas](#linguagens-e-paradigmas)
   * [Ementa](#ementa-12)
   * [Objetivos](#objetivos-13)
   * [Conteúdo Programático](#conte-do-program-tico-9)
@@ -1110,7 +1110,7 @@ SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v
 
 
 \newpage
-# Teoria da Computação e Linguagens Formais
+# Linguagens e Paradigmas
 
 Carga Horária:  80
 
@@ -1118,39 +1118,39 @@ Semestre  : 4º período
 
 ## Ementa
 
-Lógica proposicional e de predicados; Teoria da Computabilidade; Decidibilidade e Intratabilidade; Máquina de Turing; Hierarquia de Chomsky; Gramáticas e reconhecedores (autômatos) para linguagens regulares, livres de contexto, sensíveis a contexto e recursivamente enumeráveis; Forma normal de Backus-Naur; Analisadores léxicos, sintáticos e semântico; Compiladores.
+Fundamentos de linguagens formais. Sintaxe e semântica de linguagens. Linguagens regulares. Linguagens livres de contexto. Paradigma imperativo. Paradigma estruturado. Paradigma funcional. Compiladores e interpretadores.
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Especificar uma gramática para reconhecer uma linguagem de interesse.
-2. Saber programar e gerar o diagrama explicativo de um a	utômato que implementa uma gramática.
-3. Especificar um analisador léxico por meio de expressões regulares.
-4. Compreender os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
-5. Entender todos os passos necessários à compilação de programas.
+1. Analisar a sintaxe e semântica de linguagens 
+2. Especificar sintaxe e semântica de linguagens 
+3. Estruturar programas nos paradigmas imperativo, estruturado e funcional
+4. Implementar compiladores e interpretadores de linguagens
+5. Aplicar compiladores e interpretadores em diversos contextos
 
 ## Conteúdo Programático
 
-1. Linguagens regulares e autômatos finitos
-2. Linguagens livres de contexto e autômatos de pilha
-3. Linguagens sensíveis ao contexto
-4. Linguagens recursivamente enumeráveis
-5. Máquina de Turing
-6. Decidibilidade e intratabilidade
-7. Complexidade e as classes P e NP
-8. Lógica proposicional e de predicados
-9. Compiladores
-10. Análise léxica, sintática e semântica
-11. Geração de código
+1. Fundamentos de linguagens formais: alfabetos, palavras, linguagens e palavras
+2. Hierarquia de Chomsky
+3. Sintaxe de linguagens: operacional, axiomática e denotacional
+4. Semântica de linguagens: operacional, axiomática e denotacional
+5. Linguagens regulares: propriedades, gramáticas, expressões regulares e autômatos finitos, aplicações
+6. Linguagens livres de contexto: propriedades, gramáticas, expressões regulares e autômatos à pilha, aplicações
+7. Paradigma imperativo: statements e fluxos, estudo comparado de linguagens imperativas
+8. Paradigma estruturado: funções, procedimentos, módulos, estudo comparado de linguagens estruturadas
+9. Paradigma funcional: cálculo lambda, abstrações, aplicações, composições, tipos algébricos, lazy evaluation, estudo comparado de linguagens funcionais
+10. Estrutura e implementação de interpretadores: análise léxica, análise sintática, análise semântica, máquinas virtuais
+11. Estrutura e implementação de compiladores: análise léxica, análise sintática, análise semântica, geração de código intermediário, análise de fluxo e sobrevivência, alocação de registradores, geração de código
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
-2.	BOOLOS, G. S.; BURGESS, J. P.; JEFFREY, R. C., Computabilidade e Lógica, 1ª ed., Unesp, 2012
-3.	AHO, A.V.; LAM, M. S.; SETHI, R.; ULLMAN, J., Compiladores: Princípios, Técnicas e Ferramentas, 2ª ed., Longman, 2007
+1.	RAMOS, M. V. M.; JOSÉ NETO, J.; VEJA, I. S., Linguagens Formais. Teoria, Modelagem e Implementação, 1ª ed., Bookman, 2009
+2.	AHO, A.V.; LAM, M. S.; SETHI, R.; ULLMAN, J., Compiladores: Princípios, Técnicas e Ferramentas, 2ª ed., Longman, 2007
+3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016
 
 Artigos:
 
@@ -1160,11 +1160,12 @@ GOOD, J.; HOWLAND, K.. Programming language, natural language? Supporting the di
 
 Livros:
 
-1.	RAMOS, M. V. M.; JOSÉ NETO, J.; VEJA, I. S., Linguagens Formais. Teoria, Modelagem e Implementação, 1ª ed., Bookman, 2009
-2.	CORMEN, Thomas H., LEISERSON; Charles E., RIVEST; Ronald L., STEIN, Clifford., Algoritmos: teórica e prática., 3ª ed., Elsevier-Campus., 2012
+1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
+2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017. 
 3.	HOPCROFT, J. E.; ULLMAN, J. D; MOTWANU, R., Introdução à Teoria dos Autômatos, Linguagens e Computação, 1ª ed., CAMPUS, 2002
-4.	 SIPSTER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
-5.	SILVA, F. C.; FINGER, M.; MELO, A. C. V., Lógica para Computação, 2ª ed., Cengage, 2017
+4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
+5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
+
 
 Artigos:
 
