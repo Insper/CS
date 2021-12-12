@@ -1338,63 +1338,51 @@ Semestre  5º período
 
 ## Ementa
 
-Invariantes; indução; análise probabilística; análise amortizada; limitantes inferiores e superiores; Teorema Mestre; algoritmos gulosos; simulação de recursão com pilhas; adição de memoização; treap; union-find; árvores geradoras mínimas; fluxo máximo e corte mínimo; polinomialidade; pseudopolinomialidade; certificados; redução; problemas NP-completos e NP-difíceis.
-
+Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos determinísticos. Análise de algoritmos probabilísticos. Análise de programação dinâmica. Análise de algoritmos gulosos. Análise de complexidades de problemas. Classes de complexidade. Algoritmos aproximativos. Algoritmos baseados em oráculos. Maratonas de programação. Entrevistas técnicas. 
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Aplicar estratégias clássicas de projeto de algoritmos.
-2.	Aplicar estratégias clássicas de análise de algoritmos.
-3.	Analisar a correção de algoritmos procedurais.
-4.	Analisar a correção de algoritmos recursivos.
-5.	Avaliar a complexidade de algoritmos.
-6.	Avaliar a tratabilidade de problemas.
-1. Identificar ambiguidades e pontos vagos na descrição de um problema;
-2. Projetar e implementar uma solução técnica eficiente para problemas típicos de entrevistas técnicas de programação;
-3. Descrever o processo de elaboração da solução e identificar a sua complexidade computacional.
+1.	Projetar, implementar e analisar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos
+2.	Reconhecer problemas em classes de complexidade de espaço e tempo
+3.	Projetar, implementar e analisar algoritmos para problemas intratáveis
+4.	Entender a estrutura e participar de maratonas de programação
+5.	Entender a estrutura e participar de entrevistas técnicas de programação
 
 ## Conteúdo Programático
 
-1.	Revisão de algoritmos clássicos e notação assintótica
-2.	Análise de correção por invariantes.
-3.	Análise de correção por indução.
-4.	Estratégias para análise precisa de caso médio.
-5.	Estratégias para análise precisa de algoritmos recursivos.
-6.	Estratégias para otimização de algoritmos recursivos.
-7.	Estruturas de dados avançadas.
-8.	Algoritmos clássicos de otimização combinatória.
-9.	Avaliação de complexidade.
-10.	Avaliação de tratabilidade.
-3. Conceitos e algoritmos: manipulação de bits, desafios de lógica e matemática, recursão, programação dinâmica, ordenação e busca;
-4. Projeto de testes.
+1.	Descrição formal de algoritmos: Lógica de Floyd-Hoare, pré-condições, invariantes e pós-condições
+2.	Notação assintóticas: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+3.	Análise de algoritmos determinísticos: algoritmos iterativos e recursivos, análise de algoritmos iterativos e recursivos clássicos para ordenação e busca
+4.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
+5.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
+6.	Análise de algoritmos gulosos: problemas com estrutura de matróides, algoritmos gulosos, análise de algoritmos gulosos
+7.	Análise de complexidade de problemas: problemas como linguagens, problemas e Máquinas de Turing, contagem de tempo e espaço em Máquinas de Turing
+8.	Classes de complexidade: complexidade de tempo (P, NP, NP-completo, NP-difícil) e espaço (P-espaço, NP-espaço, NP-espaço completo, NP-espaço difícil), redução entre classes de complexidade
+9.	Algoritmos aproximativos: raio de aproximação, técnicas clássicas de aproximação, análise de algoritmos aproximativos
+10.	Algoritmos baseados em oráculos: sistemas interativos, oráculos, classes de complexidade em interação, análise de algoritmos baseados em oráculos
+11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
+12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
 
 ## Bibliografia Básica
 
-5.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
-6.	SEDGEWICK, R. Algorithms in C, Part 5: Graph Algorithms, 3rd ed. Addison-Wesley, 2001.
-1.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015
-2.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., , 2013
-3.	SKIENA, S. S.; REVILLA, M. A., Programming Challenges: The Programming Contest Training Manual, Springer-Verlag, 2003
-7.	SANCHEZ-ORO, J.; DUARTE, A. Iterated Greedy algorithm for performing community detection in social networks. Future Generation Computer Systems, v. 88, págs 785-791, 2018.
-
+1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
+2.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016 
+3.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015
+4.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., , 2013
+5.	SKIENA, S. S.; REVILLA, M. A., Programming Challenges: The Programming Contest Training Manual, Springer-Verlag, 2003
 
 
 ## Bibliografia Complementar
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
-2.	SKIENA, S. S.; REVILLA, M. A. Programming Challenges: The Programming Contest Training Manual. Springer, 2003.
-3.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
-4.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
-5.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
-1.	POUNDSTONE, W., How would you move Mount Fuji?: Microsoft's cult of the puzzle, how the world's smartest companies select the most creative Thinkers, Little, Brown and Company, 2004
-2.	MCDOWELL, G.L., The Google Resumé, Wiley, 2011
-3.	POUNDSTONE, W., Are you smart enough to work at Google?: Trick questions, zen-like riddles, insanely difficult puzzles, and other devious interviewing techniques you ... know to get a job anywhere in the new economy, Little, Brown and Company, 2012
-4.	AZIZ, A. et al., Elements of Programming Interviews: the insiders' guide, Createspace, 2012
-5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016 
-6.	GAI, K.; QIU, M.; LIU, M.; XIONG, Z. In-memory big data analytics under space constraints using dynamic programming. Future Generation Computer Systems, v. 83, págs 219-227, 2018.
+2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
+3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
+4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
+5.	AZIZ, A. et al., Elements of Programming Interviews: the insiders' guide, Createspace, 2012
+
 
 
 
