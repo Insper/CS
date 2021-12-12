@@ -316,59 +316,54 @@ Ao final do curso o aluno deverá ser capaz de:
 
 1. Entender e explicar as relações interdisciplinares entre ciência, tecnologia e sociedade;
 2. Comparar e prever os efeitos de diferentes escolhas tecnológicas em distintos contextos sociais e econômicos;
-3. Analisar e avaliar os usos sociais da tecnologia à luz de temas contemporâneos.
+3. 3.	Analisar e avaliar os usos sociais da tecnologia à luz de temas e debates éticos contemporâneos.
 
 ## Conteúdo Programático
 
-1. O que é ciência e método científico;
-2. Sociologia e campo científico;
-3. O que é tecnologia e sua construção social;
-4. Ética, ciência e tecnologia;
-5. Educação em direitos humanos
-6. Relações étnico-raciais e elementos de história e cultura afro-brasileira, africana e indígena
-7. Economia e inovação tecnológica;
-8. Escolhas tecnológicas e seus usos sociais.
+1.	O que são: ciência, método científico e tecnologia;
+2.	Tecnologia como construção social;
+3.	Ética, ciência e tecnologia;
+4.	Educação em direitos humanos;
+5.	Relações étnico-raciais e elementos de história e cultura afro-brasileira, africana e indígena;
+6.	Inovação tecnológica e seus dilemas éticos;
+7.	Escolhas tecnológicas e seus usos sociais.
+
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	ALVES, Rubem, Filosofia da Ciência. Introdução ao jogo e as suas regras, Loyola, 2007
-2.	COLLINS, Harry and PINCH, Trevor, O Golem: Tudo que você queria deveria saber sobre Ciência, UNESP, 2003
-3. ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019.
-4.  MOROZOV, Evgeny. Big Tech: A ascensão dos dados e a morte da política. São Paulo: Ubu Editora, 2018.
-5. 	O’Neil Cathy. Algoritmos de destruição em massa: Como o Big Data aumenta a desigualdade e ameaça a democracia. 1ª Edição – Santo André, SP. Editora Rua do Sabão, 2020.
+1.	ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019.  
+2.	MOROZOV, Evgeny. Big Tech: A ascensão dos dados e a morte da política. São Paulo: Ubu Editora, 2018.
+3.	O’Neil Cathy. Algoritmos de destruição em massa: Como o Big Data aumenta a desigualdade e ameaça a democracia. 1ª Edição – Santo André, SP. Editora Rua do Sabão, 2020.
+
 
 
 Artigos:
 
-1.	COSTA, Alda Cristina. A comunidade indígena e o mundo tecnológico: reflexões sobre os impactos das mídias sociais na vida dos Aikewára. . 3º Simpósio Hipertexto e Tecnologias da Educação. , 2010. ; Disponível em: http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Alda-Cristina-Costa.pdf. Acesso em: 27 maio 2019.
-2.	FERNANDES, João Carlos Lopes; SOUZA Mônica Maria Martins de; OLIVEIRA, Daniel de. A INCLUSÃO DIGITAL DO NEGRO NO BRASIL. Anais do IV Seminário Internacional de Integração Étnico-Racial e as Metas do Milênio in: Brasil para todos Revista Internacional sobre questões étnico-raciais.. , v. 3 , n. 1 , 2016. ; Disponível em: https://ojs.eniac.com.br/index.php/Anais_Sem_Int_Etn_Racial/article/view/364/452. Acesso em: 27 maio 2019.
-3.	GOULART, Guilherme Damásio. O impacto das novas tecnologias nos direitos humanos e fundamentais: o acesso à internet e a
-Liberdade de expressão. Revista Direitos Emergentes na Sociedade Global (RedesSG). , v. 1 , n. 1 , 2012. ; Disponível em: https://periodicos.ufsm.br/REDESG/article/view/5955/pdf_1#.W3G7qtJKiUk. Acesso em: 27 maio 2019.
+1.	COSTA, Alda Cristina. A comunidade indígena e o mundo tecnológico: reflexões sobre os impactos das mídias sociais na vida dos Aikewára. 3º Simpósio Hipertexto e Tecnologias da Educação. , 2010. ; Disponível em: [http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Alda-Cristina-Costa.pdf](http://www.nehte.com.br/simposio/anais/Anais-Hipertexto-2010/Alda-Cristina-Costa.pdf).  Acesso em:  22.11.21.
+2.	LA RUE, Frank. United Nations-General Assembly.  Report of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression. - Human Rights Council Seventeenth session - Agenda item 3: Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development, 2011. Disponível em:
+[https://digitallibrary.un.org/record/706200](https://digitallibrary.un.org/record/706200) Acesso em: 22.11.21.
+3.	SILVA, Tarcízio. Visão Computacional e Racismo Algorítmico: Branquitude e Opacidade no Aprendizado de Máquina. Revista da ABPN. v.12, n.31, dez/2019-fev/2020, pp. 428-448. Disponível em: [https://www.researchgate.net/publication/339514173_Visao_Computacional_e_Racismo_Algoritmico_Branquitude_e_Opacidade_no_Aprendizado_de_Maquina](https://www.researchgate.net/publication/339514173_Visao_Computacional_e_Racismo_Algoritmico_Branquitude_e_Opacidade_no_Aprendizado_de_Maquina)  Acesso em: 22/11/21
+
 
 ## Bibliografia Complementar
 
 Livros:
 
-1. BRUNO, Fernanda; CARDOSO, Bruno; [et al] orgs. Tecnopolíticas da vigilância. 1ª edição – São Paulo: Boitempo, 2018.  [Facilmente encontrável, mas foi disponibilizado on-line gratuitamente pelos autores em Creative Commons: https://lavits.org/livro-tecnopoliticas-da-vigilancia-da-lavits-disponivel-para-download-livre/?lang=pt ]  Último acesso em 28.09.21
-
-2. HARARI, Yuval N. 21 Lições para o século XXI.São Paulo: 1ªedição. Cia das Letras, 2018. [Facilmente encontrável; best seller]
-
-
-3.  SILVEIRA, Sergio Amadeu da; SOUZA, Joyce; AVELINO, Rodolfo. A sociedade de controle: Manipulação e modulação nas redes. 1ª edição. São Paulo: Editora Hedra, 2019. [Facilmente encontrável]
-
-4. Pretto, Nelson De Luca; SILVEIRA, Sergio Amadeu da. Além das redes de colaboração: internet, diversidade cultural e tecnologias do poder. Salvador: EDUFBA, 2008.  Facilmente encontrável, mas foi disponibilizado on-line gratuitamente pelos autores  e pela Universidade Federal da Bahia em Creative Commons:  https://repositorio.ufba.br/ri/bitstream/ufba/211/4/Alem%20das%20redes%20de%20colaboracao.pdf  Último acesso em 28.09.21
-
-5. ZUBOFF, Shoshana. A era do capitalismo de vigilância: A luta por um futuro humano na nova fonteira do poder. 1ª Edição: Rio de Janeiro. Editora Intrínseca, 2020. [Facilmente encontrável]
-
-6. BOURDIEU, Pierre, Os Usos Sociais da Ciência, UNESP, 2004
-7.	LATOUR, Bruno, Vida de Laboratório. A Produção dos Fatos Científicos, Relume Dumará, 1997
-8.	SCHUMPETER, J. , Teoria do Desenvolvimento Econômico, Abril Cultural, 1983
+1.	ALVES, Rubem. Filosofia da Ciência. Introdução ao jogo e as suas regras. São Paulo: Loyola, 2007.
+2.	HARARI, Yuval N. 21 Lições para o século XXI.São Paulo: 1ªedição. Cia das Letras, 2018. 
+3.	SILVEIRA, Sergio Amadeu da; SOUZA, Joyce; AVELINO, Rodolfo. A sociedade de controle: Manipulação e modulação nas redes. 1ª edição. São Paulo: Editora Hedra, 2019. 
+4.	PRETTO, Nelson De Luca; SILVEIRA, Sergio Amadeu da. Além das redes de colaboração: internet, diversidade cultural e tecnologias do poder. Salvador: EDUFBA, 2008. Disponibilizado gratuitamente pelos autores e pela Universidade Federal da Bahia em Creative Commons: https://repositorio.ufba.br/ri/bitstream/ufba/211/4/Alem%20das%20redes%20de%20colaboracao.pdf  Acesso em 28.09.21
+5.	ZUBOFF, Shoshana. A era do capitalismo de vigilância: A luta por um futuro humano na nova fonteira do poder. 1ª Edição: Rio de Janeiro. Editora Intrínseca, 2020. 
 
 Artigos:
 
-HOGAN, M.; SHEPHERD, T. Information Ownership and Materiality in an Age of Big Data Surveillance. Journal of Information Policy. , v. 5 , p. 6 - 31 , 2015. ; Disponível em: https://www.jstor.org/stable/10.5325/jinfopoli.5.2015.0006. Acesso em: 27 maio 2019.
+1.	ARBIX, Glauco. A transparência no centro da construção de uma IA ética. Novos estudos CEBRAP.São Paulo. v.39, n.02, mai–ago 2020, pp. 395-413. Disponível em: 
+[https://doi.org/10.25091/s01013300202000020008](https://doi.org/10.25091/s01013300202000020008) Acesso 22.11.21
+2.	MAGNO, M. E. da S. P., & Bezerra, J. S. (2020). Vigilância negra: O dispositivo de reconhecimento facial e a disciplinaridade dos corpos. Novos Olhares, 9(2), 45-52. Disponível em [https://doi.org/10.11606/issn.2238-7714.no.2020.165698](https://doi.org/10.11606/issn.2238-7714.no.2020.165698) Acesso 22.11.21. 
+3.	MARQUES, Fabrício. Geografia da inovação: Nova metodologia avalia a robustez dos sistemas de ciência e tecnologia dos estados brasileiros. Pesquisa FAPESP.São Paulo, Edição 288 fev. 2020. Disponível em: [https://revistapesquisa.fapesp.br/geografia-da-inovacao/](https://revistapesquisa.fapesp.br/geografia-da-inovacao/)  Acesso 22.11.21.
+
 
 
  
