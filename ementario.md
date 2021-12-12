@@ -774,11 +774,11 @@ Ao final do curso, o aluno deve ser capaz de
 
 1. Aplicar conceitos de espaços vetoriais para a descrição e manipulação de objetos
 2. Resolver problemas de geometria espacial envolvendo conceitos de espaços vetoriais
-3. Avaliar e resolver sistemas de equações lineares
+3. Avaliar e resolver computacionalmente sistemas de equações lineares
 4. Interpretar e analisar transformações lineares
-5. Aplicar a decomposição em valores singulares
+5. Aplicar a decomposição em valores singulares em problemas computacionais
 6. Explicar as noções de informação e codificação
-7. Aplicar métodos de compressão e de correção de erro
+7. Aplicar métodos de compressão de informação e de correção de erro
 
 
 Conteúdo Programático:
@@ -1041,9 +1041,9 @@ O aluno deve ser capaz de:
 2. Projetar e implementar uma solução de aprendizado de máquina para problemas de classificação supervisionada, e avaliar sua sensibilidade e especificidade.
 3. Projetar e implementar uma solução de aprendizado de máquina para problemas de regressão multivariada, e avaliar a qualidade do modelo obtido.
 4. Projetar e implementar uma solução de aprendizado de máquina para problemas simples de classificação não-supervisionada, e avaliar a viabilidade do modelo obtido.
-5. Descrever e experimentar com técnicas de análise de texto via aprendizado de máquina
-6. Descrever e experimentar com técnicas de reinforcement learning
-7. Descrever e experimentar com técnicas de deep learning
+5. Descrever e experimentar com técnicas de deep learning
+6. Descrever e experimentar com técnicas de análise de texto via aprendizado de máquina
+7. Descrever e experimentar com técnicas de reinforcement learning
 
 ## Conteúdo Programático
 
@@ -1051,9 +1051,9 @@ O aluno deve ser capaz de:
 2. Regressão: Regressão linear, regularização, Support Vector Machines, redes neurais
 3. Classificação: Regressão logística, k-NN, árvores de decisão, boosting e métodos de ensemble
 4. Clustering e métodos não-supervisionados, análise de componentes principais.
-5. Análise de texto: análise de sentimento e modelagem de tópicos
-6. Reinforcement learning
-7. Deep learning.
+5. Deep learning.
+6. Análise de texto: análise de sentimento e modelagem de tópicos
+7. Reinforcement learning
 
 ## Bibliografia Básica
 
