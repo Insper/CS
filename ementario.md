@@ -87,7 +87,7 @@
   * [Objetivos](#objetivos-12)
   * [Conteúdo Programático](#conte-do-program-tico-8)
   * [Bibliografia Básica](#bibliografia-b-sica-10)
-- [Teoria da Computação e Linguagens Formais](#teoria-da-computa--o-e-linguagens-formais)
+- [Linguagens e Paradigmas](#linguagens-e-paradigmas)
   * [Ementa](#ementa-12)
   * [Objetivos](#objetivos-13)
   * [Conteúdo Programático](#conte-do-program-tico-9)
@@ -830,12 +830,13 @@ Semestre  : 3º período
 
 ## Ementa
 
-Lógica proposicional; lógica de predicados e quantificadores; relações lógicas e tabela verdade; regras de dedução; leis de De Morgan; indução e recursividade; relações sobre conjuntos e o produto cartesiano; regras de inferência direta; aspectos matemáticos de sistemas provadores de teoremas; provas matemáticas por contradição; recursões, recorrências e indução; análise probabilística discreta de estruturas de dados; algoritmos aleatorizados; NP completude.
+Lógica proposicional; lógica de predicados; máquinas de turing; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações e funções discretas; funções computáveis; aplicações discretas.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
+<<<<<<< HEAD
 1.	Representar conhecimento através de lógica proposicional
 2.	Derivar sentenças verdadeiras a partir de um conjunto de proposições
 3.	Aplicar lógica de predicados para representar relações mais complexas
@@ -845,37 +846,54 @@ Ao final do curso, o aluno deve ser capaz de:
 7.	Realizar provas por contradição sobre propriedades matemáticas e computacionais
 8.	Aplicar probabilidade para analisar estruturas de dados e algoritmos
 9.	Reconhecer problemas clássicos que são NP-Completos e aplicar heurísticas e estratégias para encontrar soluções aproximadas
+=======
+1.	Produzir abstrações domínios de problemas e representá-las utilizando lógica de primeira ordem
+2.	Reconhecer limites de computabilidade em domínios 
+3.	Realizar inferências e provas em domínios 
+4.	Enumerar e contar elementos de domínios
+5.	Identificar relações e funções discretas entre elementos de domínios 
+
+>>>>>>> main
 
 ## Conteúdo Programático
 
-1.	Lógica proposicional
-2.	Tabelas verdade
-3.	Regras de dedução e leis de DeMorgan
-4.	Regras de inferência direta
-5.	Aspectos matemáticos de sistemas provadores de teoremas
-6.	Provas matemáticas por contradição
-7.	Recursões, recorrências e indução
-8.	Análise probabilística de estrutura de dados
-9.	Algoritmos aleatorizados
-10.	NP completude
+1.	Cálculo proposicional: representação, inferência e aplicações
+2.	Cálculo de Predicados: representação, inferência e aplicações
+3. Provadores automatizados para Cálculo Proposicional e de Predicados
+4. Máquinas de Turing e a noção de algoritmo
+5. Especificação axiomática e operacional de Máquinas de Turing
+6.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
+7.	Conjuntos discretos: representação, operações, propriedades
+8. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
+9.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
+10.	Técnicas de enumeração e contagem diretas, aplicações
+11.	Contagem indutiva, relações de recorrência e aplicações
+12.	Relações e funções discretas e aplicações
+13.	Funções discretas computáveis
+
+
+
+
 
 ## Bibliografia Básica
-
+Livros:
 1.	STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. Editora Pearson, 2013.
 2.	GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação: Um Tratamento Moderno de Matemática Discreta, 7ª ed., Editora LTC, 2016.
 3.	SILVA, Flávio S.C.; Finger, M.; de Melo, Ana C.V. Lógica para Computação, 2a. ed. Ed. Cengage Learning, 2017.
 
-
+Artigo:
+NICKERSON, R. Counting, Computing, and the Representation of Numbers. Human Factors The Journal of the Human Factors and Ergonomics Society 30(2), pp. 181-199, 1988.
 
 ## Bibliografia Complementar
-
+Livros:
 1.	GRAHAM, R.; KNUTH, D.; PATASHNIK, O. Concrete Mathematics: A Foundation for Computer Science. 2 ed. Ed. Addison-Wesley 1994.
 2.	MENDELSON, E. Introduction to Mathematical Logic (Discrete Mathematics and Its Applications). 6 ed. Ed. CRC Press, 2015.
 3.	VELLEMAN, D. How to Prove It: A Structured Approach. 3 ed. Ed. Cambridge University Press, 2019.
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
- 
 
+Artigo: 
+GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010. 
  
 \newpage
 
@@ -1114,7 +1132,7 @@ SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v
 
 
 \newpage
-# Teoria da Computação e Linguagens Formais
+# Linguagens e Paradigmas
 
 Carga Horária:  80
 
@@ -1122,39 +1140,47 @@ Semestre  : 4º período
 
 ## Ementa
 
-Lógica proposicional e de predicados; Teoria da Computabilidade; Decidibilidade e Intratabilidade; Máquina de Turing; Hierarquia de Chomsky; Gramáticas e reconhecedores (autômatos) para linguagens regulares, livres de contexto, sensíveis a contexto e recursivamente enumeráveis; Forma normal de Backus-Naur; Analisadores léxicos, sintáticos e semântico; Compiladores.
+Fundamentos de linguagens formais. Sintaxe e semântica de linguagens. Linguagens regulares. Linguagens livres de contexto. Paradigma imperativo. Paradigma estruturado. Paradigma funcional. Compiladores e interpretadores.
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
+<<<<<<< HEAD
 1. Especificar uma gramática para reconhecer uma linguagem de interesse.
 2. Programar e gerar o diagrama explicativo de um autômato que implementa uma gramática.
 3. Especificar um analisador léxico por meio de expressões regulares.
 4. Explicar os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
 5. Entender todos os passos necessários à compilação de programas.
+=======
+1. Analisar a sintaxe e semântica de linguagens 
+2. Especificar sintaxe e semântica de linguagens 
+3. Estruturar programas nos paradigmas imperativo, estruturado e funcional
+4. Implementar compiladores e interpretadores de linguagens
+5. Aplicar compiladores e interpretadores em diversos contextos
+>>>>>>> main
 
 ## Conteúdo Programático
 
-1. Linguagens regulares e autômatos finitos
-2. Linguagens livres de contexto e autômatos de pilha
-3. Linguagens sensíveis ao contexto
-4. Linguagens recursivamente enumeráveis
-5. Máquina de Turing
-6. Decidibilidade e intratabilidade
-7. Complexidade e as classes P e NP
-8. Lógica proposicional e de predicados
-9. Compiladores
-10. Análise léxica, sintática e semântica
-11. Geração de código
+1. Fundamentos de linguagens formais: alfabetos, palavras, linguagens e palavras
+2. Hierarquia de Chomsky
+3. Sintaxe de linguagens: operacional, axiomática e denotacional
+4. Semântica de linguagens: operacional, axiomática e denotacional
+5. Linguagens regulares: propriedades, gramáticas, expressões regulares e autômatos finitos, aplicações
+6. Linguagens livres de contexto: propriedades, gramáticas, expressões regulares e autômatos à pilha, aplicações
+7. Paradigma imperativo: statements e fluxos, estudo comparado de linguagens imperativas
+8. Paradigma estruturado: funções, procedimentos, módulos, estudo comparado de linguagens estruturadas
+9. Paradigma funcional: cálculo lambda, abstrações, aplicações, composições, tipos algébricos, lazy evaluation, estudo comparado de linguagens funcionais
+10. Estrutura e implementação de interpretadores: análise léxica, análise sintática, análise semântica, máquinas virtuais
+11. Estrutura e implementação de compiladores: análise léxica, análise sintática, análise semântica, geração de código intermediário, análise de fluxo e sobrevivência, alocação de registradores, geração de código
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
-2.	BOOLOS, G. S.; BURGESS, J. P.; JEFFREY, R. C., Computabilidade e Lógica, 1ª ed., Unesp, 2012
-3.	AHO, A.V.; LAM, M. S.; SETHI, R.; ULLMAN, J., Compiladores: Princípios, Técnicas e Ferramentas, 2ª ed., Longman, 2007
+1.	RAMOS, M. V. M.; JOSÉ NETO, J.; VEJA, I. S., Linguagens Formais. Teoria, Modelagem e Implementação, 1ª ed., Bookman, 2009
+2.	AHO, A.V.; LAM, M. S.; SETHI, R.; ULLMAN, J., Compiladores: Princípios, Técnicas e Ferramentas, 2ª ed., Longman, 2007
+3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016
 
 Artigos:
 
@@ -1164,11 +1190,12 @@ GOOD, J.; HOWLAND, K.. Programming language, natural language? Supporting the di
 
 Livros:
 
-1.	RAMOS, M. V. M.; JOSÉ NETO, J.; VEJA, I. S., Linguagens Formais. Teoria, Modelagem e Implementação, 1ª ed., Bookman, 2009
-2.	CORMEN, Thomas H., LEISERSON; Charles E., RIVEST; Ronald L., STEIN, Clifford., Algoritmos: teórica e prática., 3ª ed., Elsevier-Campus., 2012
+1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
+2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017. 
 3.	HOPCROFT, J. E.; ULLMAN, J. D; MOTWANU, R., Introdução à Teoria dos Autômatos, Linguagens e Computação, 1ª ed., CAMPUS, 2002
-4.	 SIPSTER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
-5.	SILVA, F. C.; FINGER, M.; MELO, A. C. V., Lógica para Computação, 2ª ed., Cengage, 2017
+4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
+5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
+
 
 Artigos:
 
@@ -1337,63 +1364,51 @@ Semestre  5º período
 
 ## Ementa
 
-Invariantes; indução; análise probabilística; análise amortizada; limitantes inferiores e superiores; Teorema Mestre; algoritmos gulosos; simulação de recursão com pilhas; adição de memoização; treap; union-find; árvores geradoras mínimas; fluxo máximo e corte mínimo; polinomialidade; pseudopolinomialidade; certificados; redução; problemas NP-completos e NP-difíceis.
-
+Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos determinísticos. Análise de algoritmos probabilísticos. Análise de programação dinâmica. Análise de algoritmos gulosos. Análise de complexidades de problemas. Classes de complexidade. Algoritmos aproximativos. Algoritmos baseados em oráculos. Maratonas de programação. Entrevistas técnicas. 
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Aplicar estratégias clássicas de projeto de algoritmos.
-2.	Aplicar estratégias clássicas de análise de algoritmos.
-3.	Analisar a correção de algoritmos procedurais.
-4.	Analisar a correção de algoritmos recursivos.
-5.	Avaliar a complexidade de algoritmos.
-6.	Avaliar a tratabilidade de problemas.
-1. Identificar ambiguidades e pontos vagos na descrição de um problema;
-2. Projetar e implementar uma solução técnica eficiente para problemas típicos de entrevistas técnicas de programação;
-3. Descrever o processo de elaboração da solução e identificar a sua complexidade computacional.
+1.	Projetar, implementar e analisar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos
+2.	Reconhecer problemas em classes de complexidade de espaço e tempo
+3.	Projetar, implementar e analisar algoritmos para problemas intratáveis
+4.	Entender a estrutura e participar de maratonas de programação
+5.	Entender a estrutura e participar de entrevistas técnicas de programação
 
 ## Conteúdo Programático
 
-1.	Revisão de algoritmos clássicos e notação assintótica
-2.	Análise de correção por invariantes.
-3.	Análise de correção por indução.
-4.	Estratégias para análise precisa de caso médio.
-5.	Estratégias para análise precisa de algoritmos recursivos.
-6.	Estratégias para otimização de algoritmos recursivos.
-7.	Estruturas de dados avançadas.
-8.	Algoritmos clássicos de otimização combinatória.
-9.	Avaliação de complexidade.
-10.	Avaliação de tratabilidade.
-3. Conceitos e algoritmos: manipulação de bits, desafios de lógica e matemática, recursão, programação dinâmica, ordenação e busca;
-4. Projeto de testes.
+1.	Descrição formal de algoritmos: Lógica de Floyd-Hoare, pré-condições, invariantes e pós-condições
+2.	Notação assintóticas: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+3.	Análise de algoritmos determinísticos: algoritmos iterativos e recursivos, análise de algoritmos iterativos e recursivos clássicos para ordenação e busca
+4.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
+5.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
+6.	Análise de algoritmos gulosos: problemas com estrutura de matróides, algoritmos gulosos, análise de algoritmos gulosos
+7.	Análise de complexidade de problemas: problemas como linguagens, problemas e Máquinas de Turing, contagem de tempo e espaço em Máquinas de Turing
+8.	Classes de complexidade: complexidade de tempo (P, NP, NP-completo, NP-difícil) e espaço (P-espaço, NP-espaço, NP-espaço completo, NP-espaço difícil), redução entre classes de complexidade
+9.	Algoritmos aproximativos: raio de aproximação, técnicas clássicas de aproximação, análise de algoritmos aproximativos
+10.	Algoritmos baseados em oráculos: sistemas interativos, oráculos, classes de complexidade em interação, análise de algoritmos baseados em oráculos
+11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
+12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
 
 ## Bibliografia Básica
 
-5.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
-6.	SEDGEWICK, R. Algorithms in C, Part 5: Graph Algorithms, 3rd ed. Addison-Wesley, 2001.
-1.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015
-2.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., , 2013
-3.	SKIENA, S. S.; REVILLA, M. A., Programming Challenges: The Programming Contest Training Manual, Springer-Verlag, 2003
-7.	SANCHEZ-ORO, J.; DUARTE, A. Iterated Greedy algorithm for performing community detection in social networks. Future Generation Computer Systems, v. 88, págs 785-791, 2018.
-
+1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
+2.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016 
+3.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015
+4.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., , 2013
+5.	SKIENA, S. S.; REVILLA, M. A., Programming Challenges: The Programming Contest Training Manual, Springer-Verlag, 2003
 
 
 ## Bibliografia Complementar
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
-2.	SKIENA, S. S.; REVILLA, M. A. Programming Challenges: The Programming Contest Training Manual. Springer, 2003.
-3.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
-4.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
-5.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
-1.	POUNDSTONE, W., How would you move Mount Fuji?: Microsoft's cult of the puzzle, how the world's smartest companies select the most creative Thinkers, Little, Brown and Company, 2004
-2.	MCDOWELL, G.L., The Google Resumé, Wiley, 2011
-3.	POUNDSTONE, W., Are you smart enough to work at Google?: Trick questions, zen-like riddles, insanely difficult puzzles, and other devious interviewing techniques you ... know to get a job anywhere in the new economy, Little, Brown and Company, 2012
-4.	AZIZ, A. et al., Elements of Programming Interviews: the insiders' guide, Createspace, 2012
-5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016 
-6.	GAI, K.; QIU, M.; LIU, M.; XIONG, Z. In-memory big data analytics under space constraints using dynamic programming. Future Generation Computer Systems, v. 83, págs 219-227, 2018.
+2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
+3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
+4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
+5.	AZIZ, A. et al., Elements of Programming Interviews: the insiders' guide, Createspace, 2012
+
 
 
 
