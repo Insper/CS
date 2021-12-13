@@ -31,7 +31,7 @@
   * [Objetivos](#objetivos-3)
   * [Conteúdo Programático](#conte-do-program-tico-2)
   * [Bibliografia Básica](#bibliografia-b-sica-2)
-- [Matemática da Variação](#matem-tica-da-varia--o)
+- [Matemática do Contínuo](#matem-tica-da-varia--o)
   * [Ementa](#ementa-4)
   * [Objetivos](#objetivos-4)
   * [Conteúdo Programático:](#conte-do-program-tico-)
@@ -499,7 +499,7 @@ NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Ex
 
 \newpage
 
-# Matemática da Variação
+# Matemática do Contínuo
 
 Carga Horária:  110
 Semestre  2º período
