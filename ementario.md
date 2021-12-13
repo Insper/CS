@@ -3,16 +3,10 @@
 
 **Ementário**
 
-**Versão 3.5**
+**Versão 3.7**
 
 \newpage
 
-** Objetivos: Ciência de Dados/IA **
-
-1. (Análise) Realizar análises exploratórias em dados, descrevendo sistematicamente seu conteúdo;
-2. (Análise) Propor e validar modelos matemáticos correspondentes a situações do mundo real, atuando em processos de tomada de decisão;
-3. (Aplicação) Implementar provas de conceito de modelos computacionais, incluindo seu ajuset (fit) e avaliação;
-4. (Análise) Mostrar dados e resultados de inferências usando diferentes mídias, de forma a atingir diferentes públicos-alvo (desenvolvedores, clientes, público geral).
 
 - [Experiência como Desenvolvedor - Developer Life](#experi-ncia-como-desenvolvedor---developer-life)
   * [Ementa](#ementa)
