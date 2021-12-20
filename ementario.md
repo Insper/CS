@@ -825,24 +825,11 @@ Lógica proposicional; lógica de predicados; máquinas de turing; técnicas de 
 
 Ao final do curso, o aluno deve ser capaz de:
 
-<<<<<<< HEAD
-1.	Representar conhecimento através de lógica proposicional
-2.	Derivar sentenças verdadeiras a partir de um conjunto de proposições
-3.	Aplicar lógica de predicados para representar relações mais complexas
-4.	Raciocinar de forma matemática sobre predicados lógicos
-5.	Entender limitações computacionais de sistemas provadores de teoremas
-6.	Aplicar lógica para representar conhecimento
-7.	Realizar provas por contradição sobre propriedades matemáticas e computacionais
-8.	Aplicar probabilidade para analisar estruturas de dados e algoritmos
-9.	Reconhecer problemas clássicos que são NP-Completos e aplicar heurísticas e estratégias para encontrar soluções aproximadas
-=======
 1.	Produzir abstrações domínios de problemas e representá-las utilizando lógica de primeira ordem
 2.	Reconhecer limites de computabilidade em domínios 
 3.	Realizar inferências e provas em domínios 
 4.	Enumerar e contar elementos de domínios
 5.	Identificar relações e funções discretas entre elementos de domínios 
-
->>>>>>> main
 
 ## Conteúdo Programático
 
@@ -859,10 +846,6 @@ Ao final do curso, o aluno deve ser capaz de:
 11.	Contagem indutiva, relações de recorrência e aplicações
 12.	Relações e funções discretas e aplicações
 13.	Funções discretas computáveis
-
-
-
-
 
 ## Bibliografia Básica
 Livros:
@@ -1135,19 +1118,11 @@ Fundamentos de linguagens formais. Sintaxe e semântica de linguagens. Linguagen
 
 Ao final da disciplina o aluno será capaz de:
 
-<<<<<<< HEAD
-1. Especificar uma gramática para reconhecer uma linguagem de interesse.
-2. Programar e gerar o diagrama explicativo de um autômato que implementa uma gramática.
-3. Especificar um analisador léxico por meio de expressões regulares.
-4. Explicar os conceitos básicos sobre Lógica Matemática, Teoria da Computabilidade e Máquina de Turing.
-5. Entender todos os passos necessários à compilação de programas.
-=======
 1. Analisar a sintaxe e semântica de linguagens 
 2. Especificar sintaxe e semântica de linguagens 
 3. Estruturar programas nos paradigmas imperativo, estruturado e funcional
 4. Implementar compiladores e interpretadores de linguagens
 5. Aplicar compiladores e interpretadores em diversos contextos
->>>>>>> main
 
 ## Conteúdo Programático
 
@@ -1380,14 +1355,11 @@ Ao final do curso, o aluno deve ser capaz de:
 11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
 12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
-
 ## Bibliografia Básica
 
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
 3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
-
-
 
 ## Bibliografia Complementar
 
@@ -1396,14 +1368,6 @@ Ao final do curso, o aluno deve ser capaz de:
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
 4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
 5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
-
-
-
-
-
-
-
-
 
 
 \newpage
