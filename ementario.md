@@ -1384,10 +1384,9 @@ Ao final do curso, o aluno deve ser capaz de:
 ## Bibliografia Básica
 
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
-2.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016 
-3.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015
-4.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., , 2013
-5.	SKIENA, S. S.; REVILLA, M. A., Programming Challenges: The Programming Contest Training Manual, Springer-Verlag, 2003
+2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
+3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
+
 
 
 ## Bibliografia Complementar
@@ -1396,7 +1395,7 @@ Ao final do curso, o aluno deve ser capaz de:
 2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
 4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
-5.	AZIZ, A. et al., Elements of Programming Interviews: the insiders' guide, Createspace, 2012
+5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
 
 
 
