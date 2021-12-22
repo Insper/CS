@@ -58,7 +58,7 @@ Projeto de Sistemas Complexos:
  
 ## Conteúdo programático
 
-Projeto de Software:
+Programação:
 
 1. Introdução a linguagens de programação e como o computador executa programas.
 2. Introdução à linguagem Python, entrada e saída de dados.
@@ -88,7 +88,7 @@ Design Centrado no Usuário:
 5. Prototipação digital.
 6. Teste de usabilidade.
 
-Projeto de Sistemas Complexos:
+Projeto de Software:
 
 1. Arquitetura de sistemas baseados em web
 2. Uso de bancos de dados relacionais via Object Relational Mappers
@@ -101,7 +101,7 @@ Projeto de Sistemas Complexos:
 
 ## Bibliografia básica
 
-Projeto de Software:
+Programação:
 
 1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
 2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
@@ -130,14 +130,14 @@ Artigos:
 
 BRADE, J. et al.. Being there again – presence in real and virtual environments and its relation to usability and user experience using a mobile navigation task.. International Journal of Human-Computer Studies. , v. 101 , p. 76-87 , 2017. ; Disponível em: https://doi.org/10.1016/j.ijhcs.2017.01.004. Acesso em: 27 maio 2019.
 
-Projeto de Sistemas Complexos:
+Projeto de Software:
 
 1.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
 2.	DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
 
 ## Bibliografia complementar
 
-Projeto de Software:
+Programação:
 
 1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
 2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
@@ -155,7 +155,7 @@ Design:
 4.	GARRETT, Jesse, The Elements of User Experience, 2ª ed., Ed. New Riders, 2010
 5.	KUMAR, Vijay. , 101 Design Methods: A Structured Approach for Driving Innovation in Your Organization. , Wiley & Sons, 2013
 
-Projeto de Sistemas Complexos:
+Projeto de Software:
 
 1.	GAMMA, E; HELM, R; JOHNSON, R; VLISSIDES, J., Padrões de Projeto: Soluções Reutilizáveis de Software Orientado a Objetos, Bookman, 2000
 2.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
