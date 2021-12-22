@@ -241,7 +241,7 @@ Artigos:
 
 
 
-# Elementos de Sistemas Digitais
+# Elementos de Sistemas de Computação
 
 Carga Horária:  72
 Semestre  2º período
