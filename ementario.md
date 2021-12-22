@@ -3,7 +3,7 @@
 
 **Ementário**
 
-**Versão 3.8**
+**Versão 3.9**
 
 \newpage
 
@@ -241,7 +241,7 @@ Artigos:
 
 
 
-# Elementos de Sistemas de Computação
+# Bits e Processadores
 
 Carga Horária:  72
 Semestre  2º período
