@@ -241,7 +241,7 @@ Artigos:
 
 
 
-# Nand to Tetris: Elementos de Sistemas Digitais
+# Elementos de Sistemas Digitais
 
 Carga Horária:  80
 Semestre  2º período
@@ -304,7 +304,7 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
 
 \newpage
 
-# Ciência dos Dados
+# Ciência dos Dados para Computação
 
 Carga Horária:  80
 Semestre  2º período
