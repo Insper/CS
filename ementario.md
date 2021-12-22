@@ -243,7 +243,7 @@ Artigos:
 
 # Elementos de Sistemas Digitais
 
-Carga Horária:  80
+Carga Horária:  72
 Semestre  2º período
 
 ## Ementa
@@ -306,7 +306,7 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
 
 # Ciência dos Dados para Computação
 
-Carga Horária:  80
+Carga Horária:  72
 Semestre  2º período
 
 ## Ementa
@@ -374,22 +374,22 @@ NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Ex
 
 # Matemática do Contínuo
 
-Carga Horária:  110
+Carga Horária:  98
 Semestre  2º período
 
 ## Ementa
 
-Cálculo Diferencial e Integral com funções de uma variável: introdução, taxa de variação, limite, derivadas, integrais. Resolução analítica de equações diferenciais ordinárias. Álgebra Linear e a resolução analítica de sistemas de equações diferenciais. Desenvolvimento da autonomia em relação ao aprendizado de conteúdos matemáticos.
+Cálculo Diferencial e Integral com funções de uma variável: introdução, taxa de variação, limite, derivadas, integrais. Desenvolvimento da autonomia em relação ao aprendizado de conteúdos matemáticos.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1. Quantificar, interpretar e expressar algébrica e graficamente as taxas de variação média e insantânea de uma grandeza em relação a outra (OA1).
-2. Interpretar e calcular o valor acumulado de uma variável dependente com a alteração do valor da variável independente (OA2).
-3. Utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade, envolvendo principalmente equações diferenciais, com o objetivo de estabelecer previsões e tomar decisões (OA3).
-4. Utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos (OA4).
-5. Aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente (OA5).
+1. Quantificar, interpretar e expressar algébrica e graficamente as taxas de variação média e insantânea de uma grandeza em relação a outra.
+2. Interpretar e calcular o valor acumulado de uma variável dependente com a alteração do valor da variável independente.
+3. Utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade com o objetivo de estabelecer previsões e tomar decisões
+4. Utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos.
+5. Aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente.
 
 ## Conteúdo Programático:
 
@@ -438,7 +438,7 @@ Livros:
 
 # Projeto Ágil e Programação Eficaz
 
-Carga Horária:  160
+Carga Horária:  144
 Semestre  1º período
 
 ## Ementa:
@@ -487,6 +487,51 @@ Ao final da disciplina o aluno será capaz de:
 7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
 9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
+
+
+# Sprint Session 2
+
+Carga horária: 44h
+
+## Ementa:
+
+Elaboração da arquitetura de um software; Desenvolvimento de solução; Prototipação e apresentação
+
+## Objetivos
+
+Ao final da disciplina o aluno será capaz de:
+
+1.	Identificar requisitos de um sistema a partir de ouvir o cliente
+2.	Planejar a arquitetura do software
+3.	Gerenciar o desenvolvimento usando métodos ágeis 
+4.	Priorizar funcionalidades conforme prioridade do cliente 
+
+## Conteúdo programático
+
+1.	Identificar requisitos de um sistema a partir de ouvir o cliente
+2.	Planejar a arquitetura do software
+3.	Gerenciar o desenvolvimento usando métodos ágeis 
+4.	Priorizar funcionalidades conforme prioridade do cliente 
+
+
+## Bibliografia Básica
+
+1.	MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
+2.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
+3.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
+4. BROWN, TIM. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2019.
+
+## Bibliografia Complementar
+
+4.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
+5.	SOMMERVILLE, I. , Engenharia de Software , 9ª ed., Pearson, 2011
+6.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
+9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
+10.	
+
+
 
 
 
