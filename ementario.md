@@ -311,31 +311,29 @@ Semestre  2º período
 
 ## Ementa
 
-Estatística descritiva uni e bidimensional, Tipos de variáveis, Medidas Resumo de Centralidade e Dispersão, Diagramas para visualização dos dados; Análise exploratória de dados; Abertura de bases de dados, pré-processamento, filtragem e cruzamento de bases de dados; Teoria da probabilidade; Modelos probabilísticos para variáveis aleatórias discretas e contínuas; Distribuições amostrais de média, proporção e variância; Intervalos de confiança para parâmetros de interesse; Inferência estatística paramétrica; Inferência não paramétrica baseada em reamostragem; Introdução à classificação; Regressão linear simples e múltipla.
+Estatística descritiva uni e bidimensional, Tipos de variáveis, Medidas Resumo de Centralidade e Dispersão, Diagramas para visualização dos dados; Análise exploratória de dados; Abertura de bases de dados, pré-processamento, filtragem e cruzamento de bases de dados; Teoria da probabilidade; Modelos probabilísticos para variáveis aleatórias discretas e contínuas; Distribuições amostrais de média, proporção e variância; Intervalos de confiança para parâmetros de interesse; Inferência estatística paramétrica; Inferência não paramétrica baseada em reamostragem.
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Elaborar análises exploratórias de dados (univariadas e multivariadas), utilizando ferramentas estatísticas e computacionais adequadas.
-2. Selecionar informações de bancos de dados, tratá-los e prepará-los para processamento.
+1. Carregar bancos de dados, selecionar informações, tratá-las e realizar a limpeza de dados, permitindo sua manipulação
+2. Elaborar análises exploratórias de dados (univariadas e multivariadas), utilizando ferramentas estatísticas e computacionais adequadas, gerando visualizações e permitindo suporte a decisões.
 3. Especificar as distribuições de probabilidades adequadas para as variáveis quantitativas discretas e contínuas.
 4. Conduzir testes inferenciais adequados que possam dar base à tomada de decisão.
-5. Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas.
 
 ## Conteúdo Programático
 
-1. Variáveis quantitativas e qualitativas. (1)
-2. Medidas resumo, centralidade e dispersão. (1)
-3. Diagramas e recursos gráficos. (4)
-4. Introdução ao ambiente de tratamento de dados. (2)
-5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. (2)
-6. Análise bidimensional. (2)
-7. Teoria da probabilidade. (2)
-8. Introdução à classificação. (3)
-9. Variáveis e distribuições discretas e contínuas. (1,3)
-10. Inferência estatística e por reamostragem. (3)
-11. Regressão linear simples e múltipla. (3)
+1. Variáveis quantitativas e qualitativas. 
+2. Medidas resumo, centralidade e dispersão. 
+3. Diagramas e recursos gráficos. 
+4. Introdução ao ambiente de tratamento de dados. 
+5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. 
+6. Análise bidimensional. 
+7. Teoria da probabilidade. 
+8. Introdução à classificação. 
+9. Variáveis e distribuições discretas e contínuas. 
+10. Inferência estatística e por reamostragem. 
 
 ## Bibliografia Básica
 
@@ -344,6 +342,7 @@ Livros:
 1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
 2.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
 3.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 2011
+4. WILKE, C. O., Fundamentals of Data Visualization, Claus O. Wilke, https://clauswilke.com/dataviz
 
 Artigos:
 
@@ -358,6 +357,7 @@ Livros:
 3.	HAYTER, Anthony J, Probability and Statistics for Engineers and Scientists, 4ª ed., Duxbury Press, 2012
 4.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
 5.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
+6.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
 
 Artigos:
 
