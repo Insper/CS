@@ -200,7 +200,7 @@ Ao final do curso o aluno deverá ser capaz de:
 
 Livros:
 
-1.	ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019.  
+1.	ARAUJO, Marcelo de. Novas Tecnologias e Dilemas Morais. Independently Published, 2019.
 2.	MOROZOV, Evgeny. Big Tech: A ascensão dos dados e a morte da política. São Paulo: Ubu Editora, 2018.
 3.	O’Neil Cathy. Algoritmos de destruição em massa: Como o Big Data aumenta a desigualdade e ameaça a democracia. 1ª Edição – Santo André, SP. Editora Rua do Sabão, 2020.
 
@@ -219,16 +219,16 @@ Artigos:
 Livros:
 
 1.	ALVES, Rubem. Filosofia da Ciência. Introdução ao jogo e as suas regras. São Paulo: Loyola, 2007.
-2.	HARARI, Yuval N. 21 Lições para o século XXI.São Paulo: 1ªedição. Cia das Letras, 2018. 
-3.	SILVEIRA, Sergio Amadeu da; SOUZA, Joyce; AVELINO, Rodolfo. A sociedade de controle: Manipulação e modulação nas redes. 1ª edição. São Paulo: Editora Hedra, 2019. 
+2.	HARARI, Yuval N. 21 Lições para o século XXI.São Paulo: 1ªedição. Cia das Letras, 2018.
+3.	SILVEIRA, Sergio Amadeu da; SOUZA, Joyce; AVELINO, Rodolfo. A sociedade de controle: Manipulação e modulação nas redes. 1ª edição. São Paulo: Editora Hedra, 2019.
 4.	PRETTO, Nelson De Luca; SILVEIRA, Sergio Amadeu da. Além das redes de colaboração: internet, diversidade cultural e tecnologias do poder. Salvador: EDUFBA, 2008. Disponibilizado gratuitamente pelos autores e pela Universidade Federal da Bahia em Creative Commons: https://repositorio.ufba.br/ri/bitstream/ufba/211/4/Alem%20das%20redes%20de%20colaboracao.pdf  Acesso em 28.09.21
-5.	ZUBOFF, Shoshana. A era do capitalismo de vigilância: A luta por um futuro humano na nova fonteira do poder. 1ª Edição: Rio de Janeiro. Editora Intrínseca, 2020. 
+5.	ZUBOFF, Shoshana. A era do capitalismo de vigilância: A luta por um futuro humano na nova fonteira do poder. 1ª Edição: Rio de Janeiro. Editora Intrínseca, 2020.
 
 Artigos:
 
-1.	ARBIX, Glauco. A transparência no centro da construção de uma IA ética. Novos estudos CEBRAP.São Paulo. v.39, n.02, mai–ago 2020, pp. 395-413. Disponível em: 
+1.	ARBIX, Glauco. A transparência no centro da construção de uma IA ética. Novos estudos CEBRAP.São Paulo. v.39, n.02, mai–ago 2020, pp. 395-413. Disponível em:
 [https://doi.org/10.25091/s01013300202000020008](https://doi.org/10.25091/s01013300202000020008) Acesso 22.11.21
-2.	MAGNO, M. E. da S. P., & Bezerra, J. S. (2020). Vigilância negra: O dispositivo de reconhecimento facial e a disciplinaridade dos corpos. Novos Olhares, 9(2), 45-52. Disponível em [https://doi.org/10.11606/issn.2238-7714.no.2020.165698](https://doi.org/10.11606/issn.2238-7714.no.2020.165698) Acesso 22.11.21. 
+2.	MAGNO, M. E. da S. P., & Bezerra, J. S. (2020). Vigilância negra: O dispositivo de reconhecimento facial e a disciplinaridade dos corpos. Novos Olhares, 9(2), 45-52. Disponível em [https://doi.org/10.11606/issn.2238-7714.no.2020.165698](https://doi.org/10.11606/issn.2238-7714.no.2020.165698) Acesso 22.11.21.
 3.	MARQUES, Fabrício. Geografia da inovação: Nova metodologia avalia a robustez dos sistemas de ciência e tecnologia dos estados brasileiros. Pesquisa FAPESP.São Paulo, Edição 288 fev. 2020. Disponível em: [https://revistapesquisa.fapesp.br/geografia-da-inovacao/](https://revistapesquisa.fapesp.br/geografia-da-inovacao/)  Acesso 22.11.21.
 
 
@@ -503,15 +503,15 @@ Ao final da disciplina o aluno será capaz de:
 
 1.	Identificar requisitos de um sistema a partir de ouvir o cliente
 2.	Planejar a arquitetura do software
-3.	Gerenciar o desenvolvimento usando métodos ágeis 
-4.	Priorizar funcionalidades conforme prioridade do cliente 
+3.	Gerenciar o desenvolvimento usando métodos ágeis
+4.	Priorizar funcionalidades conforme prioridade do cliente
 
 ## Conteúdo programático
 
 1.	Identificar requisitos de um sistema a partir de ouvir o cliente
 2.	Planejar a arquitetura do software
-3.	Gerenciar o desenvolvimento usando métodos ágeis 
-4.	Priorizar funcionalidades conforme prioridade do cliente 
+3.	Gerenciar o desenvolvimento usando métodos ágeis
+4.	Priorizar funcionalidades conforme prioridade do cliente
 
 
 ## Bibliografia Básica
@@ -529,7 +529,7 @@ Ao final da disciplina o aluno será capaz de:
 7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
 9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
-10.	
+10.
 
 
 
@@ -744,10 +744,10 @@ Lógica proposicional; lógica de predicados; máquinas de turing; técnicas de 
 Ao final do curso, o aluno deve ser capaz de:
 
 1.	Produzir abstrações domínios de problemas e representá-las utilizando lógica de primeira ordem
-2.	Reconhecer limites de computabilidade em domínios 
-3.	Realizar inferências e provas em domínios 
+2.	Reconhecer limites de computabilidade em domínios
+3.	Realizar inferências e provas em domínios
 4.	Enumerar e contar elementos de domínios
-5.	Identificar relações e funções discretas entre elementos de domínios 
+5.	Identificar relações e funções discretas entre elementos de domínios
 
 ## Conteúdo Programático
 
@@ -782,8 +782,8 @@ Livros:
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
 
-Artigo: 
-GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010. 
+Artigo:
+GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010.
  
 \newpage
 
@@ -806,9 +806,9 @@ Ao final da disciplina o aluno será capaz de:
 2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP enviando requests e tratando responses;
 3. Utilizar as linguagens, frameworks e arquiteturas apresentadas na disciplina a fim de implementar sistemas web;
 4. Utilizar as linguagens, frameworks e arquiteturas para resolver problemas reais dos usuários por meio da web;
-5. Aprender a aprender a desenvolver sistemas para web focando em uma escolha madura de linguagem, framework e arquitetura dependendo de cada contexto de implementação.
 6. Planejar e acompanhar o projeto conforme princípios e valores ágeis, usando um framework diferente dos utilizados em outras disciplinas (Kanban, Scrum, squad, etc)
-7. Tomada de decisão sobre adoção de frameworks de desenvolvimento levando em conta interesses organizacionais
+7. Consultar a documentação de bibliotecas/frameworks web e usá-las no desenvolvimento de um sistema web
+
 
 ## Conteúdo Programático:
 
@@ -1036,8 +1036,8 @@ Fundamentos de linguagens formais. Sintaxe e semântica de linguagens. Linguagen
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Analisar a sintaxe e semântica de linguagens 
-2. Especificar sintaxe e semântica de linguagens 
+1. Analisar a sintaxe e semântica de linguagens
+2. Especificar sintaxe e semântica de linguagens
 3. Estruturar programas nos paradigmas imperativo, estruturado e funcional
 4. Implementar compiladores e interpretadores de linguagens
 5. Aplicar compiladores e interpretadores em diversos contextos
@@ -1073,7 +1073,7 @@ GOOD, J.; HOWLAND, K.. Programming language, natural language? Supporting the di
 Livros:
 
 1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
-2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017. 
+2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
 3.	HOPCROFT, J. E.; ULLMAN, J. D; MOTWANU, R., Introdução à Teoria dos Autômatos, Linguagens e Computação, 1ª ed., CAMPUS, 2002
 4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
 5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
@@ -1246,7 +1246,7 @@ Semestre  5º período
 
 ## Ementa
 
-Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos determinísticos. Análise de algoritmos probabilísticos. Análise de programação dinâmica. Análise de algoritmos gulosos. Análise de complexidades de problemas. Classes de complexidade. Algoritmos aproximativos. Algoritmos baseados em oráculos. Maratonas de programação. Entrevistas técnicas. 
+Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos determinísticos. Análise de algoritmos probabilísticos. Análise de programação dinâmica. Análise de algoritmos gulosos. Análise de complexidades de problemas. Classes de complexidade. Algoritmos aproximativos. Algoritmos baseados em oráculos. Maratonas de programação. Entrevistas técnicas.
 
 ## Objetivos
 
@@ -1452,7 +1452,7 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 3. Identificar num projeto de jogo o papel de profissionais encarregados da produção de conteúdo artístico e comunicar-se efetivamente com eles.
 4. Desenvolver sistemas de jogos de computador, usando rotinas de Inteligência Artificial e Computação Gráfica que realizam animações realistas em tempo real e executadas em um ambiente de rede.
 5. Participar efetivamente de uma equipe para desenvolver software gráfico de jogo.
-6. Construir um portfólio, como um currículo, carta de apresentação e elevator pitch.
+6. Construir um portfólio, com um currículo, carta de apresentação e elevator pitch.
 
 ## Conteúdo Programático
 
@@ -1517,6 +1517,9 @@ Ao final da disciplina o estudante será capaz de:
 2. Administrar um sistema de gerenciamento de nuvem, provisionando a infraestrutura necessária como um serviço.
 3. Desenvolver aplicações que apresentem o atributo da escalabilidade por meio do uso de técnicas de computação em nuvem.
 4. Analisar, projetar e especificar uma solução de computação em nuvem mista baseada em hardware, software e redes para atender aos requisitos de determinado pacto de nível de serviço (SLA).
+5. Utilizar a documentação para apoiar o aprendizado de novas bibliotecas e softwares de computação em nuvem
+
+
 
 ## Conteúdo Programático:
 
