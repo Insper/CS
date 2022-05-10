@@ -248,7 +248,8 @@ Semestre  2º período
 
 ## Ementa
 
-Sistemas Digitais; Sistemas de Numeração e Códigos; Aritmética Binária; Porta Lógica; Análise e Projeto de Circuitos Combinacionais; Minimização por Mapa de Karnaugh; Somadores; Decodificadores; Codificadores; Multiplexadores; Demultiplexadores; Análise e Síntese de Circuitos Sequenciais; Latches e Flip- Flops; Minimização de Estado; Registradores; Registradores de Deslocamento; Dispositivos Lógicos Programáveis; Memória; Portas lógicas; Circuitos de temporização e pulsos; Álgebra Booleana; Circuitos Aritméticos e Aritmética Binária; Eletrônica digital; Sistemas operacionais; Lógica; Compiladores; Analisadores Léxico, Sintático e Semântico; Gerenciamento de Memória; Gerenciamento de Dispositivos de Entrada/Saída; Organização e Arquitetura básica de um sistema computacional; Conjunto de Instruções; Mecanismos de Interrupção e Exceção.
+Sistemas Digitais; Sistemas de Numeração e Códigos; Aritmética Binária; Porta Lógica; Análise e Projeto de Circuitos Combinacionais; Minimização por Mapa de Karnaugh; Somadores; Decodificadores; Codificadores; Multiplexadores; Demultiplexadores; Análise e Síntese de Circuitos Sequenciais; Flip-Flops; Registradores; Dispositivos Lógicos Programáveis; Memória; Portas lógicas; Álgebra Booleana; Circuitos Aritméticos e Aritmética Binária; Eletrônica digital; Lógica; Compiladores; Gerenciamento de Memória; Gerenciamento de Dispositivos de Entrada/Saída; Organização e Arquitetura básica de um sistema computacional; Conjunto de Instruções; Benchmarks; Speedup e Lei de Amdahl; Hierarquia de memória; Cache; MissRate; Pipeline; Paralelismo de instruções; Predição de saltos; Paralelismo de dados SIMD, GPU.
+
 
 ## Objetivos
 
@@ -259,30 +260,31 @@ Ao final da disciplina o estudante será capaz de:
 3. Trabalhar de forma colaborativa no desenvolvimento de um sistema computacional.
 4. Explicar a evolução da informática.
 5. Descrever como dados e instruções são armazenados e tratados em computadores.
-6. Entender questões relacionadas a desempenho,  operação e manutenção de sistemas digitais
+6. Entender questões relacionadas a desempenho, operação e manutenção de sistemas digitais
 
 ## Conteúdo Programático
 
 1. Lógica Combinacional
-2. Unidade Lógica Aritmética
-3. Lógica Sequencial
-4. Lógica de Controle
-5. Linguagem de Máquinas
-6. Assembly
-7. Assembler
-8. Máquina Virtual
-9. Controle de programa
-10. Linguagem Orientada a Objetos
-11. Análise Léxica e Sintática
-12. Linguagens
+1. Benchmarks, speedup
+1. Unidade Lógica Aritmética
+1. Lógica Sequencial
+1. Hierarquia de memória - Cache
+1. Lógica de Controle
+1. Linguagem de Máquinas
+1. Assembly
+1. Pipeline, Instruction Level parallelism, jump prediction
+1. Assembler
+1. Máquina Virtual
+1. Data level parallelism Vector, SIMD e GPU
+1. Controle de programa
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	NISAN, Noam; SCHOCKEN, Shimon., The Elements of Computing Systems, MIT Press, 2005
+1.  NISAN, Noam; SCHOCKEN, Shimon., The Elements of Computing Systems, Second Edition: Building a Modern Computer from First Principles MIT Press, 2021
 2.	TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L., Sistemas Digitais: Princípios e Aplicações, 11ª ed., Pearson, 2011
-3.	PATTERSON, D.; HENNESSY, J. L., Organização e Projeto de Computadores: A Interface Hardware/Software., 4ª ed., Campus, 2014
+3.  HENNESSY, JOHN L., AND DAVID A. PATTERSON. Computer architecture: a quantitative approach, Sixth Edition. Elsevier, 2017
 
 Artigos:
 
@@ -292,9 +294,10 @@ KHAN, S. et. Al.. A high performance processor architecture for multimedia appli
 
 Livros:
 
-1.	FLOYD, T. L., Digital Fundamentals, 11ª ed., Pearson, 2015
-2.	MOORE, Cristopher ; MERTENS, Stephan., The Nature of Computation, University Press, 2011 STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Prentice Hall Brasil, 2010
-3.	LAING, Gordon., Digital Retro: The Evolution and Design of the Personal Computer, Sybex, 2004 NIELSEN, L., Computing: A Business History, New Street Communications LLC, 2012
+1. PATTERSON, D.; HENNESSY, J. L., Organização e Projeto de Computadores: A Interface Hardware/Software., 4ª ed., Campus, Artigos:
+2.	FLOYD, T. L., Digital Fundamentals, 11ª ed., Pearson, 2015
+3.	MOORE, Cristopher ; MERTENS, Stephan., The Nature of Computation, University Press, 2011 STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Prentice Hall Brasil, 2010
+4.	LAING, Gordon., Digital Retro: The Evolution and Design of the Personal Computer, Sybex, 2004 NIELSEN, L., Computing: A Business History, New Street Communications LLC, 2012
 
 Artigos:
 
