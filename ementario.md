@@ -452,19 +452,24 @@ Identificação do problema real aplicando a metodologia design thinking; Repres
 
 Ao final da disciplina o aluno será capaz de:
 
-1.	Atuar em uma equipe gerenciada por métodos ágeis revezando papeis nesta equipe
-2.	Estruturar um sistema orientado a objeto a partir de requisitos
-3.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
-4.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
-5.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
-6.	Analizar uma base de código pré-existente e propor intervenções
-7.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
-8.	Classificar requisitos como funcionais ou não-funcionais
+1.	Atuar em uma equipe que gere um projeto por meio do métodos ágil SCRUM revezando papeis nesta equipe
+1.  Aplicar metodologia do design thinking para identificar e validar problemas de usuários
+1.  Identificar requisitos de sistema e expressá-los em casos de uso e histórias de usuário
+1.	Estruturar um sistema orientado a objeto a partir de requisitos
+1.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
+1.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
+1.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
+1.  Escrever documentação de software de forma organizada e clara
+1.	Analizar uma base de código pré-existente e propor intervenções
+1.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
+1.	Classificar requisitos como funcionais ou não-funcionais
 
 ## Conteúdo Programático
 
 
 1.	Design Thinking
+1.  Introdução à Engenharia de Software: fases do processo de desenvolvimento de software
+1.  Introdução ao framework ágil Scrum
 1.	Introdução à programação orientada a objetos
 1.	Diagramas UML
 1.	Introdução ao UML
@@ -519,20 +524,22 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Básica
 
-1.	MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
-2.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
-3.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
-4. BROWN, TIM. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2019.
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
+1.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
+
+
+
 
 ## Bibliografia Complementar
 
-4.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
-5.	SOMMERVILLE, I. , Engenharia de Software , 9ª ed., Pearson, 2011
-6.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
-7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
-8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
-9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
-10.
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
+1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
+1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
+1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
+
 
 
 
