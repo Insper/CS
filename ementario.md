@@ -375,40 +375,34 @@ Semestre  2º período
 
 ## Ementa
 
-Cálculo Diferencial e Integral com funções de uma variável: introdução, taxa de variação, limite, derivadas, integrais. Desenvolvimento da autonomia em relação ao aprendizado de conteúdos matemáticos.
+Cálculo Diferencial e Integral com funções de uma variável: limites, derivadas e aplicações, integrais, aproximação de funções. Geometria do R3: curvas e superfícies parametrizadas. Cálculo Diferencial com funções de várias variáveis: derivadas parciais, derivadas direcionais e otimização.
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1. Quantificar, interpretar e expressar algébrica e graficamente as taxas de variação média e insantânea de uma grandeza em relação a outra.
-2. Interpretar e calcular o valor acumulado de uma variável dependente com a alteração do valor da variável independente.
-3. Utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade com o objetivo de estabelecer previsões e tomar decisões
-4. Utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos.
-5. Aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente.
+1.	Quantificar, interpretar e expressar algébrica e graficamente a derivada de uma função de uma variável real (OA1).
+1.	Calcular a integral de uma função e relacioná-la ao problema do cálculo do valor acumulado de uma variável dependente (OA2).
+1.	Interpretar e representar figuras geométricas tridimensionais por meio do estudo de curvas e superfícies parametrizadas e gráficos de funções de várias variáveis (OA3).
+1.	Relacionar as diferentes ferramentas do Cálculo Diferencial e Integral a métodos de cálculo numérico (OA4).
+
 
 ## Conteúdo Programático:
 
-1. Os problemas fundamentais do Cálculo: taxa de variação instantânea e cálculo da acumulação de uma variável.
-2. Limite de sequências, limite e continuidade de funções.
-3. Derivada em um ponto e função derivada: interpretações algébrica e geométrica.
-4. Cálculo da derivada de diferentes funções.
-5. Integral definida e indefinida.
-6. Teorema Fundamental do Cálculo.
-7. Cálculo da integral de diferentes funções.
-8. Equações diferenciais ordinárias de 1a ordem: métodos analíticos de resolução.
-9. Equações diferenciais ordinárias de 2a ordem: métodos analíticos de resolução.
-10. Aplicações de derivadas: máximos e mínimos, concavidade, gráficos.
-11. Diferenciais, aproximações lineares e polinômio de Taylor.
-
-Funções de Rn em R:
-1. Funções de duas variáveis reais e representação gráfica; funções de n variáveis reais.
-2. Curvas de nível.
-3. Limites e continuidade.
-4. Derivadas parciais e interpretação geométrica; derivadas direcionais; derivadas de ordens superiores.
-5. Vetor gradiente: interpretação e cálculo.
-6. Plano tangente e reta normal; diferencial
-
+1.	Modelagem discreta e contínua e os conjuntos numéricos: inteiros, racionais, reais.
+2.	Limite e continuidade de funções.
+3.	Taxa de variação e a noção de derivada.
+4.	Derivada em um ponto e função derivada: interpretações algébrica e geométrica.
+5.	Funções diferenciáveis.
+6.	Cálculo da derivada de diferentes funções.
+7.	Aplicações de derivadas: máximos e mínimos, concavidade, gráficos.
+8.	Integral definida e indefinida.
+9.	Teorema Fundamental do Cálculo.
+10.	Diferenciais, aproximações lineares e polinômio de Taylor.
+11.	Curvas e superfícies parametrizadas no R3.
+12.	Funções de Rn em R: definição, domínio, gráfico, curvas de nível.
+13.	Derivadas parciais e derivadas direcionais.
+14.	Vetor gradiente e algoritmos de otimização.
 
 
 
