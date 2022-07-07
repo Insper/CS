@@ -343,33 +343,26 @@ Ao final da disciplina o aluno será capaz de:
 Livros:
 
 1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
-2.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
-3.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 2011
-4. WILKE, C. O., Fundamentals of Data Visualization, Claus O. Wilke, https://clauswilke.com/dataviz
+1.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
+1. WILKE, C. O., Fundamentals of Data Visualization, 1ª ed. O'Reilly, 2019. Disponível em <https://clauswilke.com/dataviz>. Acesso em jul 20222.
 
 Artigos:
 
-BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2019
+BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2022
 
 Bibliografia Complementar
 
 Livros:
 
-1.	DEKKING, F. M.; KRAAIKAMP, C. , A Modern Introduction to Probability and Statistics: Understanding Why and How., Springer, 2010
-2.	 SCHILLER, J.; SRINIVASAN, A.; SPIEGEL, M. , Probability and Statistics, McGraw-Hill, 2011
-3.	HAYTER, Anthony J, Probability and Statistics for Engineers and Scientists, 4ª ed., Duxbury Press, 2012
-4.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
-5.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
-6.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
+1.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 20111
+1 .	DEKKING, F. M.; KRAAIKAMP, C. , A Modern Introduction to Probability and Statistics: Understanding Why and How., Springer, 2010
+1.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
+1.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
+1.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
 
 Artigos:
 
 NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Expert Systems with Applications. , v. 41 , n. 16 , p. 7653-7670 , 2014. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0957417414003455. Acesso em: 27 maio 2019.
-
-
-
-
-
 
 
 
