@@ -19,7 +19,7 @@
 
 Carga Horária:  320
 
-Semestre  1º período
+**Semestre  1º período**
 
 ## Ementa
 
@@ -184,7 +184,7 @@ Livros:
 # Ética, Computação e Sociedade
 
 Carga Horária:  80
-Semestre  1º período
+*Semestre  1º período*
 
 
 ## Ementa
@@ -258,7 +258,7 @@ Artigos:
 # Bits e Processadores
 
 Carga Horária:  72
-Semestre  2º período
+*Semestre  2º período*
 
 ## Ementa
 
@@ -324,7 +324,7 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
 # Ciência dos Dados para Computação
 
 Carga Horária:  72
-Semestre  2º período
+*Semestre  2º período*
 
 ## Ementa
 
@@ -385,7 +385,7 @@ NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Ex
 # Matemática do Contínuo
 
 Carga Horária:  98
-Semestre  2º período
+*Semestre  2º período*
 
 ## Ementa
 
@@ -443,7 +443,7 @@ Livros:
 # Projeto Ágil e Programação Eficaz
 
 Carga Horária:  144
-Semestre  1º período
+*Semestre  1º período*
 
 ## Ementa:
 
@@ -552,7 +552,7 @@ Ao final da disciplina o aluno será capaz de:
 # Técnicas de Programação
 
 Carga Horária:  80
-Semestre  3º período
+*Semestre  3º período*
 
 ## Ementa
 
@@ -873,7 +873,7 @@ GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Networ
 # Algoritmos e Estruturas de Dados
 
 Carga Horária:  80
-Semestre  4º período
+*Semestre  4º período*
 
 ## Ementa
 
@@ -1251,7 +1251,7 @@ WINTERS, TITUS, TOM MANSHREK, HYRUM WRIGHT. Software Engineering at Google. O’
 # Análise de Algoritmos e Entrevistas Técnicas
 
 Carga Horária:  80
-Semestre  5º período
+*Semestre  5º período*
 
 
 
@@ -1304,7 +1304,7 @@ Ao final do curso, o aluno deve ser capaz de:
 # Megadados
 
 Carga Horária:  80
-Semestre  5º período
+*Semestre  5º período*
 
 ## Ementa
 
@@ -1450,7 +1450,7 @@ BOGERS, M., CHESBROUGH, H., MOEDAS, C.. Open innovation: research, practices, an
 # Jogos e Interação
 
 Carga Horária:  80
-Semestre  5º período
+*Semestre  5º período*
 
 ## Ementa
 
@@ -1584,7 +1584,7 @@ AI, Y.; PENG, M.; ZHANG, K.. Edge computing technologies for Internet of Things:
 
 Carga Horária:  160
 
-Semestre  6º período
+*Semestre  6º período*
 
 ## Ementa
 
