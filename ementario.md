@@ -33,7 +33,7 @@ Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Int
 
 ## Objetivos
 
-Projeto de Software:
+Programação:
 
 1. Desenvolver programas de computador.
 2. Identificar e programar estratégias computacionais de resolução de problemas práticos
@@ -49,7 +49,7 @@ Design Centrado no Usuário:
 2. Avaliar protótipos digitais a partir de personas e cenários.
 3. Aplicar testes de usabilidade.
 
-Projeto de Sistemas Complexos:
+Projeto de Software:
 
 1. Utilizar as linguagens, frameworks e arquiteturas apresentadas na disciplina a fim de implementar sistemas web;
 2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP enviando requests e tratando responses;
@@ -111,7 +111,7 @@ Artigo:
 
 MIKAMI, K. et al.. Effectiveness of Game Jam-based iterative program for game production in Japan.. Computers & Graphics. , v. 61 , p. 1-10 , 2016. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0097849316300863. Acesso em: 27 maio 2019.
 
-Desenvolvimento colaborativo:
+Times Ágeis:
 
 1.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
 
@@ -143,7 +143,7 @@ Programação:
 2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
 3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
 
-Desenvolvimento colaborativo:
+Times ágeis:
 
 1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
 
