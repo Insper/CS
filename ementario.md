@@ -3,7 +3,7 @@
 
 **Ementário**
 
-**Versão 3.9**
+**Versão 4.0**
 
 \newpage
 
@@ -19,7 +19,7 @@
 
 Carga Horária:  320
 
-**Semestre  1º período**
+*Semestre  1º período*
 
 ## Ementa
 
@@ -297,8 +297,8 @@ Ao final da disciplina o estudante será capaz de:
 Livros:
 
 1.  NISAN, Noam; SCHOCKEN, Shimon., The Elements of Computing Systems, Second Edition: Building a Modern Computer from First Principles MIT Press, 2021
-2.	TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L., Sistemas Digitais: Princípios e Aplicações, 11ª ed., Pearson, 2011
-3.  HENNESSY, JOHN L., AND DAVID A. PATTERSON. Computer architecture: a quantitative approach, Sixth Edition. Elsevier, 2017
+1.	TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L., Sistemas Digitais: Princípios e Aplicações, 11ª ed., Pearson, 2011
+1. HENNESSY, John. Arquitetura de Computadores - Uma Abordagem Quantitativa. Rio de Janeiro: GEN LTC, 2019. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595150669. Acesso em: 31 de May 2022.
 
 Artigos:
 
@@ -308,10 +308,12 @@ KHAN, S. et. Al.. A high performance processor architecture for multimedia appli
 
 Livros:
 
-1. PATTERSON, D.; HENNESSY, J. L., Organização e Projeto de Computadores: A Interface Hardware/Software., 4ª ed., Campus, Artigos:
-2.	FLOYD, T. L., Digital Fundamentals, 11ª ed., Pearson, 2015
-3.	MOORE, Cristopher ; MERTENS, Stephan., The Nature of Computation, University Press, 2011 STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Prentice Hall Brasil, 2010
-4.	LAING, Gordon., Digital Retro: The Evolution and Design of the Personal Computer, Sybex, 2004 NIELSEN, L., Computing: A Business History, New Street Communications LLC, 2012
+
+1. HENNESSY, John. Organização e Projeto de Computadores. Rio de Janeiro: GEN LTC, 2017. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595152908. Acesso em: 31 de Mai 2022.
+1. FLOYD, Thomas. Sistemas Digitais. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577801077. Acesso em: 31 de Mai 2022.
+1.	MOORE, Cristopher ; MERTENS, Stephan., The Nature of Computation, University Press, 2011
+1. STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Prentice Hall Brasil, 2010
+1.	LAING, Gordon., Digital Retro: The Evolution and Design of the Personal Computer, Sybex, 2004 NIELSEN, L., Computing: A Business History, New Street Communications LLC, 2012
 
 Artigos:
 
@@ -447,7 +449,7 @@ Carga Horária:  144
 
 ## Ementa:
 
-Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log).
+Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Introdução à Engenharia de Software e fases do processo de desenvolvimento de software.
 
 ## Objetivos
 
@@ -483,6 +485,69 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Básica
 
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
+1.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
+
+
+## Bibliografia Complementar
+
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
+1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
+1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
+1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+
+
+# Sprint Session 2
+
+Carga horária: 44h
+
+## Ementa:
+
+Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita. 
+
+## Objetivos
+
+Ao final da disciplina o aluno será capaz de:
+
+1.	Interpretar requisitos de um cliente relacionadas a um software centrado em dados
+2.	Propor uma solução
+3.	Esboçar a arquitetura de uma solução argumentando sobre restrições de projeto, demonstrando compreensão da computação em camadas e de forma integrada
+4.  Atuar em um time gerenciado por métodos ágeis na criação de um protótipo 
+4.	Apresentar o projeto e criar documentação escrita
+
+## Conteúdo programático
+
+1. Coleta de requisitos de cliente
+1. Arquitetura de software
+1. Gestão de times ágeis 
+1. Comunicação escrita
+1. Técnicas de apresentação 
+
+
+
+## Bibliografia Básica
+
+WAZLAWICK, Raul. Análise e Design Orientados a Objetos para Sistemas de Informação. Rio de Janeiro: GEN LTC, 2014. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595153653. Acesso em: 31 de May 2022.
+
+COHN, Mike. Desenvolvimento de Software com Scrum. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577808199. Acesso em: 31 de May 2022.
+
+DELAMARO, Marcio. Introdução ao Teste de Software. Rio de Janeiro: GEN LTC, 2016. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595155732. Acesso em: 31 de May 2022.
+
+COHN, Mike. Desenvolvimento de Software com Scrum. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577808199. Acesso em: 31 de May 2022.
+
+HIRAMA, Kechi. Engenharia de Software. Rio de Janeiro: GEN LTC, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595155404. Acesso em: 31 de May 2022.
+
+URMA, Raoul-Gabriel; WARBURTON, Richard. Desenvolvimento Real De Software. Rio de Janeiro: Editora Alta Books, 2021. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555202021. Acesso em: 31 de May 2022.
+
+BES, Pablo; ALMEIDA, Claudinei de; SCHOLZ, Robinson Henrique et al. Soft Skills. Porto Alegre: SAGAH, 2021. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556901244. Acesso em: 31 de May 2022.
+
+MACIEL, Francisco Marcelo de Barros. Python e Django. Rio de Janeiro: Editora Alta Books, 2020. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555200973. Acesso em: 31 de May 2022.
+
+
+
+
 1.	MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 2.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
 3.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
@@ -496,52 +561,6 @@ Ao final da disciplina o aluno será capaz de:
 7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
 9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
-
-
-# Sprint Session 2
-
-Carga horária: 44h
-
-## Ementa:
-
-Elaboração da arquitetura de um software; Desenvolvimento de solução; Prototipação e apresentação
-
-## Objetivos
-
-Ao final da disciplina o aluno será capaz de:
-
-1.	Identificar requisitos de um sistema a partir de ouvir o cliente
-2.	Planejar a arquitetura do software
-3.	Gerenciar o desenvolvimento usando métodos ágeis
-4.	Priorizar funcionalidades conforme prioridade do cliente
-
-## Conteúdo programático
-
-1.	Identificar requisitos de um sistema a partir de ouvir o cliente
-2.	Planejar a arquitetura do software
-3.	Gerenciar o desenvolvimento usando métodos ágeis
-4.	Priorizar funcionalidades conforme prioridade do cliente
-
-
-## Bibliografia Básica
-
-1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
-1.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
-1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
-
-
-
-
-## Bibliografia Complementar
-
-1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
-1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
-1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
-1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
-1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
-1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
-
-
 
 
 
