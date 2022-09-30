@@ -3,12 +3,9 @@
 
 **Ementário**
 
-**Versão 4.0**
+**Versão 4.1**
 
 \newpage
-
-
-
 
 
 
@@ -818,7 +815,7 @@ GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.
 \newpage
 
 
-# Programação Web e Times Ágeis
+# Arquitetura de Objetos e Times Ágeis
 
 Carga Horária:  80
 
@@ -1183,7 +1180,7 @@ SoftwareX. , n. 7 , 2018. ; Disponível em: https://www.sciencedirect.com/scienc
 
 \newpage
 
-# Projeto de Software e Gestão de Projetos Ágeis
+# Projeto de Software e Gestão Ágil
 
 Carga Horária:  80
 
