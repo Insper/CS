@@ -740,18 +740,19 @@ Conteúdo Programático:
 Bibliografia Básica
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
 2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
-3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
-4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+3. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
 
 Bibliografia Complementar
 
 1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
-2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008.
 3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
 4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
 5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
 6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
-7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+1.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+2.  H. Andrews and C. Patterson, "Singular Value Decomposition (SVD) Image Coding," in IEEE Transactions on Communications, vol. 24, no. 4, pp. 425-432, April 1976, doi: 10.1109/TCOM.1976.1093309. 
+3.  D. A. Huffman, "A Method for the Construction of Minimum-Redundancy Codes," in Proceedings of the IRE, vol. 40, no. 9, pp. 1098-1101, Sept. 1952, doi: 10.1109/JRPROC.1952.273898. 
+4.  G. K. Wallace, "The JPEG still picture compression standard," in IEEE Transactions on Consumer Electronics, vol. 38, no. 1, pp. xviii-xxxiv, Feb. 1992, doi: 10.1109/30.125072. 
 
 
 \newpage
