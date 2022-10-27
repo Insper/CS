@@ -756,63 +756,64 @@ Bibliografia Complementar
 
 \newpage
 
-# Lógica e Matemática Discreta
+# Logics and Discrete Mathematics
 
-Carga Horária:  80
+Course Load:  80
 
-Semestre  : 3º período
+Semester  : 3th 
 
-## Ementa
+## Syllabus
 
-Lógica proposicional; lógica de predicados; máquinas de turing; técnicas de provas; provadores automatizados; teoria de conjuntos; conjuntos numéricos; técnicas de enumeração; técnicas de contagem; relações e funções discretas; funções computáveis; aplicações discretas.
+Propositional logic; predicate logic; Turing machines; proof techniques; automated provers; set theory; numerical sets; enumeration techniques; counting techniques; discrete relations and functions; computable functions; discrete applications.
 
-## Objetivos
+## Objectives
 
-Ao final do curso, o aluno deve ser capaz de:
+At the end of the course, the student should be able to:
 
-1.	Produzir abstrações domínios de problemas e representá-las utilizando lógica de primeira ordem
-2.	Reconhecer limites de computabilidade em domínios
-3.	Realizar inferências e provas em domínios
-4.	Enumerar e contar elementos de domínios
-5.	Identificar relações e funções discretas entre elementos de domínios
+1. Produce problem domain abstractions and represent them using first-order logic
+2. Recognize computability limits in domains
+3. Perform inferences and proofs in domains
+4. Enumerate and count domain elements
+5. Identify relations and discrete functions among domain elements
 
-## Conteúdo Programático
+## Detailed Syllabus
 
-1.	Cálculo proposicional: representação, inferência e aplicações
-2.	Cálculo de Predicados: representação, inferência e aplicações
-3. Provadores automatizados para Cálculo Proposicional e de Predicados
-4. Máquinas de Turing e a noção de algoritmo
-5. Especificação axiomática e operacional de Máquinas de Turing
-6.	Técnicas de provas matemáticas: direta, indireta, redução ao absurdo e indução finita
-7.	Conjuntos discretos: representação, operações, propriedades
-8. Conjuntos numéricos: naturais, inteiros, racionais, reais, complexos e hipercomplexos, propriedades e aplicações
-9.	Cardinalidade de conjuntos numéricos, números finitos e transfinitos, aplicações
-10.	Técnicas de enumeração e contagem diretas, aplicações
-11.	Contagem indutiva, relações de recorrência e aplicações
-12.	Relações e funções discretas e aplicações
-13.	Funções discretas computáveis
+1. Propositional calculus: representation, inference and applications
+2. Predicate Calculus: representation, inference and applications
+3. Automated Proofs for Propositional and Predicate Calculus
+4. Turing machines and the notion of algorithm
+5. Axiomatic and operational specification of Turing Machines
+6. Mathematical proof techniques: direct, indirect, reduction to absurdity and finite induction
+7. Discrete sets: representation, operations, properties
+8. Numerical sets: natural, integer, rational, real, complex and hypercomplex, properties and applications
+9. Cardinality of numerical sets, finite and transfinite numbers, applications
+10. Direct enumeration and counting techniques, applications
+11. Inductive counting, recurrence relations and applications
+12. Relations and discrete functions and applications
+13. Computable Discrete Functions
 
-## Bibliografia Básica
-Livros:
+## Basic Bibliography
+Books:
 1.	STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. Editora Pearson, 2013.
 2.	GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação: Um Tratamento Moderno de Matemática Discreta, 7ª ed., Editora LTC, 2016.
 3.	SILVA, Flávio S.C.; Finger, M.; de Melo, Ana C.V. Lógica para Computação, 2a. ed. Ed. Cengage Learning, 2017.
 
-Artigo:
+Article:
 NICKERSON, R. Counting, Computing, and the Representation of Numbers. Human Factors The Journal of the Human Factors and Ergonomics Society 30(2), pp. 181-199, 1988.
 
-## Bibliografia Complementar
-Livros:
+## Complementary Bibliography
+Books:
 1.	GRAHAM, R.; KNUTH, D.; PATASHNIK, O. Concrete Mathematics: A Foundation for Computer Science. 2 ed. Ed. Addison-Wesley 1994.
 2.	MENDELSON, E. Introduction to Mathematical Logic (Discrete Mathematics and Its Applications). 6 ed. Ed. CRC Press, 2015.
 3.	VELLEMAN, D. How to Prove It: A Structured Approach. 3 ed. Ed. Cambridge University Press, 2019.
 4.	BISPO, C. A. F.; CASTANHEIRA, L. B.; MELO, S. F., O. Introdução à Lógica Matemática. Ed. Cengage Learning, 2012.
 5.	ROSS, K. A. e WRIGHT, C. R. B. Discrete Mathematics. Prentice-Hall, 1992.
 
-Artigo:
+Article:
 GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.A.R. Hoare. 3 (1), pp. 101-122, 2010.
  
 \newpage
+
 
 
 # Arquitetura de Objetos e Times Ágeis
