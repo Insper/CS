@@ -324,6 +324,9 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
 Hours: 72
 *2nd Semester*
 
+
+## Syllabus 
+
 Descriptive statistics with one and two variables. Types of data variables. Summary statistics for centrality and dispersion. Exploratory data analysis. Loading databases. Pre-processing, filtering and merging. Theory of probability. Probabilistic models for discrete and continuous variables. Sample mean and variance. Confidence intervals for relevant parameters. Statistical inerence. Non-parametric inference with re-sampling.
 
 ## Objectives
@@ -759,7 +762,7 @@ Hours: 80
 
 Semester: 3rd
 
-## Content
+## Syllabus 
 
 Vectors and vectors spaces; geometry in vector spaces; systems of linear equations; linear transformations; singular value decomposition; information and uncertainty; Shannon's entropy; mutual information; coding and compressing; error-correcting codes.
 
