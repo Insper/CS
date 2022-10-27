@@ -319,6 +319,62 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
  
 
 \newpage
+# Data Science for Computer Scientists
+
+Hours: 72
+*2nd Semester*
+
+Descriptive statistics with one and two variables. Types of data variables. Summary statistics for centrality and dispersion. Exploratory data analysis. Loading databases. Pre-processing, filtering and merging. Theory of probability. Probabilistic models for discrete and continuous variables. Sample mean and variance. Confidence intervals for relevant parameters. Statistical inerence. Non-parametric inference with re-sampling.
+
+## Objectives
+
+At the end of this course, students will be able to:
+
+1. Load datasets, select information, and clean data, allowing its further manipulation;
+2. Elaborate exploratory data analysis (with one or many variables) using adequate computational and statistical tools, generating visualizations and supporting decision-making;
+3. Specify probability distributions related to quantitative variables (discrete and continuous);
+4. Conduct inferential tests to support decision making.
+
+## Content
+
+1. Quantitative and qualitative variables
+2. Summary measures, centrality, dispersion
+3. Diagrams and graphical resources
+4. Introduction to the data manipulation environment
+5. Loading, filtering, and selecting data
+6. Bi-dimensional analysis
+7. Probabilty theory
+8. Introduction to classification
+9. Variables in continuous and discrete distributions
+10. Statistical inference (parametric and by re-sampling)
+
+## Essential Bibliography
+
+Books:
+
+1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
+1.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
+1. WILKE, C. O., Fundamentals of Data Visualization, 1ª ed. O'Reilly, 2019. Disponível em <https://clauswilke.com/dataviz>. Acesso em jul 20222.
+
+Articles:
+
+BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2022
+
+Supplementary bibliography
+
+Books:
+
+1.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 20111
+1 .	DEKKING, F. M.; KRAAIKAMP, C. , A Modern Introduction to Probability and Statistics: Understanding Why and How., Springer, 2010
+1.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
+1.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
+1.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
+
+Articles:
+
+NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Expert Systems with Applications. , v. 41 , n. 16 , p. 7653-7670 , 2014. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0957417414003455. Acesso em: 27 maio 2019.
+
+\newpage
 
 # Ciência dos Dados para Computação
 
