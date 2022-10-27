@@ -751,6 +751,63 @@ Artigos:
 TENORTH, M.; BEETZ, M.. Representations for robot knowledge in the KnowRob framework. Artificial Intelligence. , v. 247 , p. 151-169 , 2017. ; Disponível em: http://www.scienced
 
 
+\newpage
+
+# Linear Algebra and Information Theory
+
+Hours: 80
+
+Semester: 3rd
+
+## Content
+
+Vectors and vectors spaces; geometry in vector spaces; systems of linear equations; linear transformations; singular value decomposition; information and uncertainty; Shannon's entropy; mutual information; coding and compressing; error-correcting codes.
+
+## Objectives
+
+At the end of the course, students will be able to:
+
+1. Apply concepts of vector spaces to describe and manipulate objects;
+2. Solve spatial geometry problems using concepts related to vector spaces;
+3. Evaluate and solve linear systems;
+4. Interpret and analyze linear transforms;
+5. Apply singular value decompositions;
+6. Explain the ideas of information and coding;
+7. Apply methods of compression and error correction.
+
+## Contents
+
+1. Vectors and vector spaces;
+2. Norm, inner product, distance, angle, projection, plane;
+3. Linar combination, basis, dimention, Gram-Schmidt ortogonalization;
+4. Systems of linear equation, Gauss elimination;
+5. Linear transforms and matrix representation;
+6. Change of basis and transform similarity;
+7. Determinants;
+8. Eigenvalues and eigenvectors;
+9. Singular value decomposition;
+10. Information and uncertainty;
+11. Shannon's Entropy, mutual information;
+12. Coding and compression;
+13. Error-correcting codes.
+
+## Bibliography
+
+Essential bibliography
+1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
+2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
+3. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+
+Supplementary bibliography
+
+1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
+3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
+5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
+6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
+7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+
+
 
 \newpage
 
