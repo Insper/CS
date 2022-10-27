@@ -567,9 +567,9 @@ MACIEL, Francisco Marcelo de Barros. Python e Django. Rio de Janeiro: Editora Al
 
 # Programming Techniques
 
-Credit Hours:  80
+Course load: 80 hours
 
-*3º period*
+*3rd period*
 
 ## Course Program
 
@@ -586,13 +586,13 @@ At the end of the course a student will be able to
 5. Identify how classic computational strategies (search, sorting, optimization) can be adapted to solve new computational problems
 6. Estimate the computational complexity of an algorithm using an informal argument
 
-## Content
+## Detailed Syllabus
 
 * Abstract Data Types
 * Linear Data Structures: arrays, lists, stacks, queues
 * Hash tables
 * Matrices
-* Recusão
+* Recursion
 * Problem-solving strategies: backtracking, divide and conquer
 * Search
 * Introduction to asymptotic notation
