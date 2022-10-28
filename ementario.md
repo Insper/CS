@@ -321,15 +321,16 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
 \newpage
 # Data Science for Computer Scientists
 
-Hours: 72
-*2nd Semester*
+Course Load: 72h
+
+*2nd Period*
 
 
 ## Syllabus 
 
 Descriptive statistics with one and two variables. Types of data variables. Summary statistics for centrality and dispersion. Exploratory data analysis. Loading databases. Pre-processing, filtering and merging. Theory of probability. Probabilistic models for discrete and continuous variables. Sample mean and variance. Confidence intervals for relevant parameters. Statistical inerence. Non-parametric inference with re-sampling.
 
-## Objectives
+## Learning Goals
 
 At the end of this course, students will be able to:
 
@@ -338,7 +339,7 @@ At the end of this course, students will be able to:
 3. Specify probability distributions related to quantitative variables (discrete and continuous);
 4. Conduct inferential tests to support decision making.
 
-## Content
+## Detailed Syllabus
 
 1. Quantitative and qualitative variables
 2. Summary measures, centrality, dispersion
@@ -351,7 +352,7 @@ At the end of this course, students will be able to:
 9. Variables in continuous and discrete distributions
 10. Statistical inference (parametric and by re-sampling)
 
-## Essential Bibliography
+## Basic Bibliography
 
 Books:
 
@@ -363,7 +364,7 @@ Articles:
 
 BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2022
 
-Supplementary bibliography
+## Supplementary bibliography
 
 Books:
 
@@ -758,15 +759,15 @@ TENORTH, M.; BEETZ, M.. Representations for robot knowledge in the KnowRob frame
 
 # Linear Algebra and Information Theory
 
-Hours: 80
+Course load: 80h
 
-Semester: 3rd
+*3rd period*
 
 ## Syllabus 
 
 Vectors and vectors spaces; geometry in vector spaces; systems of linear equations; linear transformations; singular value decomposition; information and uncertainty; Shannon's entropy; mutual information; coding and compressing; error-correcting codes.
 
-## Objectives
+## Learning Goals
 
 At the end of the course, students will be able to:
 
@@ -778,7 +779,7 @@ At the end of the course, students will be able to:
 6. Explain the ideas of information and coding;
 7. Apply methods of compression and error correction.
 
-## Contents
+## Detailed Syllabus
 
 1. Vectors and vector spaces;
 2. Norm, inner product, distance, angle, projection, plane;
@@ -794,14 +795,13 @@ At the end of the course, students will be able to:
 12. Coding and compression;
 13. Error-correcting codes.
 
-## Bibliography
+## Basic Bibliography
 
-Essential bibliography
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
 2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
 3. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
 
-Supplementary bibliography
+## Supplementary bibliography
 
 1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
 3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
