@@ -823,14 +823,14 @@ Semestre  : 3º período
 
 ## Ementa
 
-Redes de computadores; Internet; Roteamento e interconexão de redes; Introdução ao TCP/IP; Protocolo HTTP; Arquiteturas de serviços web; Serviços REST e serviços SOAP; Representação de dados estruturados para tráfego e armazenamento de informações: JSON; Tecnologias de front-end Web; Planejamento e prototipação de front-ends web; Interfaces adaptáveis a múltiplos dispositivos clientes; Introdução a bancos de dados relacionais e SQL; Desenvolvimento de sistemas back-end (servidor); Usabilidade na web (Heurísticas de Usabilidade?! https://www.nngroup.com/articles/ten-usability-heuristics/).
+Redes de computadores; Internet; Roteamento e interconexão de redes; Introdução ao TCP/IP; Protocolo HTTP; Arquiteturas de serviços web; Serviços REST; Representação de dados estruturados para tráfego e armazenamento de informações: JSON; Tecnologias de front-end Web; Planejamento e prototipação de front-ends web; Interfaces adaptáveis a múltiplos dispositivos clientes; Introdução a bancos de dados relacionais e SQL; Desenvolvimento de sistemas back-end (servidor) com o framework Spring; Usabilidade na web (Heurísticas de Usabilidade. https://www.nngroup.com/articles/ten-usability-heuristics/).
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Interpretar e expres¬sar as necessidades dos usuários em plataformas web programadas seguindo as melhores práticas do mercado;
-2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP enviando requests e tratando responses;
+1. Interpretar e expressar as necessidades dos usuários em plataformas web programadas seguindo as melhores práticas do mercado;
+2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP tratando requests e gerando responses;
 3. Utilizar as linguagens, frameworks e arquiteturas apresentadas na disciplina a fim de implementar sistemas web;
 4. Utilizar as linguagens, frameworks e arquiteturas para resolver problemas reais dos usuários por meio da web;
 6. Planejar e acompanhar o projeto conforme princípios e valores ágeis, usando um framework diferente dos utilizados em outras disciplinas (Kanban, Scrum, squad, etc)
@@ -839,28 +839,27 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático:
 
-Arquitetura da Web: IP, TCP/IP e roteamento
-
+1. Arquitetura da Web: IP, TCP/IP e roteamento
 2. Arquitetura da Web: HTTP e WWW
 3. Tecnologias para front-end: CSS, HTML, Javascript e Ajax/JSON
 4. Usabilidade em aplicações Web / Interação Humano-Computador
-5. Programação de servidores em Java: Servlets
+5. Programação de servidores em Java
 6. SQL: Introdução e criação de CRUD
 7. Camada de comunicação entre back-end servidor e banco de dados
 8. Projeto de aplicações seguindo arquitetura Model-View-Controller
 9. Hospedagem de aplicações web e publicação do trabalho na web
 10. Projeto de aplicações seguindo arquitetura REST
 11. Bases de dados não relacionais (NoSQL)
-12. Front-ends com frameworks single-page (Angular)
-13. Backends com Node JS
+12. Front-ends com frameworks single-page (React)
+13. Backends com o Framework Spring (Java)
 
 ## Bibliografia Básica
 
 Livros:
 
 1.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
-2.	 COMER, D. E., Redes de Computadores e Internet, 6ª ed., Bookman, 2016
-3.	LUCKOW, D. H.; DE MELO, A. A., Programação Java para a Web, 2ª ed., Novatec, 2015
+2.	WALLS, C., Spring Boot in Action. Craig Walls, 2ª ed., Manning Publications, 2016
+3. SEDGEWICK R., WAYNE K., Introduction to programming in Java: an interdisciplinary approach. Addison-Wesley Professional, 2017
 
 Artigos:
 
@@ -871,18 +870,80 @@ GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the maki
 Livros:
 
 1.	SILVEIRA, P.et al., Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java., 1ª ed., Campus Elsevier, 2012
-2.	 DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016
-3.	DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
-4.	CANTELON, M. , Node. js in Action, 2ª ed., Manning, 2017
-5.	MCGOVERN, J., Java web services architecture, Morgan Kaufmann, 2003
+2.	Santana, E., Back-end Java. Microsserviços, Spring Boot e Kubernetes. Casa do Código, 2019
+3.	Bloch, J., Java efetivo: as melhores práticas para a plataforma Java, Alta Books 2019
+4.	ANICHE, M., Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis. Casa do Código, 2015
+5.	GAMMA et al. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Bookman, 2000
 
 Artigos:
 
 GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Network and Computer Applications. , v. 60 , n. 32 , p. 32-53 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804515002933. Acesso em: 27 maio 2019.
 
 
+\newpage
 
+# Object Architecture and Agile Teams
 
+Course load:  80
+
+*3rd period*
+
+## Syllabus
+
+Computer network; Internet; Routing and networks interconnection; Introduction to TCP/IP; HTTP protocol; Web services architectures; REST Services; Structured data representation for traffic and information storage: JSON; Web front-end technologies (React); Planning and prototyping of web front-ends; Interfaces adaptable to multiple client devices; Introduction to relational databases and SQL; Development of back-end systems (server) with Spring framework; Web Usability (Usability Heuristics https://www.nngroup.com/articles/ten-usability-heuristics/).
+
+## Learning Goals
+
+At the end of the course the student will be able to:
+
+1. Interpret and express user needs on web platforms following the best market practices;
+2. Implement a database that meets the data persistence requirements of a web application and work with HTTP requests by handling requests and generating responses;
+3. Use the languages, frameworks and architectures presented in the course in order to implement web applications;
+4. Use languages, frameworks and architectures to solve real user problems through the web;
+6. Plan and monitor the project according to agile principles and values, using a different framework from those used in other disciplines (Kanban, Scrum, squad, etc.)
+7. Consult the documentation of web libraries/frameworks and use them in the development of a web system
+
+## Detailed Syllabus
+
+1. Web Architecture: IP, TCP/IP and Routing
+2. Web Architecture: HTTP and WWW
+3. Front-end technologies: CSS, HTML, Javascript and Ajax/JSON
+4. Usability in Web Applications / Human-Computer Interaction
+5. Server programming in Java
+6. SQL: Introduction and creation of CRUD
+7. Communication layer between backend server and database
+8. Application design following Model-View-Controller architecture
+9. Hosting web applications and publishing work on the web
+10. Application design following REST architecture
+11. Non-relational databases (NoSQL)
+12. Front-ends with single-page frameworks (React)
+13. Backends with the Spring Framework (Java)
+
+## Basic Bibliography
+
+Books:
+
+1. DATE, C. J., Introduction to database systems, Campus, 2004
+2. WALLS, C., Spring Boot in Action. Craig Walls, 2ª ed., Manning Publications, 2016
+3. SEDGEWICK R., WAYNE K., Introduction to programming in Java: an interdisciplinary approach. Addison-Wesley Professional, 2017
+
+Papers:
+
+GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the making of HTML 5.. Telematics and Informatics. , v. 35 , n. 5 , p. 1438-1449 , 2018. ; Available in: https://www.sciencedirect.com/science/article/pii/S0736585317306342 . Acessed: May 27, 2019.
+
+## Supplementary Bibliography
+
+Books:
+
+1. SILVEIRA, P. et al., Introduction to Software Architecture and Design: A View on the Java Platform., 1st ed., Campus Elsevier, 2012
+2. Santana, E., Backend Java. Microservices, Spring Boot and Kubernetes. Code House, 2019
+3. Bloch, J., Effective Java: Best Practices for the Java Platform, Alta Books 2019
+4. ANICHE, M., Object Orientation and SOLID for Ninjas: Designing flexible classes. Code House, 2015
+5. GAMMA et al. Design Patterns: Reusable Object-Oriented Software Solutions. Bookman, 2000
+
+Papers:
+
+GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Network and Computer Applications. , v. 60 , n. 32 , p. 32-53 , 2016. ; Available in: https://www.sciencedirect.com/science/article/pii/S1084804515002933. Accessed in: 27 maio 2019.
 
 \newpage
 
