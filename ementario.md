@@ -664,15 +664,13 @@ Ao final da disciplina o estudante será capaz de:
 
 Livros:
 
-1.	NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
-2.	SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
-3.  GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+2. SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
+3. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
 
 Artigos:
 
-1. MCCARTHY, J. What is AI?. November, 2007. Disponível em [http://jmc.stanford.edu/articles/whatisai.html](http://jmc.stanford.edu/articles/whatisai.html).
-2. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. Disponível em [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
-3. INGRAND, F.; GHALLAB, M.. Deliberation for autonomous robots: a survey.. Artificial Intelligence. , v. 247 , p. 10-44 , 2017. ; Disponível em: [https://www.sciencedirect.com/science/article/pii/S0004370214001350](https://www.sciencedirect.com/science/article/pii/S0004370214001350).
+1. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. Disponível em [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
 
 
 ## Bibliografia Complementar
@@ -680,18 +678,15 @@ Artigos:
 Livros:
 
 1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.	
-2. SZELISKI, R.; GRIES, D.; SCHNEIDER, F. B. (Ed.), Computer Vision: Algorithms and Applications, Springer, 2011
-3. KAEHLER, A.; BRADSKI, G., Learning OpenCV: Computer Vision in C++ with the OpenCV Library, 2ª ed., O'Reilly Media, 2015
-4. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
-5. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
-6. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
-7. THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
+2. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
+3. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
+4. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
+5. THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
 
 Artigos:
 
 1. SILVER, D.; HUBERT T.; SCHRITTWIESER, J.; ANTONOGLOU, I.; LAI, M.; GUEZ, A. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://doi.org/10.1126/science.aar6404). Science 362, 1140-1144 (2018).
-2. Franklin S., Graesser A. It is an Agent, or just a program? A Taxonomy for Autonomous Agents. 1996.
-3. TENORTH, M.; BEETZ, M.. Representations for robot knowledge in the KnowRob framework. Artificial Intelligence. , v. 247 , p. 151-169 , 2017.
+
 
 
 \newpage
