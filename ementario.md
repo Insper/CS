@@ -572,53 +572,47 @@ Carga Horária:  80
 
 ## Ementa
 
-Estruturas ligadas simples, pilhas e filas; estratégia de resolução de problemas com recursão; operações com matrizes; imagens representadas como matrizes; algoritmos simples em imagens; introdução à notação assintótica; algoritmos simples com cadeias de caracteres; busca e backtracking; testes de software.
+Estratégias de resolução de problemas computacionais: recursão, divisão e conquista, backtracking; Algoritmos de ordenação: quicksort e mergesort; Algoritmos de busca: binária, em largura e profundidade; Introdução à notação assintótica; algoritmos simples com cadeias de caracteres; Pilhas, filas, matrizes e tabelas de Hash.
 
 
 ## Objetivos
 
 Ao final do curso, o aluno deve ser capaz de...
 
-1.	Resolver problemas de divisão e conquista utilizando recursão
-2.	Empregar estruturas ligadas para implementar pilhas e filas
-3.	Aplicar estruturas lineares simples (pilhas e filas)
-4.	Problemas geométricos usando computação gráfica e processamento de imagem
-5.	Relacionar pixels a formas e contornos
-6.	Identificar casos de complexidade linear e quadrática e expressá-la usando notação assintótica
-7.	Resolver problemas computacionais que exijam representação com matrizes
-8.	Carregar e salvar arquivos com diferentes tipos de representação e diferentes tipos de acesso
-9.	Expressar alocação de recursos e liberação após o uso em uma linguagem de programação
-10.	Escrever algoritmos simples de busca e comparação de cadeias de caracteres
-11.	Resolver problemas simples com busca e backtracking
-12.	Escrever testes unitários simples e asserções para testar software
+1.	Implementar em Java um algoritmo descrito em pseudo-código
+2.	Empregar Backtracking para resolver problemas computacionais
+3.	Empregar a técnica Divisão e Conquista para resolver problemas computacionais
+4.	Empregar estruturas de dados lineares (listas, matrizes, pilhas, filas, mapeamentos, conjuntos) para resolver problemas computacionais de maneira eficiente
+5.	Identificar como estratégias computacionais clássicas (busca, ordenação, otimização) podem ser adaptadas para resolver novos problemas computacionais
+6.	Estimar a complexidade computacional de um algoritmo usando uma argumentação informal baseada na contagem de vezes que uma linha executa
+
 
 ## Conteúdo Programático
 
-1.	Operações em matrizes
-2.	Estruturas lineares - pilhas e filas
-3.	Recursão
-4.	Busca e backtracking
-5.	Matrizes como imagens
-6.	Introdução a notação assintótica
-7.	Operações com strings
-8.	Arquivos, alocação e liberação de recursos
-9.	Introdução a testes de software.
+*	Tipos Abstratos de Dados
+*	Estruturas lineares: arrays, listas, pilhas e filas
+*	Tabelas de hash
+*	Matrizes
+*	Recursão
+*	Estratégias de resolução de problemas: backtracking e divisão e conquista
+*	Busca
+*	Introdução a notação assintótica
+*	Operações com strings
+
 
 ## Bibliografia Básica
 
-1.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
-2.	SEDGEWICK,, Robert. Algorithms in C - Parts1-4: Fundamentals, Data Strucutures, Sorting, Searching. 3ª ed. Addison-Wesley, 1997
-3.	SEDGEWICK, R.; WAYNE, K.; DONDERO, R. Introduction to Programming in Python: An Interdisciplinary Approach. Ed. Addison Wesley. 2015.
-
+1.	SEDGEWICK, R.; WAYNE, K., 2011. Algorithms. Addison-Wesley Professional; 4th edition, 2011
+2.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
+3.	SEDGEWICK, R.; WAYNE, K., Introduction to programming in Java: an interdisciplinary approach. Addison-Wesley Professional; 2017
 
 ## Bibliografia Complementar
 
 1.	VAUGHAN, L. Impractical Python: Playful Programming Activities to Make You Smarter. Ed. No Starch Press. 1.a ed. 2018.
 2.	WIRTH, N., Algoritmos e Estruturas de Dados. Rio de Janeiro: Editora LTC, 1989.
-3.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
+3.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
 4.	WENGROW, J. A Common-Sense Guide to Data Structures and Algorithms. 2e. Ed. The Pragmatic Programmers. 2020.
 5.	GUTTAG, J. V. Introduction to Computation and Programming Using Python: With Applications to Understanding Data. Ed. MIT Press. 2. ed. 2016.
-
 
 
 \newpage
