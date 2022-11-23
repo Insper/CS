@@ -625,68 +625,61 @@ Semestre  : 3º período
 
 ## Ementa
 
-Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Percepção, sensores e incerteza; Representação de conhecimento incerto e redes de representação de conhecimento; Robótica probabilística e Filtragem Estatística; Localização e mapamento; Lógica proposicional, lógica de predicados de 1a ordem e planejadores; Arquiteturas deliberativas; Arquiteturas cognitivas reativas, robótica comportamental, modelo de subsumption; Arquiteturas cognitivas híbridas; Processamento de imagens, amostragem, realce, filtragem e segmentação; Noções de visão computacional e reconhecimento de padrões: obtenção de informações de alto nível cognitivo a partir de imagens, contornos e classificadores baseados em posições e em vetores de características; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV);
+Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV). 
 
 ## Objetivos
 
 Ao final da disciplina o estudante será capaz de:
 
-1. Especificar sensores, atuadores e plataforma computacional para um robô que precisa resolver um determinado problema
-2. Desenvolver programas de computador capazes de resolver problemas de percepção, planejamento e controle/atuação
-3. Selecionar melhores técnicas de programação e estruturas de dados adequadas a programas que habilitem robôs a funcionar adequadamente
-4. Aplicar tecnologias computacionais atuais voltadas a robótica para prover uma dada funcionalidade a um usuário
-5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas
-6. Caracterizar e depurar problemas de desempenho de sistemas compostos de computação, sensores e atuadores
-
+1. Descrever os conceitos, técnicas e métodos para o desenvolvimento de Agentes Autônomos.
+2. Identificar quais tipos de problemas podem ser resolvidos através do uso de Agentes Autônomos. 
+3. Criar soluções para alguns problemas clássicos desta área.
+4. Especificar, desenvolver e testar projetos que façam uso de Agentes Autônomos para resolver problemas complexos.
+5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas.
 
 
 ## Conteúdo Programático
 
-1. Introdução à disciplina, evolução e aplicações da robótica
-2. Enfoques computacionais para robótica
-3. Introdução a processamento de imagens: modelos de imagem, cores, percepção, luz com onda eletromagnética, metameria
-4. Imagens em cores, modos de representação e histograma
-5. Modelo pinhole de câmera e fotogrametria, calibração de câmeras
-6. Filtros lineares, realce, suavização, deteção de bordas e transformada de Hough
-7. Robot Operating System - arquitetura de eventos - listeners e subscribers
-8. Programação em Python para ROS
-9. Arquiteturas comportamentais reativas e deliberativas
-10. Máquinas de estados e modelo subsumption
-11. Probabilidade condicional e teorema de Bayes - revisão
-12. Estimativa de valor de estado dadas as leituras de sensores - estimativas discretas de posição e filtro de partículas
-13. Navegação e localização em robôs móveis
-14. Lógica de predicados e programação lógica
-15. Descrição lógica de espaço de estados e transformação de estados
-16. Planejamento
-17. Tópicos avançados: Localização e Mapeamento Simultâneos
-18. Tópicos avançados: Classificação de padrões aplicada a robótica
-19. Tópicos avançados: Visão computacional avançada
+1. Definições de Agente Autônomo e resolução de problemas.
+2. Estratégias de busca: algoritmos de busca cega e algoritmos informados. 
+3. Heurísticas.
+4. Implementação de agentes autônomos utilizando estratégias de busca.
+5. Ambientes competitivos e teoria de jogos. 
+6. Algoritmo Min-Max e função de utilidade. 
+7. Implementação de agentes autônomos para ambientes competitivos.
+8. Aprendizagem por Reforço.
+9. Implementação de agentes autônomos usando aprendizagem por reforço. 
+10. Algoritmo Q-Learning. 
+11. Implementações de agentes autônomos usando o projeto Gym.
+12. Implementação de um agente robótico. 
+
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
-2.	SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
-3.	SZELISKI, R.; GRIES, D.; SCHNEIDER, F. B. (Ed.), Computer Vision: Algorithms and Applications, Springer, 2011
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+2. SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
+3. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
 
 Artigos:
 
-INGRAND, F.; GHALLAB, M.. Deliberation for autonomous robots: a survey.. Artificial Intelligence. , v. 247 , p. 10-44 , 2017. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0004370214001350. Acesso em: 27 maio 2019.
+1. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. Disponível em [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
+
 
 ## Bibliografia Complementar
 
 Livros:
 
-1.	KAEHLER, A.; BRADSKI, G., Learning OpenCV: Computer Vision in C++ with the OpenCV Library, 2ª ed., O'Reilly Media, 2015
-2.	O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
-3.	SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
-4.	ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
-5.	THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
+1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.	
+2. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
+3. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
+4. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
+5. THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
 
 Artigos:
 
-TENORTH, M.; BEETZ, M.. Representations for robot knowledge in the KnowRob framework. Artificial Intelligence. , v. 247 , p. 151-169 , 2017. ; Disponível em: http://www.scienced
+1. SILVER, D.; HUBERT T.; SCHRITTWIESER, J.; ANTONOGLOU, I.; LAI, M.; GUEZ, A. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://doi.org/10.1126/science.aar6404). Science 362, 1140-1144 (2018).
 
 
 
