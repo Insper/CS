@@ -319,6 +319,66 @@ MISHRA, D.. A survey of memory management techniques in virtualized systems.. Co
  
 
 \newpage
+# Data Science for Computer Scientists
+
+Course Load: 72h
+
+*2nd Period*
+
+
+## Syllabus 
+
+Descriptive statistics with one and two variables. Types of data variables. Summary statistics for centrality and dispersion. Exploratory data analysis. Loading databases. Pre-processing, filtering and merging. Theory of probability. Probabilistic models for discrete and continuous variables. Sample mean and variance. Confidence intervals for relevant parameters. Statistical inerence. Non-parametric inference with re-sampling.
+
+## Learning Goals
+
+At the end of this course, students will be able to:
+
+1. Load datasets, select information, and clean data, allowing its further manipulation;
+2. Elaborate exploratory data analysis (with one or many variables) using adequate computational and statistical tools, generating visualizations and supporting decision-making;
+3. Specify probability distributions related to quantitative variables (discrete and continuous);
+4. Conduct inferential tests to support decision making.
+
+## Detailed Syllabus
+
+1. Quantitative and qualitative variables
+2. Summary measures, centrality, dispersion
+3. Diagrams and graphical resources
+4. Introduction to the data manipulation environment
+5. Loading, filtering, and selecting data
+6. Bi-dimensional analysis
+7. Probabilty theory
+8. Introduction to classification
+9. Variables in continuous and discrete distributions
+10. Statistical inference (parametric and by re-sampling)
+
+## Basic Bibliography
+
+Books:
+
+1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
+1.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
+1. WILKE, C. O., Fundamentals of Data Visualization, 1ª ed. O'Reilly, 2019. Disponível em <https://clauswilke.com/dataviz>. Acesso em jul 20222.
+
+Articles:
+
+BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2022
+
+## Supplementary bibliography
+
+Books:
+
+1.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 20111
+1 .	DEKKING, F. M.; KRAAIKAMP, C. , A Modern Introduction to Probability and Statistics: Understanding Why and How., Springer, 2010
+1.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
+1.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
+1.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
+
+Articles:
+
+NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Expert Systems with Applications. , v. 41 , n. 16 , p. 7653-7670 , 2014. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0957417414003455. Acesso em: 27 maio 2019.
+
+\newpage
 
 # Ciência dos Dados para Computação
 
@@ -675,6 +735,62 @@ At the end of the course, the student should be able to:
 1. SILVER, D.; HUBERT T.; SCHRITTWIESER, J.; ANTONOGLOU, I.; LAI, M.; GUEZ, A. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://doi.org/10.1126/science.aar6404). Science 362, 1140-1144 (2018).
 1. Franklin S., Graesser A. It is an Agent, or just a program? A Taxonomy for Autonomous Agents. 1996.
 
+\newpage
+
+# Linear Algebra and Information Theory
+
+Course load: 80h
+
+*3rd period*
+
+## Syllabus 
+
+Vectors and vectors spaces; geometry in vector spaces; systems of linear equations; linear transformations; singular value decomposition; information and uncertainty; Shannon's entropy; mutual information; coding and compressing; error-correcting codes.
+
+## Learning Goals
+
+At the end of the course, students will be able to:
+
+1. Apply concepts of vector spaces to describe and manipulate objects;
+2. Solve spatial geometry problems using concepts related to vector spaces;
+3. Evaluate and solve linear systems;
+4. Interpret and analyze linear transforms;
+5. Apply singular value decompositions;
+6. Explain the ideas of information and coding;
+7. Apply methods of compression and error correction.
+
+## Detailed Syllabus
+
+1. Vectors and vector spaces;
+2. Norm, inner product, distance, angle, projection, plane;
+3. Linar combination, basis, dimention, Gram-Schmidt ortogonalization;
+4. Systems of linear equation, Gauss elimination;
+5. Linear transforms and matrix representation;
+6. Change of basis and transform similarity;
+7. Determinants;
+8. Eigenvalues and eigenvectors;
+9. Singular value decomposition;
+10. Information and uncertainty;
+11. Shannon's Entropy, mutual information;
+12. Coding and compression;
+13. Error-correcting codes.
+
+## Basic Bibliography
+
+1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
+2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
+3. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+
+## Supplementary bibliography
+
+1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
+3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
+5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
+6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
+7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+
+
 
 \newpage
 
@@ -720,18 +836,19 @@ Conteúdo Programático:
 Bibliografia Básica
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
 2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
-3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
-4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+3. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
 
 Bibliografia Complementar
 
 1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
-2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008.
 3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
 4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
 5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
 6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
-7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+1.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+2.  H. Andrews and C. Patterson, "Singular Value Decomposition (SVD) Image Coding," in IEEE Transactions on Communications, vol. 24, no. 4, pp. 425-432, April 1976, doi: 10.1109/TCOM.1976.1093309. 
+3.  D. A. Huffman, "A Method for the Construction of Minimum-Redundancy Codes," in Proceedings of the IRE, vol. 40, no. 9, pp. 1098-1101, Sept. 1952, doi: 10.1109/JRPROC.1952.273898. 
+4.  G. K. Wallace, "The JPEG still picture compression standard," in IEEE Transactions on Consumer Electronics, vol. 38, no. 1, pp. xviii-xxxiv, Feb. 1992, doi: 10.1109/30.125072. 
 
 
 \newpage
