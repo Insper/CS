@@ -565,59 +565,53 @@ MACIEL, Francisco Marcelo de Barros. Python e Django. Rio de Janeiro: Editora Al
 
 \newpage
 
-# Técnicas de Programação
+# Programming Techniques
 
-Carga Horária:  80
-*Semestre  3º período*
+Course load: 80 hours
 
-## Ementa
+*3rd period*
 
-Estruturas ligadas simples, pilhas e filas; estratégia de resolução de problemas com recursão; operações com matrizes; imagens representadas como matrizes; algoritmos simples em imagens; introdução à notação assintótica; algoritmos simples com cadeias de caracteres; busca e backtracking; testes de software.
+## Course Program
 
+Strategies to solve computational problems: recursion, divide and conquer, backtracking; Sorting Algorithms: quicksort, mergesort; Search algorithms: binary search, depth- and breadth-first; Introduction to asymptotic notation; String algorithms; Linear data structures: Stacks, queues, matrices and hash tables
 
-## Objetivos
+## Learning Goals
 
-Ao final do curso, o aluno deve ser capaz de...
+At the end of the course a student will be able to
 
-1.	Resolver problemas de divisão e conquista utilizando recursão
-2.	Empregar estruturas ligadas para implementar pilhas e filas
-3.	Aplicar estruturas lineares simples (pilhas e filas)
-4.	Problemas geométricos usando computação gráfica e processamento de imagem
-5.	Relacionar pixels a formas e contornos
-6.	Identificar casos de complexidade linear e quadrática e expressá-la usando notação assintótica
-7.	Resolver problemas computacionais que exijam representação com matrizes
-8.	Carregar e salvar arquivos com diferentes tipos de representação e diferentes tipos de acesso
-9.	Expressar alocação de recursos e liberação após o uso em uma linguagem de programação
-10.	Escrever algoritmos simples de busca e comparação de cadeias de caracteres
-11.	Resolver problemas simples com busca e backtracking
-12.	Escrever testes unitários simples e asserções para testar software
+1. Implement in Java an algorithm described in pseudo-code
+2. Use Backtracking to solve computational problems
+3. Use Divide and Conquer to solve computational problems
+4. Use linear data structures to efficiently solve computational problems
+5. Identify how classic computational strategies (search, sorting, optimization) can be adapted to solve new computational problems
+6. Estimate the computational complexity of an algorithm using an informal argument
 
-## Conteúdo Programático
+## Detailed Syllabus
 
-1.	Operações em matrizes
-2.	Estruturas lineares - pilhas e filas
-3.	Recursão
-4.	Busca e backtracking
-5.	Matrizes como imagens
-6.	Introdução a notação assintótica
-7.	Operações com strings
-8.	Arquivos, alocação e liberação de recursos
-9.	Introdução a testes de software.
+* Abstract Data Types
+* Linear Data Structures: arrays, lists, stacks, queues
+* Hash tables
+* Matrices
+* Recursion
+* Problem-solving strategies: backtracking, divide and conquer
+* Search
+* Introduction to asymptotic notation
+* Strings
 
-## Bibliografia Básica
+## Basic Bibliography
 
-1.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
-2.	SEDGEWICK,, Robert. Algorithms in C - Parts1-4: Fundamentals, Data Strucutures, Sorting, Searching. 3ª ed. Addison-Wesley, 1997
-3.	SEDGEWICK, R.; WAYNE, K.; DONDERO, R. Introduction to Programming in Python: An Interdisciplinary Approach. Ed. Addison Wesley. 2015.
+1.	SEDGEWICK, R.; WAYNE, K., 2011. Algorithms. Addison-Wesley Professional; 4th edition, 2011
+2.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
+3.	SEDGEWICK, R.; WAYNE, K., Introduction to programming in Java: an interdisciplinary approach. Addison-Wesley Professional; 2017
 
-
-## Bibliografia Complementar
+## Supplementary Bibliography
 
 1.	VAUGHAN, L. Impractical Python: Playful Programming Activities to Make You Smarter. Ed. No Starch Press. 1.a ed. 2018.
 2.	WIRTH, N., Algoritmos e Estruturas de Dados. Rio de Janeiro: Editora LTC, 1989.
-3.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
+3.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
 4.	WENGROW, J. A Common-Sense Guide to Data Structures and Algorithms. 2e. Ed. The Pragmatic Programmers. 2020.
 5.	GUTTAG, J. V. Introduction to Computation and Programming Using Python: With Applications to Understanding Data. Ed. MIT Press. 2. ed. 2016.
+
 
 
 
