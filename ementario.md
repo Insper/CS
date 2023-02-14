@@ -617,77 +617,63 @@ At the end of the course a student will be able to
 
 \newpage
 
-# Inteligência Artificial e Robótica
+# Artificial Intelligence (AI) and Robotics
 
-Carga Horária:  80
+Course load: 80
 
-Semestre  : 3º período
+3rd period
 
-## Ementa
+## Syllabus
 
-Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Percepção, sensores e incerteza; Representação de conhecimento incerto e redes de representação de conhecimento; Robótica probabilística e Filtragem Estatística; Localização e mapamento; Lógica proposicional, lógica de predicados de 1a ordem e planejadores; Arquiteturas deliberativas; Arquiteturas cognitivas reativas, robótica comportamental, modelo de subsumption; Arquiteturas cognitivas híbridas; Processamento de imagens, amostragem, realce, filtragem e segmentação; Noções de visão computacional e reconhecimento de padrões: obtenção de informações de alto nível cognitivo a partir de imagens, contornos e classificadores baseados em posições e em vetores de características; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV);
+Introduction to AI; Agents and environments; Solving problems by searching; Search algorithms; Uniformed search strategies; Informed (heuristic) search strategies; Heuristics functions; Local search and optimization problems; Adversarial search and games; Reinforcement Learning, and; Robotics. 
 
-## Objetivos
+## Learning Goals
 
-Ao final da disciplina o estudante será capaz de:
+At the end of the course, the student should be able to:
 
-1. Especificar sensores, atuadores e plataforma computacional para um robô que precisa resolver um determinado problema
-2. Desenvolver programas de computador capazes de resolver problemas de percepção, planejamento e controle/atuação
-3. Selecionar melhores técnicas de programação e estruturas de dados adequadas a programas que habilitem robôs a funcionar adequadamente
-4. Aplicar tecnologias computacionais atuais voltadas a robótica para prover uma dada funcionalidade a um usuário
-5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas
-6. Caracterizar e depurar problemas de desempenho de sistemas compostos de computação, sensores e atuadores
+1. Describe concepts, techniques, and methods related to the deployment of Autonomous Agents. 
+1. Identify the problems that could be solved by Autonomous Agents.  
+1. Create solutions for typical AI problems. 
+1. Specify, develop and test autonomous agents to solve complex problems. 
+
+## Detailed Syllabus
+
+1. What is AI?
+1. The State of the Art of AI.
+1. Autonomous Agents and Environments. 
+1. Solving problems by searching. 
+1. Formulating problems. 
+1. Implementation of autonomous agents
+1. Search algorithms: uninformed search strategies, and informed (heuristic) search strategies. 
+1. Heuristic functions.
+1. Hill-climbing search. 
+1. Adversarial search and games: the minmax search algorithm, and evaluation functions. 
+1. Implementation of autonomous agents which works in a competitive environment. 
+1. Reinforcement Learning.
+1. Q-Learning algorithm.
+1. Acting under uncertainty.
+1. Developing agents with OpenAI Gym project, and other environments, like, kaglle environment for autonomous agents. 
+1. Robotics.
+1. Robotic perception: localization and mapping, and other types of perception. 
+1. Planning and control.
+1. Robotic frameworks. 
+
+## Basic Bibliography
+
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+1. SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
+1. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
+1. MCCARTHY, J. What is AI?. November, 2007. [http://jmc.stanford.edu/articles/whatisai.html](http://jmc.stanford.edu/articles/whatisai.html).
+1. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
+1. INGRAND, F.; GHALLAB, M.. Deliberation for autonomous robots: a survey.. Artificial Intelligence. , v. 247 , p. 10-44 , 2017. ; Disponível em: [https://www.sciencedirect.com/science/article/pii/S0004370214001350](https://www.sciencedirect.com/science/article/pii/S0004370214001350).
 
 
+## Supplementary Bibliography
 
-## Conteúdo Programático
-
-1. Introdução à disciplina, evolução e aplicações da robótica
-2. Enfoques computacionais para robótica
-3. Introdução a processamento de imagens: modelos de imagem, cores, percepção, luz com onda eletromagnética, metameria
-4. Imagens em cores, modos de representação e histograma
-5. Modelo pinhole de câmera e fotogrametria, calibração de câmeras
-6. Filtros lineares, realce, suavização, deteção de bordas e transformada de Hough
-7. Robot Operating System - arquitetura de eventos - listeners e subscribers
-8. Programação em Python para ROS
-9. Arquiteturas comportamentais reativas e deliberativas
-10. Máquinas de estados e modelo subsumption
-11. Probabilidade condicional e teorema de Bayes - revisão
-12. Estimativa de valor de estado dadas as leituras de sensores - estimativas discretas de posição e filtro de partículas
-13. Navegação e localização em robôs móveis
-14. Lógica de predicados e programação lógica
-15. Descrição lógica de espaço de estados e transformação de estados
-16. Planejamento
-17. Tópicos avançados: Localização e Mapeamento Simultâneos
-18. Tópicos avançados: Classificação de padrões aplicada a robótica
-19. Tópicos avançados: Visão computacional avançada
-
-## Bibliografia Básica
-
-Livros:
-
-1.	NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
-2.	SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
-3.	SZELISKI, R.; GRIES, D.; SCHNEIDER, F. B. (Ed.), Computer Vision: Algorithms and Applications, Springer, 2011
-
-Artigos:
-
-INGRAND, F.; GHALLAB, M.. Deliberation for autonomous robots: a survey.. Artificial Intelligence. , v. 247 , p. 10-44 , 2017. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0004370214001350. Acesso em: 27 maio 2019.
-
-## Bibliografia Complementar
-
-Livros:
-
-1.	KAEHLER, A.; BRADSKI, G., Learning OpenCV: Computer Vision in C++ with the OpenCV Library, 2ª ed., O'Reilly Media, 2015
-2.	O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
-3.	SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
-4.	ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
-5.	THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
-
-Artigos:
-
-TENORTH, M.; BEETZ, M.. Representations for robot knowledge in the KnowRob framework. Artificial Intelligence. , v. 247 , p. 151-169 , 2017. ; Disponível em: http://www.scienced
-
+1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.	
+1. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
+1. SILVER, D.; HUBERT T.; SCHRITTWIESER, J.; ANTONOGLOU, I.; LAI, M.; GUEZ, A. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://doi.org/10.1126/science.aar6404). Science 362, 1140-1144 (2018).
+1. Franklin S., Graesser A. It is an Agent, or just a program? A Taxonomy for Autonomous Agents. 1996.
 
 
 \newpage
