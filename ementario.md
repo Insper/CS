@@ -346,7 +346,7 @@ Ao final da disciplina o aluno será capaz de:
 4. Introdução ao ambiente de tratamento de dados. 
 5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. 
 6. Análise bidimensional. 
-7. Teoria da probabilidade. 
+7. Teoria da probabilidade. Machine
 8. Introdução à classificação. 
 9. Variáveis e distribuições discretas e contínuas. 
 10. Inferência estatística e por reamostragem. 
@@ -960,12 +960,11 @@ Esta disciplina apresenta os fundamentos de aprendizado de máquina (machine lea
 O aluno deve ser capaz de:
 
 1. Conceituar um problema envolvendo aprendizado de máquina: identificação de características, escolha de modelo e de estratégia de aprendizado
-2. Projetar e implementar uma solução de aprendizado de máquina para problemas de classificação supervisionada, e avaliar sua sensibilidade e especificidade.
-3. Projetar e implementar uma solução de aprendizado de máquina para problemas de regressão multivariada, e avaliar a qualidade do modelo obtido.
+2. Projetar e implementar uma solução de aprendizado de máquina para problemas de regressão multivariada, e avaliar a qualidade do modelo obtido.
+3. Projetar e implementar uma solução de aprendizado de máquina para problemas de classificação supervisionada, e avaliar sua sensibilidade e especificidade.
 4. Projetar e implementar uma solução de aprendizado de máquina para problemas simples de classificação não-supervisionada, e avaliar a viabilidade do modelo obtido.
-5. Descrever e experimentar com técnicas de análise de texto via aprendizado de máquina
-6. Descrever e experimentar com técnicas de reinforcement learning
-7. Descrever e experimentar com técnicas de deep learning
+5. Descrever e experimentar com técnicas de reinforcement learning
+6. Descrever e experimentar com técnicas de deep learning
 
 ## Conteúdo Programático
 
