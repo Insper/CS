@@ -953,7 +953,7 @@ Semestre  : 4.o período
 
 ## Ementa
 
-Esta disciplina apresenta os fundamentos de aprendizado de máquina (machine learning), e suas aplicações em Engenharia. Os alunos irão aprender sobre as principais áreas do aprendizado de máquina: métodos supervisionados e não supervisionados, para classificação e regressão. Além disso, os alunos aprenderão sobre tópicos avançados na área, como reinforcement learning, análise de texto, e deep learning. Nesta disciplina os alunos construirão seu conhecimento através de experimentos práticos com Python e bibliotecas para aprendizado de máquina, como scikit-learn e TensorFlow.
+Esta disciplina apresenta os fundamentos de aprendizado de máquina (machine learning), e suas aplicações em Engenharia. Os alunos irão aprender sobre as principais áreas do aprendizado de máquina: métodos supervisionados e não supervisionados, para classificação e regressão. Além disso, os alunos aprenderão sobre tópicos avançados na área, como reinforcement learning e deep learning. Nesta disciplina os alunos construirão seu conhecimento através de experimentos práticos com Python e bibliotecas para aprendizado de máquina, como scikit-learn e TensorFlow.
 
 ## Objetivos
 
@@ -969,21 +969,22 @@ O aluno deve ser capaz de:
 
 ## Conteúdo Programático
 
-1. O aprendizado de máquina: arquitetura de solução, seleção de características, métodos de avaliação (1,3)
+1. O aprendizado de máquina: análise exploratória, arquitetura de solução, seleção de características, métodos de avaliação (1,3)
 2. Regressão: Regressão linear, regularização, Support Vector Machines, redes neurais (3)
-3. Classificação: Regressão logística, k-NN, árvores de decisão, boosting e métodos de ensemble (3)
+3. Classificação: Regressão logística, árvores de decisão, boosting e métodos de ensemble (3)
 4. Clustering e métodos não-supervisionados, análise de componentes principais. (3)
-5. Análise de texto: análise de sentimento e modelagem de tópicos (2,3)
+5. Deep learning. (3)
 6. Reinforcement learning (2,3)
-7. Deep learning. (3)
+
+
 
 ## Bibliografia Básica
 
 Livros:
 
 1.	FACELI, K.; LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F, Inteligência artificial: Uma abordagem de aprendizado de máquina, LTC, 2011
-2.	GÉRON, A., Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, O'Reilly Media, 2017
-3.	RIBEIRO-NETO, B.; BAEZA-YATES, R. , Recuperação de Informação - Conceitos e Tecnologia Das Máquinas de Busca, 2ª ed., Bookman, 2013
+2.	GÉRON, A., Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition, O'Reilly Media, 2022, ISBN: 9781098125974
+3.	GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A., Deep Learning, MIT Press, 2016, http://www.deeplearningbook.org
 
 Artigos:
 
@@ -992,10 +993,9 @@ LE CUN, Y.; BENGIO, Y.; HINTON, G.. Deep Learning.. Nature. , v. 521 , p. 436-44
 Bibliografia Complementar
 Livros:
 1.	HASTIE, T., TIBSHIRANI, R., FRIEDMAN, J., , The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2ª ed., Springer, 2009
-2.	MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. , Introduction to Information Retrieval, 1ª ed., Cambridge University Press, 2008
-3.	DUDA, R. O., HART, P. E., STORK, D. G, Pattern Classification, 2ª ed., Wiley, 2001
-4.	O’NEILL, C., SCHUTT, R., , Doing Data Science: Straight Talk from the Frontline, O’Reilly, 2014
-5.	MURPHY, K. P., , Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+2.	DUDA, R. O., HART, P. E., STORK, D. G, Pattern Classification, 2ª ed., Wiley, 2001
+3.	MURPHY, K. P., , Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+4.	BURKOV, A., The Hundred-Page Machine Learning Book, 2019, ISBN-10 1777005477
 Artigos:
 SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v. 550 , p. 354-359 , 2017. ; Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
 
