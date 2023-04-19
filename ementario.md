@@ -1073,8 +1073,8 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	RAMOS, M. V. M.; JOSÉ NETO, J.; VEJA, I. S., Linguagens Formais. Teoria, Modelagem e Implementação, 1ª ed., Bookman, 2009
-2.	AHO, A.V.; LAM, M. S.; SETHI, R.; ULLMAN, J., Compiladores: Princípios, Técnicas e Ferramentas, 2ª ed., Longman, 2007
+1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 20217. 
+2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015. 
 3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016
 
 Artigos:
@@ -1087,7 +1087,7 @@ Livros:
 
 1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
 2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
-3.	HOPCROFT, J. E.; ULLMAN, J. D; MOTWANU, R., Introdução à Teoria dos Autômatos, Linguagens e Computação, 1ª ed., CAMPUS, 2002
+3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.  
 4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
 5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
 
