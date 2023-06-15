@@ -1175,7 +1175,7 @@ Semestre  : 4º período
 
 ## Ementa
 
-Modelagem da Arquitetura de Software; Padrões de Projeto; Formas de documentação do projeto e boas práticas de codificação;
+Modelagem da Arquitetura de Software; Arquitetura Limpa; Padrões de Projeto; Formas de documentação do projeto e boas práticas de codificação;
 Engenharia de Software; Padrões de Projeto; Princípios da responsabilidade única, princípio do aberto/fechado, princípio da substituição de Liskov, da segregação de interface e da inversão de dependência. Refatoração de código. Estratégias de testes automatizados de software: testes de interface, testes de integração, testes funcionais e testes de aceitação; Métricas estáticas de controle de qualidade. Dívida técnica.  Decisão de projeto baseada em dados; Produtividade de times de software. Alinhamento dos projetos de software com as estratégias de negócios; Estimativas de custos de projetos: de mão-de-obra e arquitetura. Práticas Ágeis aplicadas ao desenvolvimento de software (Pair Programming, Code review); Papel e responsabilidade de um líder de projeto; Habilidades e características importantes para liderar equipes ágeis em projetos complexos.
 
 ## Objetivos:
@@ -1191,6 +1191,7 @@ Ao final da disciplina o aluno será capaz de:
 7.	Aplicar as práticas ágeis em seus projetos
 8.	Medir e favorecer a qualidade do código
 9.	Identificar e gerir Dívida Técnica
+10. Sistemas de CI/CD - integração e implantação contínuos
 10.	Definir estratégias e métricas que suportem a tomada de decisão baseada em dados
 11.	Utilizar data driven como forma de tomada de decisão do projeto e da equipe
 12.	Alinhar as decisões do time aos milestones do projeto e a estratégia de negócio
@@ -1217,30 +1218,25 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Básica
 
-APPELO JURGEN. Management 3.0: Leading Agile Developers, Developing Agile Leaders (Addison-Wesley Signature Series (Cohn)) (English Edition) 1ª
-
-
-FOWLER MARTIN. Refactoring: Improving the Design of Existing Code, 2018.
 
 HOHPE, GREGOR. The Software Architect’s Elevator.
 
-KRUCHTEN, PHILIPPE., IPEK OZKAYA Managing Technical Debt: Reducing Friction in Software Development (SEI Series in Software Engineering) (English Edition), 2019.
-
-MARTIN ROBERT. C, MICHAEL C. FEATHERS, TIMOTHY R. OTTINGER. Clean Code: A Handbook of Agile Software Craftsmanship, 2018.
-
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
-SUTHERLAND, JEFF. SCRUM: a arte de fazer o dobro do trabalho na metade do tempo, 2019.
+NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022. 
 
-VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtitivdade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
 
-WINTERS, TITUS, TOM MANSHREK, HYRUM WRIGHT. Software Engineering at Google. O’Reilly’s  Media, Inc, 2020.
+## Bibliografia Complementar 
 
-## Bibliografia Complementar
-1. GAMMA, ERICH, RICHARD HELM e outros. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos, 2000.
-1. GREEVER, TOM.Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário, 2021.
-1. RIGBY DARREL, SARAH ELK e outros. Ágil do Jeito Certo: Transformação sem caos. Edição Português, 2020.
+RICHARDS, MARK; FORD, NEAL. Fundamentals of Software Architecture: An Engineering Approach. 1.a ed. 2020.
 
+VALENTE, M. T. Engenharia de Software Moderna: Principios e Práticas para Desenvolvimento de Software com Produtividade. 1.a ed. Belo Horizonte: Publicação Independente, 2020.
+
+FOWLER, MARTIN. Refactoring: Improving the Design of Existing Code. 2.a ed. 2018.
+
+KRUCHTEN, PHILIPPE; IPEK OZKAYA. Managing Technical Debt: Reducing Friction in Software Development. 1.a ed. 2019.
+
+RICHARDSON, CHRIS. Microservices Patterns: With Examples in Java. 1.a ed. 2018.
 
 
 
