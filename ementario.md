@@ -180,9 +180,8 @@ Livros:
 
 # Ética, Computação e Sociedade
 
-Carga Horária:  80
+Carga Horária:  72
 *Semestre  1º período*
-
 
 ## Ementa
 
@@ -442,7 +441,7 @@ Livros:
 # Projeto Ágil e Programação Eficaz
 
 Carga Horária:  144
-*Semestre  1º período*
+*Semestre  2º período*
 
 ## Ementa:
 
@@ -567,7 +566,7 @@ MACIEL, Francisco Marcelo de Barros. Python e Django. Rio de Janeiro: Editora Al
 
 # Técnicas de Programação
 
-Carga Horária:  80
+Carga Horária:  72
 *Semestre  3º período*
 
 ## Ementa
@@ -619,9 +618,8 @@ Ao final do curso, o aluno deve ser capaz de...
 
 # Inteligência Artificial e Robótica
 
-Carga Horária:  80
-
-Semestre  : 3º período
+Carga Horária:  72
+*Semestre  : 3º período*
 
 ## Ementa
 
@@ -688,8 +686,7 @@ Artigos:
 # Álgebra Linear e Teoria da Informação
 
 Carga Horária:  80
-
-Semestre  : 3º período
+*Semestre  : 3º período*
 
 ## Ementa
 
@@ -745,9 +742,8 @@ Bibliografia Complementar
 
 # Lógica e Matemática Discreta
 
-Carga Horária:  80
-
-Semestre  : 3º período
+Carga Horária:  72
+*Semestre  : 3º período*
 
 ## Ementa
 
@@ -804,9 +800,8 @@ GORDON, M., COLLAVIZZA, H. Forward with Hoare. In: Reflections on the Work of C.
 
 # Arquitetura de Objetos e Times Ágeis
 
-Carga Horária:  80
-
-Semestre  : 3º período
+Carga Horária:  72
+*Semestre  : 3º período*
 
 ## Ementa
 
@@ -875,7 +870,7 @@ GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Networ
 
 # Algoritmos e Estruturas de Dados
 
-Carga Horária:  80
+Carga Horária:  72
 *Semestre  4º período*
 
 ## Ementa
@@ -947,9 +942,8 @@ CODISH, M. et al.. Sorting nine inputs requires twenty-five comparisons.. Journa
 \newpage
 # Machine Learning
 
-Carga Horária:  80
-
-Semestre  : 4.o período
+Carga Horária:  72
+*Semestre  : 4.o período*
 
 ## Ementa
 
@@ -1004,42 +998,11 @@ SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \newpage
 # Linguagens e Paradigmas
 
-Carga Horária:  80
-
-Semestre  : 4º período
+Carga Horária:  72
+*Semestre  : 4º período*
 
 ## Ementa
 
@@ -1101,9 +1064,8 @@ KONDOH, H., FUTATSUGI, K.. To use or not to use the goto statement: Programming 
 
 # Sistemas Hardware-Software
 
-Carga Horária:  80
-
-Semestre  : 5º período
+Carga Horária:  72
+*Semestre  : 4º período*
 
 ## Ementa
 
@@ -1168,10 +1130,8 @@ SoftwareX. , n. 7 , 2018. ; Disponível em: https://www.sciencedirect.com/scienc
 
 # Projeto de Software e Gestão Ágil
 
-Carga Horária:  80
-
-
-Semestre  : 4º período
+Carga Horária:  72
+*Semestre  : 4º período*
 
 ## Ementa
 
@@ -1248,10 +1208,8 @@ RICHARDSON, CHRIS. Microservices Patterns: With Examples in Java. 1.a ed. 2018.
 \newpage
 # Análise de Algoritmos e Entrevistas Técnicas
 
-Carga Horária:  80
-*Semestre  5º período*
-
-
+Carga Horária:  72
+*Semestre  4º período*
 
 ## Ementa
 
@@ -1366,6 +1324,9 @@ ZAHARIA, M. et al.. Resilient distributed datasets: a fault-tolerant abstraction
 
 
 # AI Startup
+
+Carga Horária:  80
+*Semestre  5º período*
 
 ## Ementa
 
@@ -1510,8 +1471,7 @@ WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A r
 # Plataformas, Microsserviços e APIs
 
 Carga Horária:  80
-
-Semestre  : 4º período
+*Semestre  : 5º período*
 
 ## Ementa:
 
