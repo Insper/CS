@@ -1036,9 +1036,9 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 20217. 
+1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017. 
 2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015. 
-3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016
+3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital] 
 
 Artigos:
 
@@ -1048,10 +1048,10 @@ GOOD, J.; HOWLAND, K.. Programming language, natural language? Supporting the di
 
 Livros:
 
-1.	JOSÉ NETO, J., Introdução à Compilação., 1ª ed., Elsevier, 2016
+1.	JOSÉ NETO, J., Introdução à Compilação, 1ª ed., Elsevier, 2016
 2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
 3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.  
-4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007
+4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
 5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
 
 
