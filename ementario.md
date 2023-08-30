@@ -940,7 +940,7 @@ CODISH, M. et al.. Sorting nine inputs requires twenty-five comparisons.. Journa
 
 
 \newpage
-# Machine Learning
+# Machine Learning Para Computação
 
 Carga Horária:  72
 *Semestre  : 4.o período*
