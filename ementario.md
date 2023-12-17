@@ -1444,8 +1444,8 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 
 Livros:
 
-1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley , 2015
-2.  Rogers, S.; Level Up! The Guide to Great Video Game Design 2nd Edition, 2014
+1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley, 2015
+2.  Rogers, S.; Level Up! The Guide to Great Video Game Design, 2nd Edition, Wiley, 2014
 3.  ALVES, W. P.; Unity: design e desenvolvimento de jogos, Alta Books, 2019. E-book. ISBN 9786555200102
 
 Artigos:
