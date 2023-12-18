@@ -1509,6 +1509,7 @@ Livros:
 1.	TANENBAUM, A. S.; VAN STEEN, M., Sistemas Distribuídos, 2ª ed., Prentice Hall Brasil, 2007
 2.	KAVIS, M., Architecting the Cloud:  Design Decisions for Cloud Computing Service Models , Wiley, 2014
 3.	TANENBAUM, A. S; Wetherall, D. J. , Redes de Computadores, 5ª ed., Pearson Prentice Hall, 2011
+
 Artigos:
 NOOR, T. H. et al.. Mobile cloud computing: Challenges and future research directions.. Journal of Network and Computer Applications. , v. 115 , p. 70-75 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804518301504. Acesso em: 27 maio 2019.
 
@@ -1534,6 +1535,44 @@ AI, Y.; PENG, M.; ZHANG, K.. Edge computing technologies for Internet of Things:
 
 
 \newpage
+
+
+# Cybersegurança 
+
+Carga Horária:  80
+*Semestre  : 6º período*
+
+## Ementa:
+
+
+
+## Objetivos
+
+Ao final da disciplina o estudante será capaz de:
+
+
+
+## Conteúdo Programático:
+
+1. topico
+2. topico
+
+
+## Bibliografia básica
+Basta, Alfred, et al. *Segurança de Computadores e teste de invasão* Tradução da 2ª edição norte-americana. Disponível em: Minha Biblioteca, Cengage Learning Brasil, 2014.
+Agra, Andressa, D. e Fabrício F. M. Barboza. *Segurança de sistemas da informação*. Disponível em: Minha Biblioteca, Grupo A, 2019.
+Stallings, William. *Cryptography and network security: principles and practice*. 7. ed. New York: Pearson, 2017.
+
+Artigo:
+
+Abdullayeva, F. Cyber resilience and cyber security issues of intelligent cloud computing systems. *Results Control Optim.* 2023, 12, 100268.
+
+## Bibliografia complementar
+Pinheiro, Patricia P. *Segurança Digital: Proteção de Dados nas Empresas*. Disponível em: Minha Biblioteca, Grupo GEN, 2020.
+Comer, Douglas E. Redes de computadores e internet. Disponível em: Minha Biblioteca, (6th edição). Grupo A, 2016.
+Agra, Andressa, D. e Fabrício F. M. Barboza. Segurança de sistemas da informação. Disponível em: Minha Biblioteca, Grupo A, 2019.
+Branquinho, Thiago, e Marcelo Branquinho. Segurança Cibernética Industrial. Disponível em: Minha Biblioteca, Editora Alta Books, 2021.
+Moraes, Alexandre Fernandes D. Cibersegurança e a nova geração de Firewalls. Disponível em: Minha Biblioteca, Editora Saraiva, 2021.
 
 
 
