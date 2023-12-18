@@ -1219,26 +1219,19 @@ Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Projetar, implementar e analisar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos
-2.	Reconhecer problemas em classes de complexidade de espaço e tempo
-3.	Projetar, implementar e analisar algoritmos para problemas intratáveis
-4.	Entender a estrutura e participar de maratonas de programação
-5.	Entender a estrutura e participar de entrevistas técnicas de programação
+1. Identificar e demonstrar a complexidade de espaço e tempo de um algoritmos utilizando notação assintótica;
+2. Projetar e implementar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos;
+3. Descrever as intuições e funcionamento de algoritmos no contexto de entrevistas técnicas de programação.
 
 ## Conteúdo Programático
 
-1.	Descrição formal de algoritmos: Lógica de Floyd-Hoare, pré-condições, invariantes e pós-condições
-2.	Notação assintóticas: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+1.	Notação assintótica: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+2.	Demonstrações de propriedades de notação assintótica
 3.	Análise de algoritmos determinísticos: algoritmos iterativos e recursivos, análise de algoritmos iterativos e recursivos clássicos para ordenação e busca
-4.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
-5.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
-6.	Análise de algoritmos gulosos: problemas com estrutura de matróides, algoritmos gulosos, análise de algoritmos gulosos
-7.	Análise de complexidade de problemas: problemas como linguagens, problemas e Máquinas de Turing, contagem de tempo e espaço em Máquinas de Turing
-8.	Classes de complexidade: complexidade de tempo (P, NP, NP-completo, NP-difícil) e espaço (P-espaço, NP-espaço, NP-espaço completo, NP-espaço difícil), redução entre classes de complexidade
-9.	Algoritmos aproximativos: raio de aproximação, técnicas clássicas de aproximação, análise de algoritmos aproximativos
-10.	Algoritmos baseados em oráculos: sistemas interativos, oráculos, classes de complexidade em interação, análise de algoritmos baseados em oráculos
-11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
-12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
+4.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
+5.	Análise de algoritmos gulosos
+6.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
+7.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
 ## Bibliografia Básica
 
