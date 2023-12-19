@@ -1468,7 +1468,7 @@ WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A r
 \newpage
 
 
-# [Plataforma, Microsserviços e APIs](#platform-microservices-and-apis)
+# Plataformas, Microsserviços e APIs
 
 Carga Horária: 80
 
