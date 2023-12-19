@@ -1468,64 +1468,66 @@ WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A r
 \newpage
 
 
-# Plataformas, Microsserviços e APIs
+# [Plataforma, Microsserviços e APIs](#platform-microservices-and-apis)
 
-Carga Horária:  80
-*Semestre  : 5º período*
+Carga Horária: 80
 
-## Ementa:
+*Semestre: 5º período*
 
-Aspectos tecnológicos e de mercado do oferecimento de computação como um serviço segundo o paradigma de computação em nuvem (cloud computing); Principais modelos de consumo de computação em nuvem: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS); Arquiteturas distribuídas fundamentais para viabilizar a computação em nuvem; Máquinas virtuais, contêineres, instâncias e provisionamento; Orquestração de computação em nuvem, sistemas de gerenciamento, monitoramento e configuração de recursos virtualizados; Desenvolvimento e implantação de software capaz fazer uso eficiente de computação em nuvem e apresentar escalabilidade; Monitoramento de performance para gerenciamento de aplicações; Questões de segurança e privacidade da informação associadas à computação em nuvem; Gestão de níveis de serviço (SLA - Service Level Agreement). Custos de projeto e de operação de sistemas em cloud. Aspectos de automação de gestão de sistema em cloud – DevOps.
-Serverless computing – FaaS - function as a service
+## Ementa
+
+Conceitos de Aplicações em Monólíto e Microserviços; Conteinerização; Padrões de Construção de Softwares (Design Patterns); Monitoramento e Rastreabilidade de Aplicações; Segurança (autenticação e autorização); Mensageria; Dados Distribuídos; Orquestração de computação em nuvem, sistemas de gerenciamento, monitoramento e configuração de recursos virtualizados; Integração entre Desenvolvimento e Operação; Utilização de Plataformas em Nuvem para Produção (Cloud Computing); Aspectos de automação de gestão de sistema em cloud – DevOps. Serverless computing – FaaS - function as a service; Utilização da Plataforma como Produto para Negócios: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS). Gestão de níveis de serviço (SLA - Service Level Agreement). Custos de projeto e de operação de sistemas em cloud.
 
 ## Objetivos
 
-Ao final da disciplina o estudante será capaz de:
+Ao final da disciplina o aluno será capaz de:
 
-1. Identificar conceitos relevantes de sistemas distribuídos no contexto de computação em nuvem.
-2. Administrar um sistema de gerenciamento de nuvem, provisionando a infraestrutura necessária como um serviço.
-3. Desenvolver aplicações que apresentem o atributo da escalabilidade por meio do uso de técnicas de computação em nuvem.
-4. Analisar, projetar e especificar uma solução de computação em nuvem mista baseada em hardware, software e redes para atender aos requisitos de determinado pacto de nível de serviço (SLA).
-5. Utilizar a documentação para apoiar o aprendizado de novas bibliotecas e softwares de computação em nuvem
+1. Tomar decisões a respeito da escolha de estratégias de arquiteturas para o emprego de problemas computacionais;
+2. Implementar e interconectar aplicações computacionais para a construção de plataformas de alto desempenho: escalabilidade por meio do uso de técnicas de computação em nuvem;
+3. Administrar um sistema de gerenciamento de nuvem, provisionando a infraestrutura necessária como um serviço;
+4. Construir, com o auxílio de frameworks, soluções de plataformas completas e integradas de forma profissional;
+5. Arquitetar e implementar linhas de produções de softwares robustos;
+6. Analisar, projetar e especificar uma solução de computação em nuvem mista baseada em hardware, software e redes para atender aos requisitos de determinado pacto de nível de serviço (SLA);
+7. Planejar e analisar o uso de plataformas empresariais como subsídio para criação de novos negócios.
 
+## Conteúdo Programático
 
-
-## Conteúdo Programático:
-
-1. Fundamentos de Computação em Nuvem.
-2. Infraestrutura como um serviço.
-3. Orquestradores de implantação.
-4. Gerenciamento de ambientes virtualizados e distribuídos.
-5. Introdução a contêineres.
-6. Redes definidas por Software.
-7. Micro serviços com interface API.
-8. Software como um serviço.
-9. Gestão de níveis de Serviço.
+1. Conceitos de Arquitetura e Micro Serviços;
+2. Micro Serviços com Interface API - RESTful;
+3. Introdução a Contêineres;
+4. Introdução e Implementação de Design Patterns;
+5. Apresentação de Design Patterns mais Complexos: Segurança, Mensageria, Cache, etc;
+6. Fundamentos de Computação em Nuvem.
+7. Orquestração, Implementação e Monitoramento de Ambientes Virtualizados e Distribuídos;
+8. Infraestrutura como um Serviço.
+9. Redes Definidas por Software;
+10. Software como um Serviço;
+11. Gestão de Níveis de Serviço.
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	TANENBAUM, A. S.; VAN STEEN, M., Sistemas Distribuídos, 2ª ed., Prentice Hall Brasil, 2007
-2.	KAVIS, M., Architecting the Cloud:  Design Decisions for Cloud Computing Service Models , Wiley, 2014
-3.	TANENBAUM, A. S; Wetherall, D. J. , Redes de Computadores, 5ª ed., Pearson Prentice Hall, 2011
-
-Artigos:
-NOOR, T. H. et al.. Mobile cloud computing: Challenges and future research directions.. Journal of Network and Computer Applications. , v. 115 , p. 70-75 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804518301504. Acesso em: 27 maio 2019.
+1. ROMAN, Ed; AMBLER, Scott W.; JEWELL, Tyler. Dominando Enterprise Javabeans. Porto Alegre: Bookman, 2004. E-book. ISBN 9788577804061. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788577804061](https://integrada.minhabiblioteca.com.br/#/books/9788577804061). Acesso em: 30 de maio de 2023.
+2. ALVES, William Pereira. Java para Web - Desenvolvimento de Aplicações. São Paulo: Érica, 2015. E-book. ISBN 9788536519357. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788536519357](https://integrada.minhabiblioteca.com.br/#/books/9788536519357). Acesso em: 30 de maio de 2023.
+3. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
 
 ## Bibliografia Complementar
 
 Livros:
 
-1.	PATTERSON, D.; FOX, A. , Engineering Software as a Service: An Agile Approach Using Cloud Computing, 3ª ed., LLC Press, 2013
-2.	ERL, T.; PUTTINI, R.; MAHMOOD, Z. , Cloud Computing: Concepts, Technology & Architecture, Prentice Hall, 2013
-3.	JACKSON, K.; BUNCH, C.; SIGLER, E. , Openstack Cloud Computing Cookbook., 3ª ed., Packt Publishing, 2015
-4.	PORTNOY, M., Virtualization Essentials, 2ª ed., John Wiley, 2016
-5.	 GENG, H. , Datacenter Handbook, John Wiley, 2015
+1. XU, A., [System Design Interview - An insider&#39;s guide](https://www.amazon.com.br/System-Design-Interview-Insiders-English-ebook/dp/B08B3FWYBX/), 1ª ed., Independently Published, 2020.
+2. MARTIN, R. C., [Arquitetura Limpa: o guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-artes%C3%A3o-estrutura-software-ebook/dp/B085PP6Y8P/), 1ª ed., Alta Books, 2018.
+3. PARKER, G. G.; VAN ALSTYNE, M. W.; CHOUDARY, S. P., [Plataforma: a revolução da estratégia](https://www.amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/), 1ª ed., Alta Books, 2018.
+4. SEHGAL, N. K.; BHATT, P. C. P.; ACKEN J. M., [Cloud Computing with Security and Scalability.: Concepts and Practices](https://www.amazon.com.br/Cloud-Computing-Security-Scalability-Practices/dp/3031072448/), 3ª ed., Springer, 2023.
+5. KRIEF, M., [Learning DevOps: A comprehensive guide to accelerating DevOps culture adoption with Terraform, Azure DevOps, Kubernetes, and Jenkins](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967/), 2ª ed., Packt Publishing, 2022.
+6. GAMMA, E.; HELM, R.; JOHNSON, R., VLISSIDES, J., [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/), 1ª ed., Addison-Wesley Professional, 1994.
 
 Artigos:
 
-AI, Y.; PENG, M.; ZHANG, K.. Edge computing technologies for Internet of Things: a primer.. Digital Communications and Networks. , v. 4 , n. 2 , p. 77-86 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S2352864817301335 . Acesso em: 27 maio 2019.
+- XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
+- Spring. Spring Cloud. Disponível em: [https://spring.io/projects/spring-cloud](https://spring.io/projects/spring-cloud). Acesso em: 19 dezembro 2023.
+
 
 
 
