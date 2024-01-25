@@ -685,7 +685,7 @@ Artigos:
 
 # Álgebra Linear e Teoria da Informação
 
-Carga Horária:  80
+Carga Horária:  98
 *Semestre  : 3º período*
 
 ## Ementa
