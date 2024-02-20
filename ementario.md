@@ -650,14 +650,15 @@ Ao final da disciplina o estudante será capaz de:
 2. Estratégias de busca: algoritmos de busca cega e algoritmos informados. 
 3. Heurísticas.
 4. Implementação de agentes autônomos utilizando estratégias de busca.
-5. Ambientes competitivos e teoria de jogos. 
-6. Algoritmo Min-Max e função de utilidade. 
-7. Implementação de agentes autônomos para ambientes competitivos.
-8. Aprendizagem por Reforço.
-9. Implementação de agentes autônomos usando aprendizagem por reforço. 
-10. Algoritmo Q-Learning. 
-11. Implementações de agentes autônomos usando o projeto Gym.
-12. Implementação de um agente robótico. 
+5. Programação por restrições (CSP).
+6. Ambientes competitivos e teoria de jogos. 
+7. Algoritmo Min-Max e função de utilidade. 
+8. Implementação de agentes autônomos para ambientes competitivos.
+9. Aprendizagem por Reforço.
+10. Implementação de agentes autônomos usando aprendizagem por reforço. 
+11. Algoritmo Q-Learning. 
+12. Implementações de agentes autônomos usando o projeto Gym.
+13. Implementação de um agente robótico. 
 
 
 ## Bibliografia Básica
