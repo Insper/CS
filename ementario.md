@@ -438,14 +438,15 @@ Livros:
 
 \newpage
 
-# Projeto Ágil e Programação Eficaz
+# Projeto Ágil
 
-Carga Horária:  144
+Carga Horária:  72
 *Semestre  2º período*
 
 ## Ementa:
 
-Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Introdução à Engenharia de Software e fases do processo de desenvolvimento de software.
+Identificação do problema real aplicando a metodologia de design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM;
+Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; 
 
 ## Objetivos
 
@@ -456,12 +457,6 @@ Ao final da disciplina o aluno será capaz de:
 1.  Identificar requisitos de sistema e expressá-los em casos de uso e histórias de usuário
 1.	Estruturar um sistema orientado a objeto a partir de requisitos
 1.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
-1.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
-1.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
-1.  Escrever documentação de software de forma organizada e clara
-1.	Analizar uma base de código pré-existente e propor intervenções
-1.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
-1.	Classificar requisitos como funcionais ou não-funcionais
 
 ## Conteúdo Programático
 
@@ -473,10 +468,7 @@ Ao final da disciplina o aluno será capaz de:
 1.	Diagramas UML
 1.	Introdução ao UML
 1.	Mapeamento de requisitos em objetos de domínio
-1.	Como estruturar um projeto de software
-1.	Colaboração usando controle distribuído de versão
-1.	Desenvolvimento orientado a testes
-1.	Técnicas de depuração de código
+
 
 
 ## Bibliografia Básica
@@ -490,9 +482,57 @@ Ao final da disciplina o aluno será capaz de:
 
 1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
 1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
+1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+
+
+# Programação Eficaz 
+
+Carga Horária:  72
+*Semestre  2º período*
+
+## Ementa:
+
+Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Introdução à Engenharia de Software e fases do processo de desenvolvimento de software; Como estruturar um sistema composto de *frontend* e *backend*. 
+
+
+
+## Objetivos
+
+Ao final da disciplina o aluno será capaz de:
+
+1.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
+1.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
+1.  Escrever documentação de software de forma organizada e clara
+1.	Analizar uma base de código pré-existente e propor intervenções
+1.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
+1.	Classificar requisitos como funcionais ou não-funcionais
+1.  Estruturar um sistema composto de frontend e backend
+1.  Implementar e testar um sistema 
+
+## Conteúdo Programático
+
+1.	Como estruturar um projeto de software
+1.	Colaboração usando controle distribuído de versão
+1.	Desenvolvimento orientado a testes
+1.	Técnicas de depuração de código
+1.  Arquiteturas RESTful 
+
+
+## Bibliografia Básica
+
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
+1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
+
+
+## Bibliografia Complementar
+
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
 1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
-1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+
+
+
+
 
 
 # Sprint Session 2
