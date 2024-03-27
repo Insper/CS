@@ -445,31 +445,38 @@ Carga Horária:  72
 
 ## Ementa:
 
-Identificação do problema real aplicando a metodologia de design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM;
-Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; 
+Identificação do problema real aplicando a metodologia de design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM; Organização da equipe e gestão projeto utilizando o método ágil SCRUM e Kanban.
+Documentação de projetos de Software; Estratégias para Construção de Software; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Lean UX; Boas práticas de UX e UI. OKRs.
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1.	Atuar em uma equipe que gere um projeto por meio do métodos ágil SCRUM revezando papeis nesta equipe
-1.  Aplicar metodologia do design thinking para identificar e validar problemas de usuários
-1.  Identificar requisitos de sistema e expressá-los em casos de uso e histórias de usuário
-1.	Estruturar um sistema orientado a objeto a partir de requisitos
-1.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
+1.	Atuar em uma equipe que usa metodologias ágeis por meio do métodos ágil SCRUM e KANBAN.
+1.  Aplicar metodologia do design thinking para identificar e validar problemas de usuários.
+1.  Identificar requisitos de sistema e expressá-los em casos de uso e histórias de usuário.
+1.	 Estruturar os principais diagramas UML a partir dos requisitos
+1.  Escrever documentação de software de forma organizada e clara
+1. Utilizar algumas práticas do método ágil Kanban na gestão e organização de equipes e do projeto
+1. Ter uma visão de produto através da metodologia Lean UX
+1. Seguir boas práticas de design
+1. Definir indicadores básicos de performance da equipe
 
 ## Conteúdo Programático
 
 
-1.	Design Thinking
-1.  Introdução à Engenharia de Software: fases do processo de desenvolvimento de software
-1.  Introdução ao framework ágil Scrum
-1.	Introdução à programação orientada a objetos
-1.	Diagramas UML
+1. Introdução à Engenharia de Software: fases do processo de desenvolvimento de software
+1. Design Thinking
+1. Uso do framework ágil Scrum em um projeto real
+1. Boas práticas de design
+1. Boas práticas de programação e documentação usando os príncipios do Clean Code
 1.	Introdução ao UML
+1.	Diagramas UML
 1.	Mapeamento de requisitos em objetos de domínio
-
-
+1. Introdução ao método ágil	Kanban
+1. Programação em Par
+1. OKRs
+1.  Lean UX
 
 ## Bibliografia Básica
 
@@ -492,7 +499,7 @@ Carga Horária:  72
 
 ## Ementa:
 
-Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Introdução à Engenharia de Software e fases do processo de desenvolvimento de software; Como estruturar um sistema composto de *frontend* e *backend*. 
+Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Como estruturar um sistema composto de *frontend* e *backend*. 
 
 
 
@@ -502,7 +509,6 @@ Ao final da disciplina o aluno será capaz de:
 
 1.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
 1.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
-1.  Escrever documentação de software de forma organizada e clara
 1.	Analizar uma base de código pré-existente e propor intervenções
 1.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
 1.	Classificar requisitos como funcionais ou não-funcionais
