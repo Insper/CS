@@ -1509,9 +1509,7 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1. ROMAN, Ed; AMBLER, Scott W.; JEWELL, Tyler. Dominando Enterprise Javabeans. Porto Alegre: Bookman, 2004. E-book. ISBN 9788577804061. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788577804061](https://integrada.minhabiblioteca.com.br/#/books/9788577804061). Acesso em: 30 de maio de 2023.
-2. ALVES, William Pereira. Java para Web - Desenvolvimento de Aplicações. São Paulo: Érica, 2015. E-book. ISBN 9788536519357. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788536519357](https://integrada.minhabiblioteca.com.br/#/books/9788536519357). Acesso em: 30 de maio de 2023.
-3. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
+1. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
 
 ## Bibliografia Complementar
 
