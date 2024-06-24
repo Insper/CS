@@ -11,7 +11,6 @@
 
 \newpage
 
-
 # Vida de Desenvolvedor de Software - Developer Life
 
 Carga Horária:  320
@@ -98,17 +97,17 @@ Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Int
 
 ## Bibliografia básica
 
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+
 ### Programação
 
 Livros:
 
-1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
-2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
-3.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
-
-Artigo:
-
-MIKAMI, K. et al.. Effectiveness of Game Jam-based iterative program for game production in Japan.. Computers & Graphics. , v. 61 , p. 1-10 , 2016. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0097849316300863. Acesso em: 27 maio 2019.
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+3.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
 
 ### Times Ágeis
 
@@ -125,13 +124,9 @@ BLOM, M.. Is Scrum and XP suitable for CSE Development?. Procedia Computer Scien
 
 Livros:
 
-1.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
-2.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
-3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
-
-Artigo:
-
-BRADE, J. et al.. Being there again – presence in real and virtual environments and its relation to usability and user experience using a mobile navigation task.. International Journal of Human-Computer Studies. , v. 101 , p. 76-87 , 2017. ; Disponível em: https://doi.org/10.1016/j.ijhcs.2017.01.004. Acesso em: 27 maio 2019.
+1.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+2.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+3.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
 
 ### Projeto de Software
 
@@ -142,23 +137,24 @@ Livros:
 
 ## Bibliografia complementar
 
+1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
+3.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+4.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
+5.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
+
 ### Programação
 
-
-
-1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
-2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
-3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
+1.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
+2.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
+3.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
+4.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
 
 ### Times ágeis:
-
-
 
 1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
 
 ### Design
-
-
 
 1.	WEINSCHENK, Susan., 100 Things Every Designer Needs to Know About People., New Riders, 2011
 2.	NORMAN, Donald., The Design of Everyday Things, Basic Books, 2002
@@ -171,10 +167,6 @@ Livros:
 1.	GAMMA, E; HELM, R; JOHNSON, R; VLISSIDES, J., Padrões de Projeto: Soluções Reutilizáveis de Software Orientado a Objetos, Bookman, 2000
 2.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 3.	GEORGE, N; Build a Website with Django 3, GNW Independent Publishing, 2019
- 
-
-
-
 
 \newpage
 
@@ -339,16 +331,16 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático
 
-1. Variáveis quantitativas e qualitativas. 
-2. Medidas resumo, centralidade e dispersão. 
-3. Diagramas e recursos gráficos. 
-4. Introdução ao ambiente de tratamento de dados. 
-5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. 
-6. Análise bidimensional. 
+1. Variáveis quantitativas e qualitativas.
+2. Medidas resumo, centralidade e dispersão.
+3. Diagramas e recursos gráficos.
+4. Introdução ao ambiente de tratamento de dados.
+5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção.
+6. Análise bidimensional.
 7. Teoria da probabilidade. Machine
-8. Introdução à classificação. 
-9. Variáveis e distribuições discretas e contínuas. 
-10. Inferência estatística e por reamostragem. 
+8. Introdução à classificação.
+9. Variáveis e distribuições discretas e contínuas.
+10. Inferência estatística e por reamostragem.
 
 ## Bibliografia Básica
 
@@ -488,7 +480,7 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Complementar
 
-1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018.
 1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
 1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
@@ -501,7 +493,7 @@ Carga horária: 44h
 
 ## Ementa:
 
-Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita. 
+Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita.
 
 ## Objetivos
 
@@ -510,16 +502,16 @@ Ao final da disciplina o aluno será capaz de:
 1.	Interpretar requisitos de um cliente relacionadas a um software centrado em dados
 2.	Propor uma solução
 3.	Esboçar a arquitetura de uma solução argumentando sobre restrições de projeto, demonstrando compreensão da computação em camadas e de forma integrada
-4.  Atuar em um time gerenciado por métodos ágeis na criação de um protótipo 
+4.  Atuar em um time gerenciado por métodos ágeis na criação de um protótipo
 4.	Apresentar o projeto e criar documentação escrita
 
 ## Conteúdo programático
 
 1. Coleta de requisitos de cliente
 1. Arquitetura de software
-1. Gestão de times ágeis 
+1. Gestão de times ágeis
 1. Comunicação escrita
-1. Técnicas de apresentação 
+1. Técnicas de apresentação
 
 
 
@@ -623,14 +615,14 @@ Carga Horária:  72
 
 ## Ementa
 
-Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV). 
+Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV).
 
 ## Objetivos
 
 Ao final da disciplina o estudante será capaz de:
 
 1. Descrever os conceitos, técnicas e métodos para o desenvolvimento de Agentes Autônomos.
-2. Identificar quais tipos de problemas podem ser resolvidos através do uso de Agentes Autônomos. 
+2. Identificar quais tipos de problemas podem ser resolvidos através do uso de Agentes Autônomos.
 3. Criar soluções para alguns problemas clássicos desta área.
 4. Especificar, desenvolver e testar projetos que façam uso de Agentes Autônomos para resolver problemas complexos.
 5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas.
@@ -639,18 +631,18 @@ Ao final da disciplina o estudante será capaz de:
 ## Conteúdo Programático
 
 1. Definições de Agente Autônomo e resolução de problemas.
-2. Estratégias de busca: algoritmos de busca cega e algoritmos informados. 
+2. Estratégias de busca: algoritmos de busca cega e algoritmos informados.
 3. Heurísticas.
 4. Implementação de agentes autônomos utilizando estratégias de busca.
 5. Programação por restrições (CSP).
-6. Ambientes competitivos e teoria de jogos. 
-7. Algoritmo Min-Max e função de utilidade. 
+6. Ambientes competitivos e teoria de jogos.
+7. Algoritmo Min-Max e função de utilidade.
 8. Implementação de agentes autônomos para ambientes competitivos.
 9. Aprendizagem por Reforço.
-10. Implementação de agentes autônomos usando aprendizagem por reforço. 
-11. Algoritmo Q-Learning. 
+10. Implementação de agentes autônomos usando aprendizagem por reforço.
+11. Algoritmo Q-Learning.
 12. Implementações de agentes autônomos usando o projeto Gym.
-13. Implementação de um agente robótico. 
+13. Implementação de um agente robótico.
 
 
 ## Bibliografia Básica
@@ -670,7 +662,7 @@ Artigos:
 
 Livros:
 
-1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.	
+1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.
 2. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
 3. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
 4. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
@@ -1037,9 +1029,9 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017. 
-2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015. 
-3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital] 
+1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017.
+2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015.
+3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
 
 Artigos:
 
@@ -1051,7 +1043,7 @@ Livros:
 
 1.	JOSÉ NETO, J., Introdução à Compilação, 1ª ed., Elsevier, 2016
 2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
-3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.  
+3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.
 4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
 5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
 
@@ -1184,10 +1176,10 @@ HOHPE, GREGOR. The Software Architect’s Elevator.
 
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
-NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022. 
+NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022.
 
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 RICHARDS, MARK; FORD, NEAL. Fundamentals of Software Architecture: An Engineering Approach. 1.a ed. 2020.
 
@@ -1540,7 +1532,7 @@ Artigos:
 \newpage
 
 
-# Cybersegurança 
+# Cybersegurança
 
 Carga Horária:  80
 *Semestre  : 6º período*
