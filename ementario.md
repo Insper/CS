@@ -1510,6 +1510,7 @@ Ao final da disciplina o aluno será capaz de:
 Livros:
 
 1. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
+2. VERONEZ, Fabricio. [Canal Kubernetes e DevOps](https://www.youtube.com/@fabricioveronez). Disponível em: [https://www.youtube.com/@fabricioveronez](https://www.youtube.com/@fabricioveronez). Acesso em: 24 de junho de 2024.
 
 ## Bibliografia Complementar
 
@@ -1520,11 +1521,6 @@ Livros:
 3. PARKER, G. G.; VAN ALSTYNE, M. W.; CHOUDARY, S. P., [Plataforma: a revolução da estratégia](https://www.amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/), 1ª ed., Alta Books, 2018.
 4. SEHGAL, N. K.; BHATT, P. C. P.; ACKEN J. M., [Cloud Computing with Security and Scalability.: Concepts and Practices](https://www.amazon.com.br/Cloud-Computing-Security-Scalability-Practices/dp/3031072448/), 3ª ed., Springer, 2023.
 5. KRIEF, M., [Learning DevOps: A comprehensive guide to accelerating DevOps culture adoption with Terraform, Azure DevOps, Kubernetes, and Jenkins](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967/), 2ª ed., Packt Publishing, 2022.
-6. XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
-
-
-
-
 
 
 
