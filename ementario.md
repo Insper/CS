@@ -1493,8 +1493,8 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático
 
-1. Conceitos de Arquitetura e Micro Serviços;
-2. Micro Serviços com Interface API - RESTful;
+1. Conceitos de Arquitetura e Microsserviços;
+2. Microsserviços com Interface API - RESTful;
 3. Introdução a Contêineres;
 4. Introdução e Implementação de Design Patterns;
 5. Apresentação de Design Patterns mais Complexos: Segurança, Mensageria, Cache, etc;
@@ -1522,12 +1522,7 @@ Livros:
 3. PARKER, G. G.; VAN ALSTYNE, M. W.; CHOUDARY, S. P., [Plataforma: a revolução da estratégia](https://www.amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/), 1ª ed., Alta Books, 2018.
 4. SEHGAL, N. K.; BHATT, P. C. P.; ACKEN J. M., [Cloud Computing with Security and Scalability.: Concepts and Practices](https://www.amazon.com.br/Cloud-Computing-Security-Scalability-Practices/dp/3031072448/), 3ª ed., Springer, 2023.
 5. KRIEF, M., [Learning DevOps: A comprehensive guide to accelerating DevOps culture adoption with Terraform, Azure DevOps, Kubernetes, and Jenkins](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967/), 2ª ed., Packt Publishing, 2022.
-6. GAMMA, E.; HELM, R.; JOHNSON, R., VLISSIDES, J., [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/), 1ª ed., Addison-Wesley Professional, 1994.
-
-Artigos:
-
-- XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
-- Spring. Spring Cloud. Disponível em: [https://spring.io/projects/spring-cloud](https://spring.io/projects/spring-cloud). Acesso em: 19 dezembro 2023.
+6. XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
 
 
 
