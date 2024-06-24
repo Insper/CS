@@ -1007,58 +1007,47 @@ Carga Horária:  72
 
 ## Ementa
 
-Fundamentos de linguagens formais. Sintaxe e semântica de linguagens. Linguagens regulares. Linguagens livres de contexto. Paradigma imperativo. Paradigma estruturado. Paradigma funcional. Compiladores e interpretadores.
+Fundamentos de linguagens formais. Linguagens regulares. Linguagens livres de contexto. Linguagens sensíveis ao contexto. Linguagens recursivamente enumeráveis. Paradigma imperativo. Paradigma estruturado. Paradigma funcional. Compiladores e interpretadores. Computabilidade. Intratabilidade.
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1. Analisar a sintaxe e semântica de linguagens
-2. Especificar sintaxe e semântica de linguagens
-3. Estruturar programas nos paradigmas imperativo, estruturado e funcional
-4. Implementar compiladores e interpretadores de linguagens
-5. Aplicar compiladores e interpretadores em diversos contextos
+1. Especificar linguagens
+2. Estruturar programas nos paradigmas imperativo, estruturado e funcional
+3. Implementar compiladores e interpretadores de linguagens
+4. Elencar os limites da computabilidade
 
 ## Conteúdo Programático
 
-1. Fundamentos de linguagens formais: alfabetos, palavras, linguagens e palavras
+1. Fundamentos de linguagens formais: alfabetos, palavras, linguagens e cadeias
 2. Hierarquia de Chomsky
-3. Sintaxe de linguagens: operacional, axiomática e denotacional
-4. Semântica de linguagens: operacional, axiomática e denotacional
-5. Linguagens regulares: propriedades, gramáticas, expressões regulares e autômatos finitos, aplicações
-6. Linguagens livres de contexto: propriedades, gramáticas, expressões regulares e autômatos à pilha, aplicações
-7. Paradigma imperativo: statements e fluxos, estudo comparado de linguagens imperativas
-8. Paradigma estruturado: funções, procedimentos, módulos, estudo comparado de linguagens estruturadas
-9. Paradigma funcional: cálculo lambda, abstrações, aplicações, composições, tipos algébricos, lazy evaluation, estudo comparado de linguagens funcionais
-10. Estrutura e implementação de interpretadores: análise léxica, análise sintática, análise semântica, máquinas virtuais
-11. Estrutura e implementação de compiladores: análise léxica, análise sintática, análise semântica, geração de código intermediário, análise de fluxo e sobrevivência, alocação de registradores, geração de código
+3. Linguagens regulares: propriedades, gramáticas, expressões regulares e autômatos finitos, aplicações
+4. Linguagens livres de contexto: propriedades, gramáticas, autômatos à pilha, aplicações
+5. Linguagens sensíveis ao contexto: propriedades, gramáticas, máquina de Turing de Fita Finita, aplicações
+6. Linguagens recursivamente enumeráveis: propriedades, gramáticas, Máquina de Turing, aplicações
+7. Computabilidade
+8. Intratabilidade
+9. Paradigmas de linguagens: imperativo, estruturado e funcional
+10. Estrutura e implementação de compiladores e interpretadores: análise léxica, análise sintática, análise semântica e geração de código
 
 ## Bibliografia Básica
 
 Livros:
 
-1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017. 
-2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015. 
-3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital] 
-
-Artigos:
-
-GOOD, J.; HOWLAND, K.. Programming language, natural language? Supporting the diverse computational activities of novice programmers.. Journal of Visual Languages & Computing.. , v. 39 , p. 78-92 , 2017. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1045926X16301963. Acesso em: 27 maio 2019.
+1.	RAMOS, M.V.M.; JOSÉ NETO, J.; VEGA, Í.S. Linguagens Formais: Teorias e Conceitos. 1. ed. Blucher, 2023. 608 p.
+2.	AHO, A.V.; LAM, M.S.; SETHI, R.; ULLMAN, J.D. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo: Pearson, 2008. 634 p.
+3.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
 
 ## Bibliografia Complementar
 
 Livros:
 
-1.	JOSÉ NETO, J., Introdução à Compilação, 1ª ed., Elsevier, 2016
-2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
-3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.  
-4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
-5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
-
-
-Artigos:
-
-KONDOH, H., FUTATSUGI, K.. To use or not to use the goto statement: Programming styles viewed from Hoare Logic.. Science of Computer Programming. , v. 60 , n. 1 , p. 82-116 , 2006. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0167642305000924. Acesso em: 27 maio 2019.
+1.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
+2.	HOPCROFT, J.E.; ULLMAN, J.D.; MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 1. ed. Rio de Janeiro: Elsevier, 2002. 560 p.
+3.	AYALA-RINCÓN, M.; CAVALCANTI DE MOURA, F.L. Fundamentos da Programação Lógica e Funcional: o Princípio de Resolução e a Teoria de Reescrita. 1. ed. Editora UnB, 2014. 232 p.
+4.	VIEIRA DE MELO, A.C.; CORRÊA DA SILVA, F.S. Princípios de Linguagens de Programação. 1. ed. Blucher, 2003. 304 p.
+5.	CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Elsevier, 2012. 926 p.
 
 
  \newpage
