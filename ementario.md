@@ -339,16 +339,16 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático
 
-1. Variáveis quantitativas e qualitativas. 
-2. Medidas resumo, centralidade e dispersão. 
-3. Diagramas e recursos gráficos. 
-4. Introdução ao ambiente de tratamento de dados. 
-5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção. 
-6. Análise bidimensional. 
+1. Variáveis quantitativas e qualitativas.
+2. Medidas resumo, centralidade e dispersão.
+3. Diagramas e recursos gráficos.
+4. Introdução ao ambiente de tratamento de dados.
+5. Abertura de base de dados, tratamento de valores inválidos, filtragem e seleção.
+6. Análise bidimensional.
 7. Teoria da probabilidade. Machine
-8. Introdução à classificação. 
-9. Variáveis e distribuições discretas e contínuas. 
-10. Inferência estatística e por reamostragem. 
+8. Introdução à classificação.
+9. Variáveis e distribuições discretas e contínuas.
+10. Inferência estatística e por reamostragem.
 
 ## Bibliografia Básica
 
@@ -488,7 +488,7 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Complementar
 
-1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018. 
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018.
 1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
 1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
@@ -501,7 +501,7 @@ Carga horária: 44h
 
 ## Ementa:
 
-Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita. 
+Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita.
 
 ## Objetivos
 
@@ -510,16 +510,16 @@ Ao final da disciplina o aluno será capaz de:
 1.	Interpretar requisitos de um cliente relacionadas a um software centrado em dados
 2.	Propor uma solução
 3.	Esboçar a arquitetura de uma solução argumentando sobre restrições de projeto, demonstrando compreensão da computação em camadas e de forma integrada
-4.  Atuar em um time gerenciado por métodos ágeis na criação de um protótipo 
+4.  Atuar em um time gerenciado por métodos ágeis na criação de um protótipo
 4.	Apresentar o projeto e criar documentação escrita
 
 ## Conteúdo programático
 
 1. Coleta de requisitos de cliente
 1. Arquitetura de software
-1. Gestão de times ágeis 
+1. Gestão de times ágeis
 1. Comunicação escrita
-1. Técnicas de apresentação 
+1. Técnicas de apresentação
 
 
 
@@ -623,14 +623,14 @@ Carga Horária:  72
 
 ## Ementa
 
-Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV). 
+Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV).
 
 ## Objetivos
 
 Ao final da disciplina o estudante será capaz de:
 
 1. Descrever os conceitos, técnicas e métodos para o desenvolvimento de Agentes Autônomos.
-2. Identificar quais tipos de problemas podem ser resolvidos através do uso de Agentes Autônomos. 
+2. Identificar quais tipos de problemas podem ser resolvidos através do uso de Agentes Autônomos.
 3. Criar soluções para alguns problemas clássicos desta área.
 4. Especificar, desenvolver e testar projetos que façam uso de Agentes Autônomos para resolver problemas complexos.
 5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas.
@@ -639,7 +639,7 @@ Ao final da disciplina o estudante será capaz de:
 ## Conteúdo Programático
 
 1. Definições de Agente Autônomo e resolução de problemas.
-2. Estratégias de busca: algoritmos de busca cega e algoritmos informados. 
+2. Estratégias de busca: algoritmos de busca cega e algoritmos informados.
 3. Heurísticas.
 4. Implementação de agentes autônomos utilizando estratégias de busca.
 5. Programação por restrições (CSP).
@@ -651,6 +651,7 @@ Ao final da disciplina o estudante será capaz de:
 11. Algoritmo Q-Learning. 
 12. Implementações de agentes autônomos usando o projeto Gym.
 13. Implementação de um agente robótico. 
+
 
 
 ## Bibliografia Básica
@@ -670,7 +671,7 @@ Artigos:
 
 Livros:
 
-1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.	
+1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.
 2. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
 3. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
 4. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
@@ -1037,9 +1038,9 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017. 
-2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015. 
-3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital] 
+1.	MOGESEN, T.A. Introduction to Compiler Design. 2ª. ed. Springer, 2017.
+2.	SARDA, S., PANDEY, M. LLVM Essentials. Packt Publishing, 2015.
+3.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
 
 Artigos:
 
@@ -1051,7 +1052,7 @@ Livros:
 
 1.	JOSÉ NETO, J., Introdução à Compilação, 1ª ed., Elsevier, 2016
 2.	HARPER, R. Practical Foundations of Programming Languages. 2ª ed., Cambridge University Press, 2017.
-3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.  
+3.	GABRIELLI, M., MARTINI, S. Programming Languages: Principles and Paradigms. Springer: 2010.
 4.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
 5.	WATT, D.A., FINDLAY, W. Programming Language Design Principles. John Wiley & Sons, 2004.
 
@@ -1184,10 +1185,10 @@ HOHPE, GREGOR. The Software Architect’s Elevator.
 
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
-NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022. 
+NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022.
 
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
 RICHARDS, MARK; FORD, NEAL. Fundamentals of Software Architecture: An Engineering Approach. 1.a ed. 2020.
 
@@ -1220,41 +1221,45 @@ Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Projetar, implementar e analisar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos
-2.	Reconhecer problemas em classes de complexidade de espaço e tempo
-3.	Projetar, implementar e analisar algoritmos para problemas intratáveis
-4.	Entender a estrutura e participar de maratonas de programação
-5.	Entender a estrutura e participar de entrevistas técnicas de programação
+1. Identificar e demonstrar a complexidade de espaço e tempo de um algoritmos utilizando notação assintótica;
+2. Projetar e implementar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos;
+3. Descrever as intuições e funcionamento de algoritmos no contexto de entrevistas técnicas de programação.
 
 ## Conteúdo Programático
 
-1.	Descrição formal de algoritmos: Lógica de Floyd-Hoare, pré-condições, invariantes e pós-condições
-2.	Notação assintóticas: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+1.	Notação assintótica: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+2.	Demonstrações de propriedades de notação assintótica
 3.	Análise de algoritmos determinísticos: algoritmos iterativos e recursivos, análise de algoritmos iterativos e recursivos clássicos para ordenação e busca
-4.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
-5.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
-6.	Análise de algoritmos gulosos: problemas com estrutura de matróides, algoritmos gulosos, análise de algoritmos gulosos
-7.	Análise de complexidade de problemas: problemas como linguagens, problemas e Máquinas de Turing, contagem de tempo e espaço em Máquinas de Turing
-8.	Classes de complexidade: complexidade de tempo (P, NP, NP-completo, NP-difícil) e espaço (P-espaço, NP-espaço, NP-espaço completo, NP-espaço difícil), redução entre classes de complexidade
-9.	Algoritmos aproximativos: raio de aproximação, técnicas clássicas de aproximação, análise de algoritmos aproximativos
-10.	Algoritmos baseados em oráculos: sistemas interativos, oráculos, classes de complexidade em interação, análise de algoritmos baseados em oráculos
-11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
-12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
+4.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
+5.	Análise de algoritmos gulosos
+6.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
+7.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
 ## Bibliografia Básica
+
+Livros:
 
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
 3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
 
+Artigos:
+
+Anna Stepanova, Alexis Weaver, Joanna Lahey, Gerianne Alexander, and Tracy Hammond. 2021. Hiring CS Graduates: What We Learned from Employers. ACM Trans. Comput. Educ. 22, 1, Article 5 (March 2022), 20 pages. Disponível em: https://doi.org/10.1145/3474623 Acesso em: 18 dezembro 2023.
+
 ## Bibliografia Complementar
+
+Livros:
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
 2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
-4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
+4.	ERICKSON, J. Algorithms, 1st ed. 2019.
 5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
 
+Artigos:
+
+Mahnaz Behroozi, Shivani Shirolkar, Titus Barik, and Chris Parnin. 2020. Does stress impact technical interview performance? In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 481–492. Disponível em: https://doi.org/10.1145/3368089.3409712 Acesso em: 18 dezembro 2023.
 
 \newpage
 
@@ -1507,7 +1512,7 @@ Livros:
 \newpage
 
 
-# Cybersegurança 
+# Cybersegurança
 
 Carga Horária:  80
 *Semestre  : 6º período*
