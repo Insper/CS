@@ -1331,78 +1331,55 @@ Carga Horária:  80
 
 ## Ementa
 
-Ciclo de adoção de técnicas de inteligência artificial e técnicas analíticas avançadas por empresas. Start ups versus organizações. Canvas do modelo de negócios. Geração de valor de um projeto. Análise de ambiente externo e interno. Análise de custos. Produto mínimo viável. Proposta de valor. Segmentação de mercado. Noções de direito para start ups. Relacionamento com o cliente. Dimensionamento de atividades e recursos.
+O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial; Desenvolvimento de startups na visão dos investidores; Desenvolvimento de Lean canvas; Apresentação do *pitch Problem-Solution-Opportunity*; Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD), e; Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento (i.e., desenvolvimento de código de forma colaborativa, testes automatizados, padronização de código e documentação).
 
 ## Objetivos
 
-Ao final da disciplina o aluno será capaz de:
+Ao final da disciplina o estudante será capaz de:
 
-1. Situar fenômenos de inovação, e antecipar suas consequências como fonte de criação de valor.
-2. Ser capaz de analisar uma empresa tecnológica e definir as dinâmicas envolvidas, bem como as competências necessárias às pessoas que nelas atuam.
-4. Entender processos de pesquisa e inovação e medir fatores de eficácia como vetor de sucesso de uma empresa.
-5. Enfatizar a importância da estratégia em termos de criação e captura de valor.
-6. Identificar fenômenos de criação de valor em setores fortemente impactados pela economia do conhecimento (TI, e-commerce, redes sociais).
-7. Caracterizar uma empresa em função do seu posicionamento face aos movimentos de inovação inerentes ao seu setor (redes de inovação).
-8. Compreender os fatores de transformação de uma indústria e o papel dos mecanismos nacionais de inovação no apoio à criação de valor via inovação.
-9. Entender a importância da propriedade intelectual e os mecanismos para protegê-la.
-10. Explicar os modelos de negócios para projetos envolvendo inovação tecnológica, e o papel do capital de risco no seu financiamento.
-11. A partir de casos reais, analisar os fatores que levaram empresas tecnológicas ao sucesso ou ao fracasso.
-12. Conhecer e integrar os componentes básicos de um plano de projeto.
+1. compreender competências empreendedoras e técnicas essenciais para a criação e gerenciamento bem-sucedido de startups;
+1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos); 
+1. entender como criar e manter uma equipe; 
+1. implementar uma solução usando conceitos de Inteligência Artificial, e;
+1. desenvolver e manter uma solução de software usando boas práticas de desenvolvimento de software.
 
 ## Conteúdo Programático
 
-1. Por que empreender com embasamento tecnológico.
-2. O que sabemos hoje: startups não são versões menores de grandes corporações.
-3. Canvas do Modelo de Negócios: uma ferramenta para projetar os empreendimentos de amanhã.
-4. Pense como cientista, aja como empreendedor.
-5. Canvas do Modelo de Projetos.
-6. O entendimento da geração de valor do projeto para a organização.
-7. Quais produtos/serviços/resultados o projeto está entregando? Quais são suas características diferenciadas que atendem às necessidades do cliente do projeto?
-8. Quem, da organização, dedicar-se-á ao projeto e por quanto tempo? Com quais órgãos do ambiente externo ao projeto teremos que lidar?
-9. Qual trabalho, com foco em resultado, cada um tem que produzir? Em quais condições esse trabalho pode e deve ser feito?
-10  Em que prazo/custo podemos nos comprometer considerando os principais riscos?
-11. MVP.
-12. Proposta de Valor.
-13. Direito para startups.
-14. Segmento de clientes.
-15. Relacionamento com clientes.
-16. Canais de entrega da proposta de valor para os clientes.
-17. Formas inovadoras de geração de receita.
-18. Atividades principais em uma startup baseada em ETCM.
-19. Conhecimento, aprendizado e concepção (design).
-20. Recursos principais em uma startup baseada em ETCM.
-21. Parceiros para desenvolvimento de produtos e do negócio.
-22. Custos em uma startup baseada em ETCM.
-23. Organização da nova empresa.
-24. Desenvolvimento de clientes.
-25. Como criar produtos que os clientes desejem.
-26. Como se relacionar com os clientes focando em reduzir os riscos e aumentar os ganhos da empresa.
-27. Como definir as atividades e os recursos da empresa visando redução do tempo até o mercado.
-28. Criando parceiros que trazem credibilidade e minimizem os custos para a empresa.
+1. O que é empreendedorismo. 
+1. Impactos atuais e futuros da Inteligência Artificial. 
+1. Desenvolvimento de startups na visão dos investidores.
+1. Contato com investidores e com corporações com desemandas de IA.
+1. Desenvolvimento de Lean canvas. 
+1. Apresentação do *pitch Problem-Solution-Opportunity*.
+1. Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD). 
+1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
+1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
+1. Implementação e utilização de testes automatizados.
+1. Padronização de código e documentação. 
+1. Desenvolvimento da solução em sprints.
+1. Apresentação da solução.
 
 ## Bibliografia Básica
 
-Livros:
-
-1.	BLANK, S.; DORF, B., The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company, 1ª ed., K&S Ranch, 2012
-2.	OSTERWALDER, Alexander; PIGNEUR, Yves, Business Model Generation: A Handbook for visionaries, game changers, and challengers. , John Wiley & Sons, 2010
-3.	FINOCCHIO JR, J., Project Model Canvas: Gerenciamento de Projetos sem Burocracia, Elsevier Brasil, 2014
-Artigos:
-WOUTERS, M.; ANDERSON, J. C.; KIRCHBERGER, M.. New-Technology Startups Seeking Pilot Customers: Crafting a Pair of Value Propositions.. California Management Review. , v. 60 , n. 4 , p. 101-124 , 2018. ; Disponível em: http://journals.sagepub.com/doi/abs/10.1177/0008125618778855. Acesso em: 27 maio 2019.
-
+1. Cooper, B. and Vlaskovits, P., 2010. The entrepreneur's guide to customer development: a" cheat sheet" to The Four Steps to the Epiphany (pp. 90-110). Newport Beach, CA: Cooper-Vlaskovits.
+1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons.
+1. S. Amershi et al., "Software Engineering for Machine Learning: A Case Study," 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Montreal, QC, Canada, 2019, pp. 291-300, doi: 10.1109/ICSE-SEIP.2019.00042.
+1. Andrei Paleyes, Raoul-Gabriel Urma, and Neil D. Lawrence. 2022. Challenges in Deploying Machine Learning: A Survey of Case Studies. ACM Comput. Surv. 55, 6, Article 114 (June 2023), 29 pages. https://doi.org/10.1145/3533378.
+1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455. 
 
 ## Bibliografia Complementar
 
-Livros:
+1. Horowitz, B. and Kenerly, K., 2014. The hard thing about hard things (p. 174). New York: HarperCollins.
+1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
+1. RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+1. [Andrew Ng. Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
+1. Mozilla Foundation. Trustworthy Artificial Intelligence, available at https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/ 
+1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082. 
+1. United Nations System. Principles for the Ethical Use of Artificial Intelligence in the
+United Nations System, 2022, available at https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system
 
-1.	BYERS, T.; DORF, R.; NELSON, A., Technology Ventures: From Idea to Enterprise, 4ª ed., McGraw-Hill Education, 2014
-2.	SPINELLI, S.; ADAMS, R., New Venture Creation: Entrepreneurship for the 21st Century, McGraw-Hill, 2011
-3.	AULET, B., Disciplined Entrepreneurship: 24 steps to a successful startup., John Wiley & Sons, 2013
-4.	RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
-5.	MANKIW, G., Introdução à Economia., 6ª ed., Cengage Learning, 2013
-Artigos:
-BOGERS, M., CHESBROUGH, H., MOEDAS, C.. Open innovation: research, practices, and policies.. California Management Review. , v. 60 , n. 2 , p. 5-16 , 2018. ; Disponível em: http://journals.sagepub.com/doi/full/10.1177/0008125617745086. Acesso em: 27 maio 2019.
- 
 
 \newpage
 
