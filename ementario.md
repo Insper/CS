@@ -713,19 +713,15 @@ Conteúdo Programático:
 
 Bibliografia Básica
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
-2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
-3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
-4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013. https://codingthematrix.com/
 
 Bibliografia Complementar
 
-1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
-2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008.
-3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
-4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
-5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
-6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
-7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
+4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+3. STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+4. ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
+
 
 
 \newpage
