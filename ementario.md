@@ -1391,7 +1391,7 @@ Carga Horária:  80
 
 ## Ementa
 
-Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Level Design; Técnicas ágeis de design de jogos; Design de interação para jogos; Tecnologias para desenvolvimento de jogos (GPU, bibliotecas e frameworks gráficos, engines); Produção de artefatos para jogos (cenários, modelos, animações, áudio, vídeo, scripts); Técnicas ágeis para prototipação de jogos; Integração de artefatos de jogos; Game Testing; Realismo físico em jogos; Jogos inteligentes; Jogos multiplayer; Jogos para consoles; Processo de publishing e marketing de jogos; Negócios e empreendedorismo em jogos.
+Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Level Design; Técnicas ágeis de design de jogos; Design de interação para jogos; Tecnologias para desenvolvimento de jogos (GPU, bibliotecas e frameworks gráficos, engines); Produção de artefatos para jogos (cenários, modelos, animações, áudio, vídeo, scripts); Técnicas ágeis para prototipação de jogos; Integração de artefatos de jogos; Game Testing; Realismo físico em jogos; Processo de publishing e marketing de jogos; Negócios e empreendedorismo em jogos.
 
 ## Objetivos
 
@@ -1422,13 +1422,13 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 
 Livros:
 
-1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley , 2015
-2.	MARTINHO, C.; SANTOS, P.; PRADA, R., Design e Desenvolvimento de Jogos, FCA, 2014
-3.	MILES, J., Unity 3D e PlayMaker Essentials: Game Development from Concept to Publishing, CRC Press,, 2016
+1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley, 2015
+2.  Rogers, S.; Level Up! The Guide to Great Video Game Design, 2nd Edition, Wiley, 2014
+3.  ALVES, W. P.; Unity: design e desenvolvimento de jogos, Alta Books, 2019. E-book. ISBN 9786555200102
 
 Artigos:
 
-KARPINSKYJ, S. et. al.. Video game personalisation techniques: A comprehensive survey.. Entertainment Computing.. , v. 5 , n. 4 , p. 211-218 , 2014. ; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84907845372&doi=10.1016%2fj.entcom.2014.09.002&partnerID=40&md5=605f2683fac288315360c 62C6049a2Cd. Acesso em: 27 maio 2019.
+Natucci, G. C., Borges, M. A. F.; The Experience, Dynamics and Artifacts Framework: Towards a Holistic Model for Designing Serious and Entertainment Games, 2021 IEEE Conference on Games (CoG), Copenhagen, Denmark, 2021, pp. 1-8, doi: 10.1109/CoG52621.2021.9619144. Acesso em: 17 dezembro 2023.
 
 ## Bibliografia Complementar
 
@@ -1437,11 +1437,12 @@ Livros:
 1.	BARRERA, R.; KYAW, A.S.; PETERS, C.; SWE, N., Unity AI Game Programming, 2ª ed., Packt Publishing, 2015 RANI, K. A., Learning Unity Physics., 2014ª ed., Packt Publishing, 0
 2.	SAUNDERS, K.D.; NOVAK, J. , Game Interface Design, 2ª ed., Cengage Learning, 2012 STAGNER, A.R, Unity Multiplayer Games., Packt Publishing, 2013
 3.	VASCONCELOS, J.B.; RIBEIRO, N., Tecnologias de Programação de Jogos, FCA, 2013
+4.	MILES, J., Unity 3D e PlayMaker Essentials: Game Development from Concept to Publishing, CRC Press,, 2016
+5.  SILVA, G. F.; SILVA, T. S. C.; FILHO, M. P. et al. Game Design, SAGAH, 2021. E-book. ISBN 9786556901299.
 
 Artigos:
 
-WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A review of literature.. Entertainment Computing. , v. 4 , n. 3 , p. 143-155 , 2013.
-; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84875590999&doi=10.1016%2fj.entcom.2013.02.002&partnerID=40&md5=e7f5b9129a9fa8e7d2366 266db57d87f. Acesso em: 27 maio 2019.
+Gurbuz, S. C., Celik, M.; Serious games in future skills development: A systematic review of the design approaches, Computer Applications in Engineering Education, 2022. doi: https://doi.org/10.1002/cae.22557. Acesso em: 17 dezembro 2023.
 
 \newpage
 
