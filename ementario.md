@@ -430,61 +430,129 @@ Livros:
 
 \newpage
 
-# Projeto Ágil e Programação Eficaz
+# Projeto Ágil
 
-Carga Horária:  144
+Carga Horária:  72
 *Semestre  2º período*
 
 ## Ementa:
 
-Identificação do problema real aplicando a metodologia design thinking; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Programação Orientada a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o framework ágil SCRUM; Documentação de projetos de Software; Estratégias para Construção de Software: TDD (desenvolvimento baseado em testes) e DDD (desenvolvimento baseado em domínio); Mapeamento de modelo de análise em modelo de objetos; Representação de estrutura e comportamento de um modelo em diagramas UML: casos de uso, classe, sequência, colaboração e implantação; Planejamento de implementação de um código; Requisitos funcionais e não funcionais de software; Critérios de qualidade de código; Estratégias de testes automatizados de software: testes de unidade; Técnicas eficientes de depuração de programas; Técnicas eficientes de explorar bases de código; Desenvolvimento em ambiente colaborativo e distribuído e controle de versão; Modelo de colaboração usando submissões, revisão de código, integração e entrega contínuos, testes automatizados e padrões de código; Sinalização e tratamento de erros e exceções; Monitoramento de software  e arquivos de registro de histórico (log); Introdução à Engenharia de Software e fases do processo de desenvolvimento de software.
+Introdução à Engenharia de Software e fases do processo de
+desenvolvimento de software; Identificação do problema real aplicando a
+metodologia de design thinking; Representação de estrutura e
+comportamento de um modelo em diagramas UML: Casos de uso, classe,
+sequência, colaboração e implantação; Conceitos de Programação Orientada
+a Objetos; Técnicas de Planejamento e Gerenciamento de Software com o
+framework ágil SCRUM; Documentação de projetos de Software; Estratégias
+para Construção de Software; Mapeamento de modelo de análise em modelo
+de objetos; Representação de estrutura e comportamento de um modelo em
+diagramas UML: casos de uso, classe, sequência, colaboração e
+implantação; Planejamento de implementação de um código; Requisitos
+funcionais e não funcionais de software; Critérios de qualidade de
+código;
+
 
 ## Objetivos
 
 Ao final da disciplina o aluno será capaz de:
 
-1.	Atuar em uma equipe que gere um projeto por meio do métodos ágil SCRUM revezando papeis nesta equipe
-1.  Aplicar metodologia do design thinking para identificar e validar problemas de usuários
-1.  Identificar requisitos de sistema e expressá-los em casos de uso e histórias de usuário
-1.	Estruturar um sistema orientado a objeto a partir de requisitos
-1.	Expressar arquitetura e comportamento de um sistema a partir de diagramas UML
-1.	Utilizar ferramentas e soluções de desenvolvimento para que o time esteja apto a colaborar num projeto
-1.	Escrever testes de unidade que expressem comportamento esperado de um subsistema
-1.  Escrever documentação de software de forma organizada e clara
-1.	Analizar uma base de código pré-existente e propor intervenções
-1.	Resolver problemas de implementação a partir de resultados encontrados na Web e avaliar criticamente as fontes encontradas
-1.	Classificar requisitos como funcionais ou não-funcionais
+1.  Atuar em uma equipe que gere um projeto por meio dos métodos ágeis
+    SCRUM e Kanban, revezando papeis nesta equipe
+1.  Utilizar o framework ágil SCRUM para gerir o desenvolvimento de um
+    projeto.
+1.  Aplicar metodologia do design thinking para identificar e validar
+    problemas de usuários
+1.  Identificar requisitos de sistema e expressá-los em casos de uso e
+    histórias de usuário
+1.  Estruturar um sistema orientado a objeto a partir de requisitos
+1.  Expressar arquitetura e comportamento de um sistema a partir de
+    diagramas UML
 
 ## Conteúdo Programático
 
 
-1.	Design Thinking
-1.  Introdução à Engenharia de Software: fases do processo de desenvolvimento de software
-1.  Introdução ao framework ágil Scrum
-1.	Introdução à programação orientada a objetos
-1.	Diagramas UML
-1.	Introdução ao UML
-1.	Mapeamento de requisitos em objetos de domínio
-1.	Como estruturar um projeto de software
-1.	Colaboração usando controle distribuído de versão
-1.	Desenvolvimento orientado a testes
-1.	Técnicas de depuração de código
+1.  Design Thinking
+1.  Introdução à Engenharia de Software: fases do processo de
+    desenvolvimento de software
+1.  Introdução ao framework ágil Scrum e Kanban
+1.  Introdução à programação orientada a objetos
+1.  Diagramas UML
+1.  Introdução ao UML
+1.  Mapeamento de requisitos em objetos de domínio
 
 
 ## Bibliografia Básica
 
-1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020. Disponível em <https://engsoftmoderna.info/>, Acesso em 20 jun 2024. 
 1.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
 1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
 
 
 ## Bibliografia Complementar
 
+
 1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018.
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
+1.  PRESSMAN, R., Engenharia de Software: Uma abordagem profissional.,
+    8ª ed., AMGH, 2016
+
+
+
+# Programação Eficaz
+
+## Ementa:
+
+Desenvolvimento em ambiente colaborativo e controle de versão: práticas e ferramentas como Git; Introdução ao desenvolvimento de aplicações web: componentes, arquitetura, e separação de responsabilidades; Exploração eficiente de bases de código e documentação: técnicas e importância; Web services REST e Maturidade de Richardson: princípios e aplicação prática; Deploy completo de aplicações web: estratégias e ferramentas para frontend, backend e banco de dados; Desenvolvimento Orientado por Testes (TDD): conceitos e implementação; Automação de testes e uso de clients HTTP: estratégias e ferramentas; Uso de bases de dados relacionais e modelagem relacional: PostgreSQL e tipos de relacionamentos; Utilização e consumo de APIs de terceiros: integração e melhores práticas; Depuração eficiente de programas e tratamento de erros e exceções: estratégias e melhores práticas; Monitoramento de software e logging: técnicas e sistemas de logging; Introdução ao NoSQL com MongoDB: conceitos e práticas; Autenticação e autorização: mecanismos e implementação.
+
+
+## Objetivos:
+Capacitar o aluno a projetar, implementar e manter aplicações web modernas, empregando práticas avançadas como TDD, REST, automação de testes, e programação colaborativa. Introduzir bases de dados relacionais e NoSQL, e ensinar o processo completo de deploy de aplicações web.
+
+Ao final da disciplina, o aluno será capaz de:
+
+1. Desenvolver aplicações web completas, integrando frontend e backend.
+1. Aplicar TDD para melhorar a qualidade do software.
+1. Criar e consumir web services RESTful, melhorando a interoperabilidade.
+1. Automatizar testes, garantindo a robustez da aplicação.
+1. Utilizar bases de dados relacionais e NoSQL para gestão de dados eficiente.
+1. Executar deploy completo de aplicações, incluindo configurações de servidor e banco de dados.
+1. Integrar APIs de terceiros, expandindo a funcionalidade das aplicações.
+1. Implementar autenticação e autorização, assegurando a segurança da aplicação.
+1. Utilizar ferramentas de monitoramento e logs para manutenção proativa.
+1. Colaborar em equipes de desenvolvimento distribuídas, utilizando controle de versão e práticas de código limpo.
+
+
+## Conteúdo Programático:
+
+1. Desenvolvimento em Ambiente Colaborativo e Controle de Versão: Práticas de desenvolvimento colaborativo; Uso de sistemas de controle de versão (ex: Git).
+1. Introdução ao Desenvolvimento de Aplicações Web: Visão geral sobre aplicações web modernas e seus componentes (frontend e backend); Arquitetura de aplicações web: separação de responsabilidades entre cliente e servidor.
+1. Exploração Eficiente de Bases de Código e Documentação: Técnicas para navegação e compreensão de bases de código existentes; Importância e práticas de documentação de software.
+1. Web Services REST e Maturidade de Richardson: Princípios fundamentais de REST e serviços web RESTful; Aplicando os níveis da Maturidade de Richardson em projetos práticos.
+1. Deploy Completo de Aplicações Web: Estratégias e ferramentas para deploy de aplicações: frontend, backend (REST), e base de dados.
+1. Desenvolvimento Orientado por Testes (TDD): Conceitos e práticas de TDD; Implementação de ciclos de TDD para o desenvolvimento sustentável de software.
+1. Automação de Testes e Uso de Clients HTTP: Estratégias para automação de testes em aplicações web: Utilização de ferramentas e clients HTTP para testes e desenvolvimento.
+1. Uso de Bases de Dados Relacionais e Modelagem Relacional: Introdução ao PostgreSQL: conceitos básicos e práticas; Modelagem relacional: relacionamentos 1-1, 1-N, e N-M.
+1. Utilização e Consumo de APIs de Terceiros: Integração com serviços externos via APIs; Melhores práticas e padrões de consumo.
+1. Depuração Eficiente de Programas e Tratamento de Erros e Exceções:  Estratégias e ferramentas para depuração de código; Melhores práticas para tratamento de erros e exceções.
+1. Monitoramento de Software e Logging: Técnicas para monitoramento de aplicações web; Implementação de sistemas de logging para rastreamento de erros e atividades.
+1. Introdução ao NoSQL com MongoDB:Conceitos fundamentais do NoSQL; Práticas com MongoDB: modelagem de dados e operações básicas.
+1. Autenticação e Autorização: Mecanismos de controle de acesso; Implementação de sistemas de autenticação e autorização em aplicações web.
+
+# Bibliografia Básica 
+
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020. Disponível em <https://engsoftmoderna.info/>, Acesso em 20 jun 2024. 
+1.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
+
+
+
+# Bibliografia Complementar 
+
 1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
 1.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
-1.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
+
+
+
 
 
 # Sprint Session 2
@@ -643,6 +711,7 @@ Ao final da disciplina o estudante será capaz de:
 11. Algoritmo Q-Learning.
 12. Implementações de agentes autônomos usando o projeto Gym.
 13. Implementação de um agente robótico.
+
 
 
 ## Bibliografia Básica
@@ -1212,41 +1281,45 @@ Descrição formal de algoritmos. Notação assintótica. Análise de algoritmos
 
 Ao final do curso, o aluno deve ser capaz de:
 
-1.	Projetar, implementar e analisar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos
-2.	Reconhecer problemas em classes de complexidade de espaço e tempo
-3.	Projetar, implementar e analisar algoritmos para problemas intratáveis
-4.	Entender a estrutura e participar de maratonas de programação
-5.	Entender a estrutura e participar de entrevistas técnicas de programação
+1. Identificar e demonstrar a complexidade de espaço e tempo de um algoritmos utilizando notação assintótica;
+2. Projetar e implementar algoritmos determinísticos, probabilísticos, dinâmicos e gulosos;
+3. Descrever as intuições e funcionamento de algoritmos no contexto de entrevistas técnicas de programação.
 
 ## Conteúdo Programático
 
-1.	Descrição formal de algoritmos: Lógica de Floyd-Hoare, pré-condições, invariantes e pós-condições
-2.	Notação assintóticas: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+1.	Notação assintótica: crescimento de funções, ordens de complexidade de algoritmos, pior caso, melhor caso e caso médio
+2.	Demonstrações de propriedades de notação assintótica
 3.	Análise de algoritmos determinísticos: algoritmos iterativos e recursivos, análise de algoritmos iterativos e recursivos clássicos para ordenação e busca
-4.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
-5.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
-6.	Análise de algoritmos gulosos: problemas com estrutura de matróides, algoritmos gulosos, análise de algoritmos gulosos
-7.	Análise de complexidade de problemas: problemas como linguagens, problemas e Máquinas de Turing, contagem de tempo e espaço em Máquinas de Turing
-8.	Classes de complexidade: complexidade de tempo (P, NP, NP-completo, NP-difícil) e espaço (P-espaço, NP-espaço, NP-espaço completo, NP-espaço difícil), redução entre classes de complexidade
-9.	Algoritmos aproximativos: raio de aproximação, técnicas clássicas de aproximação, análise de algoritmos aproximativos
-10.	Algoritmos baseados em oráculos: sistemas interativos, oráculos, classes de complexidade em interação, análise de algoritmos baseados em oráculos
-11.	Maratonas de programação: estrutura, maratonas nacionais e internacionais, prática em ambiente de maratona
-12.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
+4.	Análise de programação dinâmica: programação dinâmica, algoritmos dinâmicos clássicos, análise de algoritmos dinâmicos
+5.	Análise de algoritmos gulosos
+6.	Análise de algoritmos probabilísticos: algoritmos probabilísticos, distribuições para entradas, análise probabilística de algoritmos determinísticos, análise probabilística de algoritmos probabilísticos
+7.	Entrevistas técnicas: estrutura, entrevistas nacionais e internacionais, prática em entrevistas técnicas
 
 ## Bibliografia Básica
+
+Livros:
 
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
 3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
 
+Artigos:
+
+Anna Stepanova, Alexis Weaver, Joanna Lahey, Gerianne Alexander, and Tracy Hammond. 2021. Hiring CS Graduates: What We Learned from Employers. ACM Trans. Comput. Educ. 22, 1, Article 5 (March 2022), 20 pages. Disponível em: https://doi.org/10.1145/3474623 Acesso em: 18 dezembro 2023.
+
 ## Bibliografia Complementar
+
+Livros:
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
 2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
-4.	AHUJA, R. K.; MAGNANTI, T. L.; ORLIN, J. B. Network Flows: Theory, Algorithms, and Applications. Prentice Hall, 1993.
+4.	ERICKSON, J. Algorithms, 1st ed. 2019.
 5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
 
+Artigos:
+
+Mahnaz Behroozi, Shivani Shirolkar, Titus Barik, and Chris Parnin. 2020. Does stress impact technical interview performance? In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 481–492. Disponível em: https://doi.org/10.1145/3368089.3409712 Acesso em: 18 dezembro 2023.
 
 \newpage
 
@@ -1323,78 +1396,55 @@ Carga Horária:  80
 
 ## Ementa
 
-Ciclo de adoção de técnicas de inteligência artificial e técnicas analíticas avançadas por empresas. Start ups versus organizações. Canvas do modelo de negócios. Geração de valor de um projeto. Análise de ambiente externo e interno. Análise de custos. Produto mínimo viável. Proposta de valor. Segmentação de mercado. Noções de direito para start ups. Relacionamento com o cliente. Dimensionamento de atividades e recursos.
+O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial; Desenvolvimento de startups na visão dos investidores; Desenvolvimento de Lean canvas; Apresentação do *pitch Problem-Solution-Opportunity*; Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD), e; Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento (i.e., desenvolvimento de código de forma colaborativa, testes automatizados, padronização de código e documentação).
 
 ## Objetivos
 
-Ao final da disciplina o aluno será capaz de:
+Ao final da disciplina o estudante será capaz de:
 
-1. Situar fenômenos de inovação, e antecipar suas consequências como fonte de criação de valor.
-2. Ser capaz de analisar uma empresa tecnológica e definir as dinâmicas envolvidas, bem como as competências necessárias às pessoas que nelas atuam.
-4. Entender processos de pesquisa e inovação e medir fatores de eficácia como vetor de sucesso de uma empresa.
-5. Enfatizar a importância da estratégia em termos de criação e captura de valor.
-6. Identificar fenômenos de criação de valor em setores fortemente impactados pela economia do conhecimento (TI, e-commerce, redes sociais).
-7. Caracterizar uma empresa em função do seu posicionamento face aos movimentos de inovação inerentes ao seu setor (redes de inovação).
-8. Compreender os fatores de transformação de uma indústria e o papel dos mecanismos nacionais de inovação no apoio à criação de valor via inovação.
-9. Entender a importância da propriedade intelectual e os mecanismos para protegê-la.
-10. Explicar os modelos de negócios para projetos envolvendo inovação tecnológica, e o papel do capital de risco no seu financiamento.
-11. A partir de casos reais, analisar os fatores que levaram empresas tecnológicas ao sucesso ou ao fracasso.
-12. Conhecer e integrar os componentes básicos de um plano de projeto.
+1. compreender competências empreendedoras e técnicas essenciais para a criação e gerenciamento bem-sucedido de startups;
+1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos); 
+1. entender como criar e manter uma equipe; 
+1. implementar uma solução usando conceitos de Inteligência Artificial, e;
+1. desenvolver e manter uma solução de software usando boas práticas de desenvolvimento de software.
 
 ## Conteúdo Programático
 
-1. Por que empreender com embasamento tecnológico.
-2. O que sabemos hoje: startups não são versões menores de grandes corporações.
-3. Canvas do Modelo de Negócios: uma ferramenta para projetar os empreendimentos de amanhã.
-4. Pense como cientista, aja como empreendedor.
-5. Canvas do Modelo de Projetos.
-6. O entendimento da geração de valor do projeto para a organização.
-7. Quais produtos/serviços/resultados o projeto está entregando? Quais são suas características diferenciadas que atendem às necessidades do cliente do projeto?
-8. Quem, da organização, dedicar-se-á ao projeto e por quanto tempo? Com quais órgãos do ambiente externo ao projeto teremos que lidar?
-9. Qual trabalho, com foco em resultado, cada um tem que produzir? Em quais condições esse trabalho pode e deve ser feito?
-10  Em que prazo/custo podemos nos comprometer considerando os principais riscos?
-11. MVP.
-12. Proposta de Valor.
-13. Direito para startups.
-14. Segmento de clientes.
-15. Relacionamento com clientes.
-16. Canais de entrega da proposta de valor para os clientes.
-17. Formas inovadoras de geração de receita.
-18. Atividades principais em uma startup baseada em ETCM.
-19. Conhecimento, aprendizado e concepção (design).
-20. Recursos principais em uma startup baseada em ETCM.
-21. Parceiros para desenvolvimento de produtos e do negócio.
-22. Custos em uma startup baseada em ETCM.
-23. Organização da nova empresa.
-24. Desenvolvimento de clientes.
-25. Como criar produtos que os clientes desejem.
-26. Como se relacionar com os clientes focando em reduzir os riscos e aumentar os ganhos da empresa.
-27. Como definir as atividades e os recursos da empresa visando redução do tempo até o mercado.
-28. Criando parceiros que trazem credibilidade e minimizem os custos para a empresa.
+1. O que é empreendedorismo. 
+1. Impactos atuais e futuros da Inteligência Artificial. 
+1. Desenvolvimento de startups na visão dos investidores.
+1. Contato com investidores e com corporações com desemandas de IA.
+1. Desenvolvimento de Lean canvas. 
+1. Apresentação do *pitch Problem-Solution-Opportunity*.
+1. Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD). 
+1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
+1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
+1. Implementação e utilização de testes automatizados.
+1. Padronização de código e documentação. 
+1. Desenvolvimento da solução em sprints.
+1. Apresentação da solução.
 
 ## Bibliografia Básica
 
-Livros:
-
-1.	BLANK, S.; DORF, B., The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company, 1ª ed., K&S Ranch, 2012
-2.	OSTERWALDER, Alexander; PIGNEUR, Yves, Business Model Generation: A Handbook for visionaries, game changers, and challengers. , John Wiley & Sons, 2010
-3.	FINOCCHIO JR, J., Project Model Canvas: Gerenciamento de Projetos sem Burocracia, Elsevier Brasil, 2014
-Artigos:
-WOUTERS, M.; ANDERSON, J. C.; KIRCHBERGER, M.. New-Technology Startups Seeking Pilot Customers: Crafting a Pair of Value Propositions.. California Management Review. , v. 60 , n. 4 , p. 101-124 , 2018. ; Disponível em: http://journals.sagepub.com/doi/abs/10.1177/0008125618778855. Acesso em: 27 maio 2019.
-
+1. Cooper, B. and Vlaskovits, P., 2010. The entrepreneur's guide to customer development: a" cheat sheet" to The Four Steps to the Epiphany (pp. 90-110). Newport Beach, CA: Cooper-Vlaskovits.
+1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons.
+1. S. Amershi et al., "Software Engineering for Machine Learning: A Case Study," 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Montreal, QC, Canada, 2019, pp. 291-300, doi: 10.1109/ICSE-SEIP.2019.00042.
+1. Andrei Paleyes, Raoul-Gabriel Urma, and Neil D. Lawrence. 2022. Challenges in Deploying Machine Learning: A Survey of Case Studies. ACM Comput. Surv. 55, 6, Article 114 (June 2023), 29 pages. https://doi.org/10.1145/3533378.
+1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455. 
 
 ## Bibliografia Complementar
 
-Livros:
+1. Horowitz, B. and Kenerly, K., 2014. The hard thing about hard things (p. 174). New York: HarperCollins.
+1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
+1. RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
+1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
+1. [Andrew Ng. Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
+1. Mozilla Foundation. Trustworthy Artificial Intelligence, available at https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/ 
+1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082. 
+1. United Nations System. Principles for the Ethical Use of Artificial Intelligence in the
+United Nations System, 2022, available at https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system
 
-1.	BYERS, T.; DORF, R.; NELSON, A., Technology Ventures: From Idea to Enterprise, 4ª ed., McGraw-Hill Education, 2014
-2.	SPINELLI, S.; ADAMS, R., New Venture Creation: Entrepreneurship for the 21st Century, McGraw-Hill, 2011
-3.	AULET, B., Disciplined Entrepreneurship: 24 steps to a successful startup., John Wiley & Sons, 2013
-4.	RIES, E., A Startup Enxuta: Como os Empreendedores Atuais Utilizam a Inovação Contínua para Criar Empresas Extremamente Bem-sucedidas., Leya, 2012
-5.	MANKIW, G., Introdução à Economia., 6ª ed., Cengage Learning, 2013
-Artigos:
-BOGERS, M., CHESBROUGH, H., MOEDAS, C.. Open innovation: research, practices, and policies.. California Management Review. , v. 60 , n. 2 , p. 5-16 , 2018. ; Disponível em: http://journals.sagepub.com/doi/full/10.1177/0008125617745086. Acesso em: 27 maio 2019.
- 
 
 \newpage
 
@@ -1406,7 +1456,7 @@ Carga Horária:  80
 
 ## Ementa
 
-Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Level Design; Técnicas ágeis de design de jogos; Design de interação para jogos; Tecnologias para desenvolvimento de jogos (GPU, bibliotecas e frameworks gráficos, engines); Produção de artefatos para jogos (cenários, modelos, animações, áudio, vídeo, scripts); Técnicas ágeis para prototipação de jogos; Integração de artefatos de jogos; Game Testing; Realismo físico em jogos; Jogos inteligentes; Jogos multiplayer; Jogos para consoles; Processo de publishing e marketing de jogos; Negócios e empreendedorismo em jogos.
+Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Level Design; Técnicas ágeis de design de jogos; Design de interação para jogos; Tecnologias para desenvolvimento de jogos (GPU, bibliotecas e frameworks gráficos, engines); Produção de artefatos para jogos (cenários, modelos, animações, áudio, vídeo, scripts); Técnicas ágeis para prototipação de jogos; Integração de artefatos de jogos; Game Testing; Realismo físico em jogos; Processo de publishing e marketing de jogos; Negócios e empreendedorismo em jogos.
 
 ## Objetivos
 
@@ -1437,13 +1487,13 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 
 Livros:
 
-1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley , 2015
-2.	MARTINHO, C.; SANTOS, P.; PRADA, R., Design e Desenvolvimento de Jogos, FCA, 2014
-3.	MILES, J., Unity 3D e PlayMaker Essentials: Game Development from Concept to Publishing, CRC Press,, 2016
+1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley, 2015
+2.  Rogers, S.; Level Up! The Guide to Great Video Game Design, 2nd Edition, Wiley, 2014
+3.  ALVES, W. P.; Unity: design e desenvolvimento de jogos, Alta Books, 2019. E-book. ISBN 9786555200102
 
 Artigos:
 
-KARPINSKYJ, S. et. al.. Video game personalisation techniques: A comprehensive survey.. Entertainment Computing.. , v. 5 , n. 4 , p. 211-218 , 2014. ; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84907845372&doi=10.1016%2fj.entcom.2014.09.002&partnerID=40&md5=605f2683fac288315360c 62C6049a2Cd. Acesso em: 27 maio 2019.
+Natucci, G. C., Borges, M. A. F.; The Experience, Dynamics and Artifacts Framework: Towards a Holistic Model for Designing Serious and Entertainment Games, 2021 IEEE Conference on Games (CoG), Copenhagen, Denmark, 2021, pp. 1-8, doi: 10.1109/CoG52621.2021.9619144. Acesso em: 17 dezembro 2023.
 
 ## Bibliografia Complementar
 
@@ -1452,11 +1502,12 @@ Livros:
 1.	BARRERA, R.; KYAW, A.S.; PETERS, C.; SWE, N., Unity AI Game Programming, 2ª ed., Packt Publishing, 2015 RANI, K. A., Learning Unity Physics., 2014ª ed., Packt Publishing, 0
 2.	SAUNDERS, K.D.; NOVAK, J. , Game Interface Design, 2ª ed., Cengage Learning, 2012 STAGNER, A.R, Unity Multiplayer Games., Packt Publishing, 2013
 3.	VASCONCELOS, J.B.; RIBEIRO, N., Tecnologias de Programação de Jogos, FCA, 2013
+4.	MILES, J., Unity 3D e PlayMaker Essentials: Game Development from Concept to Publishing, CRC Press,, 2016
+5.  SILVA, G. F.; SILVA, T. S. C.; FILHO, M. P. et al. Game Design, SAGAH, 2021. E-book. ISBN 9786556901299.
 
 Artigos:
 
-WALLNER, G.; KRIGLSTEIN, S.. Visualization-based analysis of gameplay data - A review of literature.. Entertainment Computing. , v. 4 , n. 3 , p. 143-155 , 2013.
-; Disponível em: https://www.scopus.com/inward/record.uri?eid=2-s2.0-  84875590999&doi=10.1016%2fj.entcom.2013.02.002&partnerID=40&md5=e7f5b9129a9fa8e7d2366 266db57d87f. Acesso em: 27 maio 2019.
+Gurbuz, S. C., Celik, M.; Serious games in future skills development: A systematic review of the design approaches, Computer Applications in Engineering Education, 2022. doi: https://doi.org/10.1002/cae.22557. Acesso em: 17 dezembro 2023.
 
 \newpage
 
@@ -1485,8 +1536,8 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Conteúdo Programático
 
-1. Conceitos de Arquitetura e Micro Serviços;
-2. Micro Serviços com Interface API - RESTful;
+1. Conceitos de Arquitetura e Microsserviços;
+2. Microsserviços com Interface API - RESTful;
 3. Introdução a Contêineres;
 4. Introdução e Implementação de Design Patterns;
 5. Apresentação de Design Patterns mais Complexos: Segurança, Mensageria, Cache, etc;
@@ -1501,9 +1552,8 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1. ROMAN, Ed; AMBLER, Scott W.; JEWELL, Tyler. Dominando Enterprise Javabeans. Porto Alegre: Bookman, 2004. E-book. ISBN 9788577804061. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788577804061](https://integrada.minhabiblioteca.com.br/#/books/9788577804061). Acesso em: 30 de maio de 2023.
-2. ALVES, William Pereira. Java para Web - Desenvolvimento de Aplicações. São Paulo: Érica, 2015. E-book. ISBN 9788536519357. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788536519357](https://integrada.minhabiblioteca.com.br/#/books/9788536519357). Acesso em: 30 de maio de 2023.
-3. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
+1. FREEMAN, Emily. [DevOps Para Leigos. Rio de Janeiro: Editora Alta Books, 2021](https://www.amazon.com.br/DevOps-para-leigos-primeiros-sucesso/dp/855081573X/). E-book. ISBN 9788550816661. Disponível em: [https://integrada.minhabiblioteca.com.br/#/books/9788550816661](https://integrada.minhabiblioteca.com.br/#/books/9788550816661). Acesso em: 30 de maio de 2023.
+2. VERONEZ, Fabricio. [Canal Kubernetes e DevOps](https://www.youtube.com/@fabricioveronez). Disponível em: [https://www.youtube.com/@fabricioveronez](https://www.youtube.com/@fabricioveronez). Acesso em: 24 de junho de 2024.
 
 ## Bibliografia Complementar
 
@@ -1514,16 +1564,6 @@ Livros:
 3. PARKER, G. G.; VAN ALSTYNE, M. W.; CHOUDARY, S. P., [Plataforma: a revolução da estratégia](https://www.amazon.com.br/Plataforma-Revolu%C3%A7%C3%A3o-Estrat%C3%A9gia-Geoffrey-Parker/dp/8550806137/), 1ª ed., Alta Books, 2018.
 4. SEHGAL, N. K.; BHATT, P. C. P.; ACKEN J. M., [Cloud Computing with Security and Scalability.: Concepts and Practices](https://www.amazon.com.br/Cloud-Computing-Security-Scalability-Practices/dp/3031072448/), 3ª ed., Springer, 2023.
 5. KRIEF, M., [Learning DevOps: A comprehensive guide to accelerating DevOps culture adoption with Terraform, Azure DevOps, Kubernetes, and Jenkins](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967/), 2ª ed., Packt Publishing, 2022.
-6. GAMMA, E.; HELM, R.; JOHNSON, R., VLISSIDES, J., [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/), 1ª ed., Addison-Wesley Professional, 1994.
-
-Artigos:
-
-- XU, A. et al.. ByteByteGo - System Design 101. Disponível em: [https://github.com/ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101). Acesso em: 19 dezembro 2023.
-- Spring. Spring Cloud. Disponível em: [https://spring.io/projects/spring-cloud](https://spring.io/projects/spring-cloud). Acesso em: 19 dezembro 2023.
-
-
-
-
 
 
 
