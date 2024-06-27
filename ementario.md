@@ -11,7 +11,6 @@
 
 \newpage
 
-
 # Vida de Desenvolvedor de Software - Developer Life
 
 Carga Horária:  320
@@ -98,17 +97,17 @@ Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Int
 
 ## Bibliografia básica
 
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+
 ### Programação
 
 Livros:
 
-1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
-2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
-3.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
-
-Artigo:
-
-MIKAMI, K. et al.. Effectiveness of Game Jam-based iterative program for game production in Japan.. Computers & Graphics. , v. 61 , p. 1-10 , 2016. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0097849316300863. Acesso em: 27 maio 2019.
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+3.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
 
 ### Times Ágeis
 
@@ -125,13 +124,9 @@ BLOM, M.. Is Scrum and XP suitable for CSE Development?. Procedia Computer Scien
 
 Livros:
 
-1.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
-2.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
-3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
-
-Artigo:
-
-BRADE, J. et al.. Being there again – presence in real and virtual environments and its relation to usability and user experience using a mobile navigation task.. International Journal of Human-Computer Studies. , v. 101 , p. 76-87 , 2017. ; Disponível em: https://doi.org/10.1016/j.ijhcs.2017.01.004. Acesso em: 27 maio 2019.
+1.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+2.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+3.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
 
 ### Projeto de Software
 
@@ -142,23 +137,24 @@ Livros:
 
 ## Bibliografia complementar
 
+1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
+3.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+4.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
+5.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
+
 ### Programação
 
-
-
-1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
-2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
-3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
+1.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
+2.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
+3.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
+4.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
 
 ### Times ágeis:
-
-
 
 1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
 
 ### Design
-
-
 
 1.	WEINSCHENK, Susan., 100 Things Every Designer Needs to Know About People., New Riders, 2011
 2.	NORMAN, Donald., The Design of Everyday Things, Basic Books, 2002
@@ -171,10 +167,6 @@ Livros:
 1.	GAMMA, E; HELM, R; JOHNSON, R; VLISSIDES, J., Padrões de Projeto: Soluções Reutilizáveis de Software Orientado a Objetos, Bookman, 2000
 2.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 3.	GEORGE, N; Build a Website with Django 3, GNW Independent Publishing, 2019
- 
-
-
-
 
 \newpage
 
@@ -498,12 +490,12 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Complementar
 
-1.  CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o
-    Produto Certo. 1.a ed. Caroli, 2018.
-1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software
-    Craftsmanship 2008. 1.a ed. Pearson.
+
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018.
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.  PRESSMAN, R., Engenharia de Software: Uma abordagem profissional.,
     8ª ed., AMGH, 2016
+
 
 
 # Programação Eficaz
@@ -711,14 +703,14 @@ Ao final da disciplina o estudante será capaz de:
 3. Heurísticas.
 4. Implementação de agentes autônomos utilizando estratégias de busca.
 5. Programação por restrições (CSP).
-6. Ambientes competitivos e teoria de jogos. 
-7. Algoritmo Min-Max e função de utilidade. 
+6. Ambientes competitivos e teoria de jogos.
+7. Algoritmo Min-Max e função de utilidade.
 8. Implementação de agentes autônomos para ambientes competitivos.
 9. Aprendizagem por Reforço.
-10. Implementação de agentes autônomos usando aprendizagem por reforço. 
-11. Algoritmo Q-Learning. 
+10. Implementação de agentes autônomos usando aprendizagem por reforço.
+11. Algoritmo Q-Learning.
 12. Implementações de agentes autônomos usando o projeto Gym.
-13. Implementação de um agente robótico. 
+13. Implementação de um agente robótico.
 
 
 
