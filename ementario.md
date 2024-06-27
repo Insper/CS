@@ -1297,29 +1297,17 @@ Ao final do curso, o aluno deve ser capaz de:
 
 ## Bibliografia Básica
 
-Livros:
-
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
 3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
 
-Artigos:
-
-Anna Stepanova, Alexis Weaver, Joanna Lahey, Gerianne Alexander, and Tracy Hammond. 2021. Hiring CS Graduates: What We Learned from Employers. ACM Trans. Comput. Educ. 22, 1, Article 5 (March 2022), 20 pages. Disponível em: https://doi.org/10.1145/3474623 Acesso em: 18 dezembro 2023.
-
 ## Bibliografia Complementar
-
-Livros:
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
 2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
 4.	ERICKSON, J. Algorithms, 1st ed. 2019.
 5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
-
-Artigos:
-
-Mahnaz Behroozi, Shivani Shirolkar, Titus Barik, and Chris Parnin. 2020. Does stress impact technical interview performance? In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 481–492. Disponível em: https://doi.org/10.1145/3368089.3409712 Acesso em: 18 dezembro 2023.
 
 \newpage
 
@@ -1403,24 +1391,24 @@ O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial
 Ao final da disciplina o estudante será capaz de:
 
 1. compreender competências empreendedoras e técnicas essenciais para a criação e gerenciamento bem-sucedido de startups;
-1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos); 
-1. entender como criar e manter uma equipe; 
+1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos);
+1. entender como criar e manter uma equipe;
 1. implementar uma solução usando conceitos de Inteligência Artificial, e;
 1. desenvolver e manter uma solução de software usando boas práticas de desenvolvimento de software.
 
 ## Conteúdo Programático
 
-1. O que é empreendedorismo. 
-1. Impactos atuais e futuros da Inteligência Artificial. 
+1. O que é empreendedorismo.
+1. Impactos atuais e futuros da Inteligência Artificial.
 1. Desenvolvimento de startups na visão dos investidores.
 1. Contato com investidores e com corporações com desemandas de IA.
-1. Desenvolvimento de Lean canvas. 
+1. Desenvolvimento de Lean canvas.
 1. Apresentação do *pitch Problem-Solution-Opportunity*.
-1. Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD). 
+1. Processos empregados no desenvolvimento de soluções de *machine learning* (por exemplo, CRISP-DM, KDD).
 1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
 1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
 1. Implementação e utilização de testes automatizados.
-1. Padronização de código e documentação. 
+1. Padronização de código e documentação.
 1. Desenvolvimento da solução em sprints.
 1. Apresentação da solução.
 
@@ -1430,7 +1418,7 @@ Ao final da disciplina o estudante será capaz de:
 1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons.
 1. S. Amershi et al., "Software Engineering for Machine Learning: A Case Study," 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Montreal, QC, Canada, 2019, pp. 291-300, doi: 10.1109/ICSE-SEIP.2019.00042.
 1. Andrei Paleyes, Raoul-Gabriel Urma, and Neil D. Lawrence. 2022. Challenges in Deploying Machine Learning: A Survey of Case Studies. ACM Comput. Surv. 55, 6, Article 114 (June 2023), 29 pages. https://doi.org/10.1145/3533378.
-1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455. 
+1. UNESCO’s Ethics of AI Recommendation, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000380455.
 
 ## Bibliografia Complementar
 
@@ -1441,7 +1429,7 @@ Ao final da disciplina o estudante será capaz de:
 1. [Andrew Ng. Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
 1. Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - "Artificial Intelligence". Published online at OurWorldInData.org. Retrieved from: [https://ourworldindata.org/artificial-intelligence](https://ourworldindata.org/artificial-intelligence)
 1. Mozilla Foundation. Trustworthy Artificial Intelligence, available at https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/ 
-1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082. 
+1. UNESCO’s Recommendation on the Ethics of Artificial Intelligence: key facts, 2023, available at: https://unesdoc.unesco.org/ark:/48223/pf0000385082.
 1. United Nations System. Principles for the Ethical Use of Artificial Intelligence in the
 United Nations System, 2022, available at https://unsceb.org/principles-ethical-use-artificial-intelligence-united-nations-system
 
