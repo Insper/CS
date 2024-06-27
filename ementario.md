@@ -11,7 +11,6 @@
 
 \newpage
 
-
 # Vida de Desenvolvedor de Software - Developer Life
 
 Carga Horária:  320
@@ -98,17 +97,17 @@ Projeto de Sistemas Complexos: Introdução a arquiteturas de serviços web; Int
 
 ## Bibliografia básica
 
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+
 ### Programação
 
 Livros:
 
-1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
-2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
-3.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
-
-Artigo:
-
-MIKAMI, K. et al.. Effectiveness of Game Jam-based iterative program for game production in Japan.. Computers & Graphics. , v. 61 , p. 1-10 , 2016. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0097849316300863. Acesso em: 27 maio 2019.
+1.	DOWNEY, A. B., Pense em Python, Editora Novatec, 2016
+2.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+3.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
 
 ### Times Ágeis
 
@@ -125,13 +124,9 @@ BLOM, M.. Is Scrum and XP suitable for CSE Development?. Procedia Computer Scien
 
 Livros:
 
-1.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
-2.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
-3.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
-
-Artigo:
-
-BRADE, J. et al.. Being there again – presence in real and virtual environments and its relation to usability and user experience using a mobile navigation task.. International Journal of Human-Computer Studies. , v. 101 , p. 76-87 , 2017. ; Disponível em: https://doi.org/10.1016/j.ijhcs.2017.01.004. Acesso em: 27 maio 2019.
+1.	BARNUM, Carol., Usability Testing Essentials, Morgan Kaufmann, 2010
+2.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+3.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
 
 ### Projeto de Software
 
@@ -142,23 +137,24 @@ Livros:
 
 ## Bibliografia complementar
 
+1.	BROOKSHEAR, J. G., Ciência da Computação: Uma Visão Abrangente, Bookman., 2005
+2.	MENEZES, N. N. C., Introdução à Programação Com Python - Algoritmos e Lógica de Programação Para Iniciantes, 1ª ed., Novatec, 2010
+3.	KNAPP, J. et al., Sprint: O método usado no google para testar e aplicar novas ideias em apenas cinco dias., Intrínseca, 2017
+4.	RIES, Eric; SZLAK, Carlos (Trad.). , A startup enxuta, Leya, 2012
+5.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
+
 ### Programação
 
-
-
-1.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
-2.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
-3.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
+1.	PIVA JR, D.; Engelbrecht, A. M.; Nakamiti, G. S.; Bianchi, F, Algoritmos e Programação de Computadores, Elsevier-Campus , 2012
+2.	SOUZA, Marco A.F.; GOMES, Marcelo M.; SOARES; Marcio V.; CONCILIO, Ricardo., Algoritmos e Lógica de Programação, 2ª ed., CENGAGE Learning, 2011
+3.	BARRY, Paul., Use a Cabeça! - Python, Alta Books, 2013
+4.	FEIJÓ, B.; Clua, E.; Silva, F. S. C., Introdução à Ciência da Computação com Jogos: Aprendendo a programar com entretenimento, Campus, 2009
 
 ### Times ágeis:
-
-
 
 1.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
 
 ### Design
-
-
 
 1.	WEINSCHENK, Susan., 100 Things Every Designer Needs to Know About People., New Riders, 2011
 2.	NORMAN, Donald., The Design of Everyday Things, Basic Books, 2002
@@ -171,10 +167,6 @@ Livros:
 1.	GAMMA, E; HELM, R; JOHNSON, R; VLISSIDES, J., Padrões de Projeto: Soluções Reutilizáveis de Software Orientado a Objetos, Bookman, 2000
 2.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
 3.	GEORGE, N; Build a Website with Django 3, GNW Independent Publishing, 2019
- 
-
-
-
 
 \newpage
 
@@ -354,27 +346,15 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
 1.	MONTGOMERY, D. , Estatística Aplicada e Probabilidade para Engenheiros , 6ª ed., LTC, 2016
 1. WILKE, C. O., Fundamentals of Data Visualization, 1ª ed. O'Reilly, 2019. Disponível em <https://clauswilke.com/dataviz>. Acesso em jul 20222.
 
-Artigos:
-
-BOLLEN, J. et al.. Twitter mood predicts the stock market.. Journal of Computational Science. , v. 2 , n. 1 , p. 1-8 , 2011. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S187775031100007X. Acesso em: 27 maio 2022
-
 Bibliografia Complementar
 
-Livros:
-
+1.	MAGALHÃES, M. N.; DE LIMA, A. C. P. , Noções de Probabilidade e Estatística, 7ª ed., Edusp, 2013
 1.	DOWNEY, A.B., Think Stats, 1ª ed., O'Reilly Media, 20111
 1 .	DEKKING, F. M.; KRAAIKAMP, C. , A Modern Introduction to Probability and Statistics: Understanding Why and How., Springer, 2010
-1.	MCKINNEY, W., Python for data analysis: data wrangling with Pandas Numpy and IPython., O'Reilly Media, 2012
-1.	GRUS, J., Data Science from Scratch, 1ª ed., O’Reilly Media, 2015
 1.	KAFLIC, C. N., Storytelling com Dados, 2ª. ed, Alta Books, 2019
-
-Artigos:
-
-NASSIRTOUSSI et al.. Text mining for market prediction: A systematic review.. Expert Systems with Applications. , v. 41 , n. 16 , p. 7653-7670 , 2014. ; Disponível em: http://www.sciencedirect.com/science/article/pii/S0957417414003455. Acesso em: 27 maio 2019.
 
 
 
@@ -498,12 +478,12 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Complementar
 
-1.  CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o
-    Produto Certo. 1.a ed. Caroli, 2018.
-1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software
-    Craftsmanship 2008. 1.a ed. Pearson.
+
+1.	CAROLI, P. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. 1.a ed. Caroli, 2018.
+1.  MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
 1.  PRESSMAN, R., Engenharia de Software: Uma abordagem profissional.,
     8ª ed., AMGH, 2016
+
 
 
 # Programação Eficaz
@@ -711,44 +691,26 @@ Ao final da disciplina o estudante será capaz de:
 3. Heurísticas.
 4. Implementação de agentes autônomos utilizando estratégias de busca.
 5. Programação por restrições (CSP).
-6. Ambientes competitivos e teoria de jogos. 
-7. Algoritmo Min-Max e função de utilidade. 
+6. Ambientes competitivos e teoria de jogos.
+7. Algoritmo Min-Max e função de utilidade.
 8. Implementação de agentes autônomos para ambientes competitivos.
 9. Aprendizagem por Reforço.
-10. Implementação de agentes autônomos usando aprendizagem por reforço. 
-11. Algoritmo Q-Learning. 
+10. Implementação de agentes autônomos usando aprendizagem por reforço.
+11. Algoritmo Q-Learning.
 12. Implementações de agentes autônomos usando o projeto Gym.
-13. Implementação de um agente robótico. 
-
+13. Implementação de um agente robótico.
 
 
 ## Bibliografia Básica
 
-Livros:
-
 1. NORVIG, P.; RUSSELL, S., Inteligência Artificial, 3ª ed., Campus Elsevier, 2013
-2. SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
-3. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
-
-Artigos:
-
-1. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. Disponível em [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
-
 
 ## Bibliografia Complementar
 
-Livros:
-
-1. SUTTON, R.; BARTO, A. Reinforcement Learning: An Introduction. Second Edition. The MIT Press, 2018.
-2. GÉRON, A. Hands-on Machine Learning with Scikit-learn, Keras, and TensorFlow, 2ª ed., O'Reilly, 2021.
-3. SCHERZ, P.; MONK, S., Practical electronics for inventors, 3ª ed., Mc Graw Hill, 2013
-4. ASTRÖM, K.; MURRAY, R., Feedback Systems: An Introduction for Scientists and Engineers, Princeton University Press, 2008
-5. THRUN, S.; BURGARD, W; FOX, D., Probabilistic Robotics., MIT Press, 2006
-
-Artigos:
-
+1. O'KANE, J., A Gentle introduction to ROS, CreateSpace Publishing, 2013
+1. SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D., Introduction to Autonomous Mobile Robots., 2ª ed., MIT Press, 2011
+1. SILVER, D.; SINGH S.; PRECUP D.; SUTTON R. Reward is enough. Artificial Intelligence. Vol 299, 2021. Disponível em [https://doi.org/10.1016/j.artint.2021.103535](https://doi.org/10.1016/j.artint.2021.103535).
 1. SILVER, D.; HUBERT T.; SCHRITTWIESER, J.; ANTONOGLOU, I.; LAI, M.; GUEZ, A. [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://doi.org/10.1126/science.aar6404). Science 362, 1140-1144 (2018).
-
 
 
 \newpage
@@ -793,19 +755,15 @@ Conteúdo Programático:
 
 Bibliografia Básica
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
-2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013.
-3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
-4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013. https://codingthematrix.com/
 
 Bibliografia Complementar
 
-1.	AXLER, S.; Linear Algebra Done Right. 3rd. ed. Springer. 2014.
-2.	CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 5a. edição. São Paulo: McGraw-Hill, 2008.
-3.	STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
-4.	ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
-5.	STEINBRUCH, A.; WINTERLE, P.  Álgebra Linear. Ed. Pearson.
-6.	COHEN, X. M.; Linear Algebra: Theory, Intuition and Code. Sicxpress, 2021.
-7.  SHANNON, C.E.; A mathematical theory of communication. The Bell system technical journal, 27(3), pp.379-423, 1948.
+3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
+4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
+3. STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+4. ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
+
 
 
 \newpage
@@ -1305,29 +1263,17 @@ Ao final do curso, o aluno deve ser capaz de:
 
 ## Bibliografia Básica
 
-Livros:
-
 1.	CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L; STEIN, C. Algoritmos: Teoria e Prática, 3a ed. Elsevier, 2012.
 2.	MCDOWELL, G. L., Cracking the coding interview, 6ª ed., CareerCup, 2015.
 3.	HALIM, S.; HALIM, F., Competitive programming: the new lower bound of programming contests, 3ª ed., 2013.
 
-Artigos:
-
-Anna Stepanova, Alexis Weaver, Joanna Lahey, Gerianne Alexander, and Tracy Hammond. 2021. Hiring CS Graduates: What We Learned from Employers. ACM Trans. Comput. Educ. 22, 1, Article 5 (March 2022), 20 pages. Disponível em: https://doi.org/10.1145/3474623 Acesso em: 18 dezembro 2023.
-
 ## Bibliografia Complementar
-
-Livros:
 
 1.	BENTLEY, J. Programming Pearls, 2nd ed. Addison-Wesley, 1999.
 2.	SKIENA, S. S. The Algorithm Design Manual, 2nd ed. Springer, 2008.
 3.	SEDGEWICK, R.; WAYNE, K. Algorithms, 4th ed. Addison-Wesley, 2011.
 4.	ERICKSON, J. Algorithms, 1st ed. 2019.
 5.	AZIZ, A. et al., Elements of programming interviews in Python: the insiders' guide, Createspace, 2016. 
-
-Artigos:
-
-Mahnaz Behroozi, Shivani Shirolkar, Titus Barik, and Chris Parnin. 2020. Does stress impact technical interview performance? In Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2020). Association for Computing Machinery, New York, NY, USA, 481–492. Disponível em: https://doi.org/10.1145/3368089.3409712 Acesso em: 18 dezembro 2023.
 
 \newpage
 
@@ -1411,23 +1357,28 @@ O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial
 Ao final da disciplina o estudante será capaz de:
 
 1. compreender competências empreendedoras e técnicas essenciais para a criação e gerenciamento bem-sucedido de startups;
-1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos); 
-1. entender como criar e manter uma equipe; 
+1. compreender as nuances do empreendedorismo (como criar um negócio, defender uma ideia, captar recursos);
+1. entender como criar e manter uma equipe;
 1. implementar uma solução usando conceitos de Inteligência Artificial, e;
 1. desenvolver e manter uma solução de software usando boas práticas de desenvolvimento de software.
 
 ## Conteúdo Programático
+
 
 1. O que é empreendedorismo. 
 1. Impactos atuais e futuros da Inteligência Artificial (IA). 
 1. Exemplos de soluções que fazem uso de IA.
 1. Desenvolvimento de startups na visão dos investidores.
 1. Contato com investidores e com corporações com desemandas de IA.
-1. Desenvolvimento de Lean canvas. 
+1. Desenvolvimento de Lean canvas.
 1. Apresentação do *pitch Problem-Solution-Opportunity*.
 1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
 1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
 1. Padronização de código e documentação. 
+1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
+1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
+1. Implementação e utilização de testes automatizados.
+1. Padronização de código e documentação.
 1. Desenvolvimento da solução em sprints.
 1. Apresentação da solução.
 
