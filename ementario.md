@@ -1065,7 +1065,7 @@ Livros:
 
 1.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
 2.	HOPCROFT, J.E.; ULLMAN, J.D.; MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 1. ed. Rio de Janeiro: Elsevier, 2002. 560 p.
-3.	AYALA-RINCÓN, M.; CAVALCANTI DE MOURA, F.L. Fundamentos da Programação Lógica e Funcional: o Princípio de Resolução e a Teoria de Reescrita. 1. ed. Editora UnB, 2014. 232 p.
+3.	MICHAELSON, G. An Introduction to Functional Programming Through Lambda Calculus. Dover Publications, 2011. 336p.
 4.	VIEIRA DE MELO, A.C.; CORRÊA DA SILVA, F.S. Princípios de Linguagens de Programação. 1. ed. Blucher, 2003. 304 p.
 5.	CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Elsevier, 2012. 926 p.
 
