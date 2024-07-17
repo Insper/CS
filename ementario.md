@@ -573,40 +573,14 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Básica
 
-WAZLAWICK, Raul. Análise e Design Orientados a Objetos para Sistemas de Informação. Rio de Janeiro: GEN LTC, 2014. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595153653. Acesso em: 31 de May 2022.
-
-COHN, Mike. Desenvolvimento de Software com Scrum. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577808199. Acesso em: 31 de May 2022.
-
-DELAMARO, Marcio. Introdução ao Teste de Software. Rio de Janeiro: GEN LTC, 2016. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595155732. Acesso em: 31 de May 2022.
-
-COHN, Mike. Desenvolvimento de Software com Scrum. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577808199. Acesso em: 31 de May 2022.
-
-HIRAMA, Kechi. Engenharia de Software. Rio de Janeiro: GEN LTC, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595155404. Acesso em: 31 de May 2022.
-
-URMA, Raoul-Gabriel; WARBURTON, Richard. Desenvolvimento Real De Software. Rio de Janeiro: Editora Alta Books, 2021. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555202021. Acesso em: 31 de May 2022.
-
-BES, Pablo; ALMEIDA, Claudinei de; SCHOLZ, Robinson Henrique et al. Soft Skills. Porto Alegre: SAGAH, 2021. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556901244. Acesso em: 31 de May 2022.
-
-MACIEL, Francisco Marcelo de Barros. Python e Django. Rio de Janeiro: Editora Alta Books, 2020. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555200973. Acesso em: 31 de May 2022.
-
-
-
-
-1.	MARTIN, ROBERT C. Clean Code: A Handbook of Agile Software Craftsmanship 2008. 1.a ed. Pearson.
-2.	THOMAS, D. HUNT, A. The Pragmatic Programmer: Your Journey to Mastery. 2.a ed. Addison-Wesley Professional, 2019.
-3.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020.
-4. BROWN, TIM. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2019.
+1.	VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição.  Belo Horizonte, 2020. Disponível em https://engsoftmoderna.info/, acesso em jul 2024.
+2. BROWN, TIM. Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2019.
 
 ## Bibliografia Complementar
 
-4.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
-5.	SOMMERVILLE, I. , Engenharia de Software , 9ª ed., Pearson, 2011
-6.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
-7.	PRESSMAN, R., Engenharia de Software: Uma abordagem profissional., 8ª ed., AMGH, 2016
-8.	K.BECK., Test Driven Development: By example, Addison-Wesley Professional, 2002
-9.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
-
-
+1.	MCCONNEL, S. Code Complete: A Practical Handbook of Software Construction. 2.a ed. Microsoft Press, 2004.
+2.	SCHWABER, K. , Agile Project Management with Scrum, Microsoft Press, 2004
+3.	BECK, K.; ANDRES, C. , Extreme programming explained: Embrace change, Addison-Wesley,, 2005
 
 
 
@@ -883,8 +857,53 @@ Artigos:
 GARRIGA, M. et al.. RESTful composition at a glance: A survey. Journal of Network and Computer Applications. , v. 60 , n. 32 , p. 32-53 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S1084804515002933. Acesso em: 27 maio 2019.
 
 
+\newpage
+
+# Sprint Session 03 - Inovação Social 
 
 
+## Ementa
+
+Computação como elemento de transformação e inovação na sociedade; Vieses inconscientes; Conhecimento do contexto sócio-econonômico dos usuários; Design Thinking para inovação social; Análise de requisitos;  Modelagem de sistemas; Desenvolvimento, testes e deploy de solução de software; Exercício de práticas ágeis; Técnicas de feedback dentro de times; Reflexões sobre qualidade de trabalho em equipe.
+
+
+## Objetivos de Aprendizagem
+
+Ao final da disciplina o aluno será capaz de:
+
+1.  Projetar e prototipar software que atende às necessidades dos usuários por meio do uso de conhecimentos prévios de Ciência da Computação, Engenharia de Software e Ciência de Dados para resolver um problema do mundo real. 
+1. Empregar métodos ágeis para gestão das tarefas do grupo e feedback sobre andamento das atividades e sua gestão e organização.
+1. Criar soluções a problemas reais que respondam às necessidades dos usuários seguindo boas práticas de design e experiência do usuário.
+1.  Utilizar técnicas de feedback, refletir sobre propósito, processos, papéis do grupo, comprometimento e aprendizados. 
+
+
+
+## Conteúdo Programático:
+
+1. Inovação Social
+2. Vieses Inconscientes
+3. Processo de Design Thinking
+4. Entendimento de dores dos usuários a partir de imersões e entrevistas
+5. Análise de requisitos e priorização 
+6. Desenvolvimento de solução considerando requisitos do contexto
+7. Planejamento da arquitetura do software
+8. Gerenciamento do desenvolvimento usando métodos ágeis
+9. Deploy da Solução
+
+
+## Bibliografia básica
+
+1. SMITH, A. et al. IDDS Design Workbook. Massachusetts Institute Of Technology, 2014. Disponível em: https://www.idin.org/sites/default/files/resources/IDDS%20Design%20Workbook.pdf. Acesso em: 01 jul. 2024.
+1. VALENTE, M.T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. Publicação Independente. 1.a edição. Belo Horizonte, 2020.
+1. GAMA, KIEV et al. Hackathons as Inclusive Spaces for Prototyping Software in Open Social Innovation with NGOs. 2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS), Melbourne, Australia, 2023, pp. 58-70, doi: 10.1109/ICSE-SEIS58686.2023.00012.
+
+
+## Bibliografia complementar
+
+1. GABRYSIAK, G. et al. 2013. Cooperating with a non-governmental organization to teach gathering and implementation of requirements. In 2013 26th International Conference on Software Engineering
+Education and Training (CSEE&T). IEEE, 11–20. Disponível em https://hpi.de/fileadmin/user_upload/fachgebiete/giese/pdf/cseet13main-id96.pdf, acesso em jul 2024.
+1. IRANY, LILLY. Hackathons and the Making of Entrepreneurial Citizenship. Science, Technology, & Human Values, Vol. 40, No. 5 (September 2015), pp. 799-824. Disponível em https://www.jstor.org/stable/43671232, acesso em jul 2024 
+1. INSTITUTO LOCOMOTIVA. 2021. Educação, cultura, periferia e racismo: um levantamento 778 do Instituto Locomotiva para a Central Única das Favelas. Technical Report. Disponível em https://ilocomotiva.com.br/estudos/educacao-cultura-periferia-e-racismo/
 
 \newpage
 
@@ -1550,37 +1569,41 @@ Carga Horária:  80
 
 ## Ementa:
 
-
+Princípios fundamentais da cibersegurança; Ameaças cibernéticas atuais; Técnicas de proteção de dados; Políticas de segurança; Conformidade regulatória; Disciplina de segurança contínua; Análise de riscos cibernéticos; Implicações da revolução digital na área de segurança para organizações e sociedade. 
 
 ## Objetivos
 
-Ao final da disciplina o estudante será capaz de:
-
-
+Ao final da disciplina o aluno será capaz de:
+1.	Implementar as melhores práticas de segurança em suas organizações, garantindo a integridade, confidencialidade e disponibilidade de informações críticas.
+2.	identificar, avaliar e mitigar os riscos cibernéticos, utilizando métodos e ferramentas apropriados.
+3.	Identificar possíveis ameaças, vulnerabilidades e riscos associados a ativos de informação
+4.	Identificar potenciais conflitos entre aplicações de informática e considerações legais ou éticas, e exercitar o julgamento profissional para resolver esses tipos de conflitos
 
 ## Conteúdo Programático:
 
-1. topico
-2. topico
+1.	Introdução: Princípios básicos da Segurança da Informação, Vulnerabilidades, Ameaças, Riscos, Ataques e Segurança.
+2.	Análise de tráfego de rede: Protocolos TCP/IP, ferramentas de análise e protocolos de segurança.
+3.	Compreensão dos conceitos de criptografia computacional.
+4.	Discussão sobre responsabilidade, privacidade e boas práticas éticas na área da Tecnologia da Informação e Comunicação.
+5.	Exploração dos aspectos éticos relacionados à segurança da informação e à cibersegurança.
+6.	Estudo dos serviços de segurança, como firewalls, Zero Trust, IDS/IPS, VPNs, e sua implementação em redes.
+7.	Compreensão dos conceitos de engenharia social e sua relevância na segurança da informação.
+8.	Coleta de informações e reconhecimento do ambiente tecnológico.
+9.	Ameaças cibernéticas e exploração de aplicações web.
 
 
 ## Bibliografia básica
-Basta, Alfred, et al. *Segurança de Computadores e teste de invasão* Tradução da 2ª edição norte-americana. Disponível em: Minha Biblioteca, Cengage Learning Brasil, 2014.
-Agra, Andressa, D. e Fabrício F. M. Barboza. *Segurança de sistemas da informação*. Disponível em: Minha Biblioteca, Grupo A, 2019.
-Stallings, William. *Cryptography and network security: principles and practice*. 7. ed. New York: Pearson, 2017.
+1.	Basta, Alfred, et al. Segurança de Computadores e teste de invasão - Tradução da 2ª edição norte-americana. Disponível em: Minha Biblioteca, Cengage Learning Brasil, 2014.
+2.	Stallings, William. Cryptography and network security: principles and practice / William Stallings. 7th ed. New York, NY : Pearson, c2017.
+3.	Abdullayeva, F. Cyber resilience and cyber security issues of intelligent cloud computing systems. Results Control Optim. 2023, 12, 100268.
 
-Artigo:
-
-Abdullayeva, F. Cyber resilience and cyber security issues of intelligent cloud computing systems. *Results Control Optim.* 2023, 12, 100268.
 
 ## Bibliografia complementar
-Pinheiro, Patricia P. *Segurança Digital: Proteção de Dados nas Empresas*. Disponível em: Minha Biblioteca, Grupo GEN, 2020.
-Comer, Douglas E. Redes de computadores e internet. Disponível em: Minha Biblioteca, (6th edição). Grupo A, 2016.
-Agra, Andressa, D. e Fabrício F. M. Barboza. Segurança de sistemas da informação. Disponível em: Minha Biblioteca, Grupo A, 2019.
-Branquinho, Thiago, e Marcelo Branquinho. Segurança Cibernética Industrial. Disponível em: Minha Biblioteca, Editora Alta Books, 2021.
-Moraes, Alexandre Fernandes D. Cibersegurança e a nova geração de Firewalls. Disponível em: Minha Biblioteca, Editora Saraiva, 2021.
-
-
+1.	Pinheiro, Patricia P. Segurança Digital. Proteção de Dados nas Empresas. Disponível em: Minha Biblioteca, Grupo GEN, 2020.
+2.	Comer, Douglas E. Redes de computadores e internet. Disponível em: Minha Biblioteca, (6th edição). Grupo A, 2016.
+3.	Agra, Andressa, D. e Fabrício F. M. Barboza. Segurança de sistemas da informação. Disponível em: Minha Biblioteca, Grupo A, 2019.
+4.	Branquinho, Thiago, e Marcelo Branquinho. Segurança Cibernética Industrial. Disponível em: Minha Biblioteca, Editora Alta Books, 2021.
+5.	Moraes, Alexandre Fernandes D. Cibersegurança e a nova geração de Firewalls. Disponível em: Minha Biblioteca, Editora Saraiva, 2021.
 
 
 # Projeto Final de Computação
