@@ -3,7 +3,7 @@
 
 **Ementário**
 
-**Versão 4.1**
+**Versão 4.7**
 
 \newpage
 
