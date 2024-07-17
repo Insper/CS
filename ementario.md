@@ -1562,7 +1562,7 @@ Livros:
 \newpage
 
 
-# Cybersegurança
+# Cybersegurança para Ciência da Computação
 
 Carga Horária:  80
 *Semestre  : 6º período*
