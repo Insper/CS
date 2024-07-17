@@ -871,10 +871,10 @@ Computação como elemento de transformação e inovação na sociedade; Vieses 
 
 Ao final da disciplina o aluno será capaz de:
 
-*  Projetar e prototipar software que atende às necessidades dos usuários por meio do uso de conhecimentos prévios de Ciência da Computação, Engenharia de Software e Ciência de Dados para resolver um problema do mundo real. 
-* Empregar métodos ágeis para gestão das tarefas do grupo e feedback sobre andamento das atividades e sua gestão e organização. 
-* Criar soluções a problemas reais que respondam às necessidades dos usuários seguindo boas práticas de design e experiência do usuário.
-* Utilizar técnicas de feedback, refletir sobre propósito, processos, papéis do grupo, comprometimento e aprendizados. 
+1.  Projetar e prototipar software que atende às necessidades dos usuários por meio do uso de conhecimentos prévios de Ciência da Computação, Engenharia de Software e Ciência de Dados para resolver um problema do mundo real. 
+1. Empregar métodos ágeis para gestão das tarefas do grupo e feedback sobre andamento das atividades e sua gestão e organização.
+1. Criar soluções a problemas reais que respondam às necessidades dos usuários seguindo boas práticas de design e experiência do usuário.
+1.  Utilizar técnicas de feedback, refletir sobre propósito, processos, papéis do grupo, comprometimento e aprendizados. 
 
 
 
