@@ -623,18 +623,14 @@ Ao final do curso, o aluno deve ser capaz de...
 
 ## Bibliografia Básica
 
-1.	SEDGEWICK, R.; WAYNE, K., 2011. Algorithms. Addison-Wesley Professional; 4th edition, 2011
-2.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
-3.	SEDGEWICK, R.; WAYNE, K., Introduction to programming in Java: an interdisciplinary approach. Addison-Wesley Professional; 2017
+
+1.	CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
 
 ## Bibliografia Complementar
 
-1.	VAUGHAN, L. Impractical Python: Playful Programming Activities to Make You Smarter. Ed. No Starch Press. 1.a ed. 2018.
-2.	WIRTH, N., Algoritmos e Estruturas de Dados. Rio de Janeiro: Editora LTC, 1989.
-3.	ZIVIANI, Nívio. Projeto de Algoritmos: com implementação em Pascal e C. 3ª ed. revista e ampliada. São Paulo: Cengage Learning, 2011
-4.	WENGROW, J. A Common-Sense Guide to Data Structures and Algorithms. 2e. Ed. The Pragmatic Programmers. 2020.
-5.	GUTTAG, J. V. Introduction to Computation and Programming Using Python: With Applications to Understanding Data. Ed. MIT Press. 2. ed. 2016.
 
+1.Aviad Baron and Dror G. Feitelson. 2024. Why Is Recursion Hard to Comprehend? An Experiment with Experienced Programmers in Python. In Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2024). Association for Computing Machinery, New York, NY, USA, 115–121. https://doi.org/10.1145/3649217.3653636
+2.	ZIVIANI, Nivio. Projeto de Algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2011
 
 \newpage
 
@@ -952,30 +948,17 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	FEOFILOFF, P, Algoritmos em Linguagem C., Elsevier, 2008
-2.	CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
-3.	SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
-
-Artigos:
-
-RUBIO, M. A. et al.. Closing the gender gap in an introductory programming course.. Computers & Education. , v. 82 , p. 409-420 , 2015. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0360131514002802. Acesso em: 27 maio 2019.
+1.	CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
+2.	FEOFILOFF, P, Algoritmos em Linguagem C., Elsevier, 2008
 
 ## Bibliografia Complementar
 
 Livros:
 
-1.	SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013
-2.	BENTLEY, J., Programming Pearls, Addison-Wesley, 1999
-3.	AHO, A. V.; ULLMAN, J. D. , Foundations of Computer Science: C Edition. W. H. , Freeman, 1994
-4.	R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
-
-Artigos:
-
-CODISH, M. et al.. Sorting nine inputs requires twenty-five comparisons.. Journal of Computer and System Sciences. , v. 82 , n. 3 , p. 551-563 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0022000015001397. Acesso em: 27 maio 2019.
-
-
-
-
+1.	SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
+2.	R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
+3. KOCHAN, S., Programming in C, 4th edition, Pearson 2015
+4. J. Paul Gibson. 2012. Teaching graph algorithms to children of all ages. In Proceedings of the 17th ACM annual conference on Innovation and technology in computer science education (ITiCSE '12). Association for Computing Machinery, New York, NY, USA, 34–39. https://doi.org/10.1145/2325296.2325308
 
 
 \newpage
