@@ -625,6 +625,7 @@ Ao final do curso, o aluno deve ser capaz de...
 
 
 1.	CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
+2. SKIENA, S., The Algorithm Design Manual. 2nd edition, Springer, 2010
 
 ## Bibliografia Complementar
 
