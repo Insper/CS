@@ -1207,12 +1207,17 @@ Ao final da disciplina o aluno será capaz de:
 
 ## Bibliografia Básica
 
+Livros:
 
 HOHPE, GREGOR. The Software Architect’s Elevator.
 
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
 NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022.
+
+Artigos:
+
+S. Silva, A. Tuyishime, T. Santilli, P. Pelliccione and L. Iovino, "Quality Metrics in Software Architecture," 2023 IEEE 20th International Conference on Software Architecture (ICSA), L'Aquila, Italy, 2023, pp. 58-69
 
 
 ## Bibliografia Complementar
@@ -1227,7 +1232,9 @@ KRUCHTEN, PHILIPPE; IPEK OZKAYA. Managing Technical Debt: Reducing Friction in S
 
 RICHARDSON, CHRIS. Microservices Patterns: With Examples in Java. 1.a ed. 2018.
 
+Artigos:
 
+L. Leite, C. Rocha, F. Kon., D. Milojicic & P. Meirelles, "A survey of DevOps concepts and challenges". ACM Computing Surveys (CSUR), 52(6), 1-35. 2019
 
 
 
