@@ -2,11 +2,9 @@
 
 Repositório para documentos colaborativos do BCC.
 
-## Modificando o conteúdo
-
 ## Versão completa do ementário em DOCX
 
-Para gerar o arquivo DOCX com o ementário completo, execute o comando:
+Para gerar o arquivo DOCX com o ementário completo (também é gerado um arquivo Markdown com todo o conteúdo), execute o comando:
 
 ```
 make docx
