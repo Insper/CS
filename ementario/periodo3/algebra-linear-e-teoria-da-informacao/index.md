@@ -1,3 +1,10 @@
+---
+titulo: Álgebra Linear e Teoria da Informação
+cargaHoraria: 98
+periodo: 3
+ordem: 3
+---
+
 ## Ementa
 
 Vetores e espaços vetoriais; geometria em espaços vetoriais; sistemas de equações lineares; transformações lineares; decomposição em valores singulares; Informação e incerteza, entropia de Shannon, informação mútua; codificação e compressão, códigos corretores de erro.
@@ -13,7 +20,6 @@ Ao final do curso, o aluno deve ser capaz de
 5. Aplicar a decomposição em valores singulares
 6. Explicar as noções de informação e codificação
 7. Aplicar métodos de compressão e de correção de erro
-
 
 Conteúdo Programático:
 
@@ -32,6 +38,7 @@ Conteúdo Programático:
 13. Códigos corretores de erro
 
 Bibliografia Básica
+
 1. HEFFERON, J.; Linear Algebra. 4.a ed. https://hefferon.net/linearalgebra
 2. KLEIN, P. N.; Coding the Matrix: Linear Algebra Through Applications to Computer Science. Newtonian Press. 2013. https://codingthematrix.com/
 
@@ -39,5 +46,5 @@ Bibliografia Complementar
 
 3. STRANG. G.; Álgebra Linear e Suas Aplicações. Ed. Cengage Learning. São Paulo: 2019
 4. MACKAY, D. J.; Information Theory, Inference and Learning Algorithms.
-3. STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
-4. ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.
+5. STRANG. G.; Linear Algebra and Learning from Data. Wellesley-Cambridge Press. Wellesley: 2019.
+6. ANTON, H.; RORRES, C. Álgebra Linear com Aplicações. Ed. Bookman. São Paulo: 2012.

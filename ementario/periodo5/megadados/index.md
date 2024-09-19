@@ -1,3 +1,10 @@
+---
+titulo: Megadados
+cargaHoraria: 80
+periodo: 5
+ordem: 2
+---
+
 ## Ementa
 
 Banco de Dados; Modelagem e projeto de banco de dados; Modelo e diagrama Entidade-Relacionamento; Modelo e álgebra relacional; Transformação de modelos lógicos em tabelas; Dependências Funcionais. Normalização; Banco de dados relacional e orientado a objetos: Mapeamento objeto-relacional; Linguagens de consulta e manipulação de dados; Sistemas de Gerência de Banco de Dados: arquitetura, gerenciamento de transações, controle de concorrência, recuperação; Processamento e otimização de consultas; Bancos de Dados Distribuídos; Domínios de aplicação de megadados (big data) e desafios de sua aplicação; Integração, tratamento e consolidação de dados; Bancos de dados não relacionais; Armazenamento e processamento de dados distribuído - algoritmos e plataformas; Recuperação de informações.
@@ -33,9 +40,9 @@ Ao final da disciplina o estudante será capaz de:
 
 Livros:
 
-1.	SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S, Sistema de Banco de Dados, 6ª ed., Campus Elsevier, 2012
-2.	OLIVEIRA, C. H. P, SQL: Curso Prático, Novatec, 2002
-3.	RIBEIRO-NETO, B.; BAEZA-YATES, R. , Recuperação de Informação - Conceitos e Tecnologia Das Máquinas de Busca, 2ª ed., Bookman, 2013
+1. SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S, Sistema de Banco de Dados, 6ª ed., Campus Elsevier, 2012
+2. OLIVEIRA, C. H. P, SQL: Curso Prático, Novatec, 2002
+3. RIBEIRO-NETO, B.; BAEZA-YATES, R. , Recuperação de Informação - Conceitos e Tecnologia Das Máquinas de Busca, 2ª ed., Bookman, 2013
 
 Artigos:
 
@@ -45,11 +52,11 @@ ASSUNÇÃO, M. D. et al.. Big data computing and clouds: trends and future direc
 
 Livros:
 
-1.	MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. , Introduction to Information Retrieval, 1ª ed., Cambridge University Press, 2008
-2.	 GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. , Database Systems: The Complete Book, 2ª ed., Pearson, 2008
-3.	WAMPLER, D.; PAYNE, A., Programming Scala: Scalability = Functional Programming + Objects, 2ª ed., O'Reilly Media, 2014
-4.	McCALLUM, ETHAN, Bad Data Handbook: Cleaning Up The Data So You Can Get Back To Work, 1ª ed., O'Reilly Media, 2012
-5.	 RYZA, S.; LASERSON, U.; OWEN, S.; WILLS, J. , Advanced Analytics with Spark, O'Reilly Media, 2015
+1.  MANNING, C. D.; RAGHAVAN, P.; SCHÜTZE, H. , Introduction to Information Retrieval, 1ª ed., Cambridge University Press, 2008
+2.  GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. , Database Systems: The Complete Book, 2ª ed., Pearson, 2008
+3.  WAMPLER, D.; PAYNE, A., Programming Scala: Scalability = Functional Programming + Objects, 2ª ed., O'Reilly Media, 2014
+4.  McCALLUM, ETHAN, Bad Data Handbook: Cleaning Up The Data So You Can Get Back To Work, 1ª ed., O'Reilly Media, 2012
+5.  RYZA, S.; LASERSON, U.; OWEN, S.; WILLS, J. , Advanced Analytics with Spark, O'Reilly Media, 2015
 
 Artigos:
 

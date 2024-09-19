@@ -1,3 +1,10 @@
+---
+titulo: Algoritmos e Estruturas de Dados
+cargaHoraria: 72
+periodo: 4
+ordem: 1
+---
+
 ## Ementa
 
 Recursão; comportamento assintótico e estratégias para projeto de algoritmos; memoização, divisão e conquista, backtracking; algoritmos de pesquisa; algoritmos de ordenação clássicos: bubble sort, selection sort, insertion sort, merge sort, heap sort, quick sort; algoritmos de ordenação lineares: counting sort e radix sort; heaps e filas de prioridade; estruturas de dados; inserção e remoção; listas encadeadas; implementação de pilhas e filas; tabelas hash; tipos abstratos de dados; conjuntos; mapas; caracterização de árvores: árvores binárias, árvores de busca binária, árvores de busca binária balanceadas; grafos; busca em largura e profundidade; algoritmo de Bellman-Ford-Moore; algoritmo de Dijkstra.
@@ -38,9 +45,9 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-1.	FEOFILOFF, P, Algoritmos em Linguagem C., Elsevier, 2008
-2.	CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
-3.	SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
+1. FEOFILOFF, P, Algoritmos em Linguagem C., Elsevier, 2008
+2. CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
+3. SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
 
 Artigos:
 
@@ -50,10 +57,10 @@ RUBIO, M. A. et al.. Closing the gender gap in an introductory programming cours
 
 Livros:
 
-1.	SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013
-2.	BENTLEY, J., Programming Pearls, Addison-Wesley, 1999
-3.	AHO, A. V.; ULLMAN, J. D. , Foundations of Computer Science: C Edition. W. H. , Freeman, 1994
-4.	R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
+1. SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013
+2. BENTLEY, J., Programming Pearls, Addison-Wesley, 1999
+3. AHO, A. V.; ULLMAN, J. D. , Foundations of Computer Science: C Edition. W. H. , Freeman, 1994
+4. R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
 
 Artigos:
 

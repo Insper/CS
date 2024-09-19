@@ -1,3 +1,10 @@
+---
+titulo: Sistemas Hardware-Software
+cargaHoraria: 72
+periodo: 4
+ordem: 4
+---
+
 ## Ementa
 
 Representação de informação; Representação de programas em código de máquina; Arquitetura de processadores e otimização de programas; Hierarquia de memória; Exceções e controle de fluxo em sistemas operacionais; Memória virtual; Gerenciamento de E/S; Programação concorrente.
@@ -27,9 +34,9 @@ Ao final da disciplina o estudante será capaz de:
 
 Livros:
 
-1.	BRYANT, R. E.; O’HALLARON, D. R. , Computer systems: a programmer's perspective, 3ª ed., Pearson, 2015
-2.	D. A. PATTERSON; J. L. HENNESSY, Organização e Projetos de Computadores: a Interface Hardware/Software., 4ª ed., Elsevier, 2014
-3.	KOCHAN, S. G., Programming in C, 4ª ed., Addison-Wesley, 2014
+1. BRYANT, R. E.; O’HALLARON, D. R. , Computer systems: a programmer's perspective, 3ª ed., Pearson, 2015
+2. D. A. PATTERSON; J. L. HENNESSY, Organização e Projetos de Computadores: a Interface Hardware/Software., 4ª ed., Elsevier, 2014
+3. KOCHAN, S. G., Programming in C, 4ª ed., Addison-Wesley, 2014
 
 Artigos:
 
@@ -39,11 +46,11 @@ KIVITY, A.; COSTA, D.; ENBERG, P.. Optimizing the Operating System for Virtual M
 
 Livros:
 
-1.	KERNIGHAN, B. W.; RITCHIE, D. M., The C programming language, 2ª ed., Prentice-Hall, 1988
-2.	J. H. SALTZER, M. F. KAASHOEK., Principles of Computer System Design: An Introduction, Morgan Kaufmann, 2009
-3.	STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Pearson, 2013
-4.	SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G., Operating System Concepts, 9ª ed., Wiley, 2013
-5.	TANENBAUM, A. S., Sistemas Operacionais Modernos, 4ª ed., Pearson, 2016
+1. KERNIGHAN, B. W.; RITCHIE, D. M., The C programming language, 2ª ed., Prentice-Hall, 1988
+2. J. H. SALTZER, M. F. KAASHOEK., Principles of Computer System Design: An Introduction, Morgan Kaufmann, 2009
+3. STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Pearson, 2013
+4. SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G., Operating System Concepts, 9ª ed., Wiley, 2013
+5. TANENBAUM, A. S., Sistemas Operacionais Modernos, 4ª ed., Pearson, 2016
 
 Artigos:
 

@@ -1,3 +1,10 @@
+---
+titulo: Arquitetura de Objetos e Times Ágeis
+cargaHoraria: 72
+periodo: 3
+ordem: 5
+---
+
 ## Ementa
 
 Redes de computadores; Internet; Roteamento e interconexão de redes; Introdução ao TCP/IP; Protocolo HTTP; Arquiteturas de serviços web; Serviços REST e serviços SOAP; Representação de dados estruturados para tráfego e armazenamento de informações: JSON; Tecnologias de front-end Web; Planejamento e prototipação de front-ends web; Interfaces adaptáveis a múltiplos dispositivos clientes; Introdução a bancos de dados relacionais e SQL; Desenvolvimento de sistemas back-end (servidor); Usabilidade na web (Heurísticas de Usabilidade?! https://www.nngroup.com/articles/ten-usability-heuristics/).
@@ -10,9 +17,8 @@ Ao final da disciplina o aluno será capaz de:
 2. Implementar banco de dados que atenda aos requisitos de persistência de dados de uma aplicação web e trabalhar com requisições HTTP enviando requests e tratando responses;
 3. Utilizar as linguagens, frameworks e arquiteturas apresentadas na disciplina a fim de implementar sistemas web;
 4. Utilizar as linguagens, frameworks e arquiteturas para resolver problemas reais dos usuários por meio da web;
-6. Planejar e acompanhar o projeto conforme princípios e valores ágeis, usando um framework diferente dos utilizados em outras disciplinas (Kanban, Scrum, squad, etc)
-7. Consultar a documentação de bibliotecas/frameworks web e usá-las no desenvolvimento de um sistema web
-
+5. Planejar e acompanhar o projeto conforme princípios e valores ágeis, usando um framework diferente dos utilizados em outras disciplinas (Kanban, Scrum, squad, etc)
+6. Consultar a documentação de bibliotecas/frameworks web e usá-las no desenvolvimento de um sistema web
 
 ## Conteúdo Programático:
 
@@ -35,9 +41,9 @@ Arquitetura da Web: IP, TCP/IP e roteamento
 
 Livros:
 
-1.	DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
-2.	 COMER, D. E., Redes de Computadores e Internet, 6ª ed., Bookman, 2016
-3.	LUCKOW, D. H.; DE MELO, A. A., Programação Java para a Web, 2ª ed., Novatec, 2015
+1.  DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
+2.  COMER, D. E., Redes de Computadores e Internet, 6ª ed., Bookman, 2016
+3.  LUCKOW, D. H.; DE MELO, A. A., Programação Java para a Web, 2ª ed., Novatec, 2015
 
 Artigos:
 
@@ -47,11 +53,11 @@ GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the maki
 
 Livros:
 
-1.	SILVEIRA, P.et al., Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java., 1ª ed., Campus Elsevier, 2012
-2.	 DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016
-3.	DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
-4.	CANTELON, M. , Node. js in Action, 2ª ed., Manning, 2017
-5.	MCGOVERN, J., Java web services architecture, Morgan Kaufmann, 2003
+1.  SILVEIRA, P.et al., Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java., 1ª ed., Campus Elsevier, 2012
+2.  DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016
+3.  DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
+4.  CANTELON, M. , Node. js in Action, 2ª ed., Manning, 2017
+5.  MCGOVERN, J., Java web services architecture, Morgan Kaufmann, 2003
 
 Artigos:
 

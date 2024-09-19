@@ -1,3 +1,10 @@
+---
+titulo: Ética, Computação e Sociedade
+cargaHoraria: 72
+periodo: 1
+ordem: 2
+---
+
 ## Ementa
 
 Neutralidade da produção científica e tecnológica. Determinismo tecnológico. Construção social da ciência e da tecnologia. Metodologia científica. Ciência, tecnologia e sociedade. Ética, ciência e tecnologia: direitos humanos e acesso à tecnologia. Tecnologia e sociedade no Brasil em suas dimensões étnicas e raciais: inclusão ou exclusão? Relação entre avanço científico-tecnológico e desenvolvimento econômico.

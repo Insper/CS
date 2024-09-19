@@ -1,3 +1,10 @@
+---
+titulo: Sprint Session 4
+cargaHoraria: 44
+periodo: 4
+ordem: 6
+---
+
 ## Ementa
 
 Elaboração de soluções que fazem uso de técnicas de aprendizagem de máquina supervisionada ou não supervisionada; Desenvolvimento de soluções de aprendizagem de máquina para problemas de classificação, regressão, clusterização, ou recomendação; Prototipação de software; Comunicação oral e escrita.

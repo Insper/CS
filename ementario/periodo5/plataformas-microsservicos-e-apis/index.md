@@ -1,3 +1,10 @@
+---
+titulo: Plataformas, Microsserviços e APIs
+cargaHoraria: 80
+periodo: 5
+ordem: 5
+---
+
 ## Ementa
 
 Conceitos de Aplicações em Monólíto e Microserviços; Conteinerização; Padrões de Construção de Softwares (Design Patterns); Monitoramento e Rastreabilidade de Aplicações; Segurança (autenticação e autorização); Mensageria; Dados Distribuídos; Orquestração de computação em nuvem, sistemas de gerenciamento, monitoramento e configuração de recursos virtualizados; Integração entre Desenvolvimento e Operação; Utilização de Plataformas em Nuvem para Produção (Cloud Computing); Aspectos de automação de gestão de sistema em cloud – DevOps. Serverless computing – FaaS - function as a service; Utilização da Plataforma como Produto para Negócios: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS). Gestão de níveis de serviço (SLA - Service Level Agreement). Custos de projeto e de operação de sistemas em cloud.

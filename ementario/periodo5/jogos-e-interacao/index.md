@@ -1,3 +1,10 @@
+---
+titulo: Jogos e Interação
+cargaHoraria: 80
+periodo: 5
+ordem: 4
+---
+
 ## Ementa
 
 Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Level Design; Técnicas ágeis de design de jogos; Design de interação para jogos; Tecnologias para desenvolvimento de jogos (GPU, bibliotecas e frameworks gráficos, engines); Produção de artefatos para jogos (cenários, modelos, animações, áudio, vídeo, scripts); Técnicas ágeis para prototipação de jogos; Integração de artefatos de jogos; Game Testing; Realismo físico em jogos; Processo de publishing e marketing de jogos; Negócios e empreendedorismo em jogos.
@@ -31,8 +38,8 @@ Tipologia de jogos; Processos de produção de jogos digitais; Game Design; Leve
 
 Livros:
 
-1.	GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley, 2015
-2.  Rogers, S.; Level Up! The Guide to Great Video Game Design, 2nd Edition, Wiley, 2014
+1. GIBSON, J., Introduction to Game Design, Prototyping and Development, Addison-Wesley, 2015
+2. Rogers, S.; Level Up! The Guide to Great Video Game Design, 2nd Edition, Wiley, 2014
 
 ## Bibliografia Complementar
 

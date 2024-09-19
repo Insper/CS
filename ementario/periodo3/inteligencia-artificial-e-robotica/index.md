@@ -1,3 +1,10 @@
+---
+titulo: Inteligência Artificial e Robótica
+cargaHoraria: 72
+periodo: 3
+ordem: 2
+---
+
 ## Ementa
 
 Introdução à Inteligência Artificial; Definições de Agente Autônomo; Arquitetura computacional de agentes e o laço percepção – planejamento e ação; Caracterização de Ambientes; Resolução de problemas usando espaço de busca; Estratégias de busca; Algoritmos de busca cega e informados; Conceito de Heurística; Teoria de Jogos e Ambientes Competitivos; Aprendizagem por Reforço; Percepção, sensores e incerteza; Noções de visão computacional e reconhecimento de padrões; Aplicação comercial de robôs e usos emergentes, soluções de plataformas robóticas e de software para robôs (R.O.S, OpenCV).
@@ -11,7 +18,6 @@ Ao final da disciplina o estudante será capaz de:
 3. Criar soluções para alguns problemas clássicos desta área.
 4. Especificar, desenvolver e testar projetos que façam uso de Agentes Autônomos para resolver problemas complexos.
 5. Planejar e executar um trabalho em equipe, fornecendo e assimilando devolutivas.
-
 
 ## Conteúdo Programático
 
@@ -28,7 +34,6 @@ Ao final da disciplina o estudante será capaz de:
 11. Algoritmo Q-Learning.
 12. Implementações de agentes autônomos usando o projeto Gym.
 13. Implementação de um agente robótico.
-
 
 ## Bibliografia Básica
 

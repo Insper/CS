@@ -1,6 +1,13 @@
+---
+titulo: AI Startup
+cargaHoraria: 80
+periodo: 5
+ordem: 3
+---
+
 ## Ementa
 
-O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial; Desenvolvimento de startups na visão dos investidores; Desenvolvimento de Lean canvas; Apresentação do *pitch Problem-Solution-Opportunity*, e; Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento (i.e., desenvolvimento de código de forma colaborativa, testes automatizados, padronização de código e documentação).
+O que é empreendedorismo; Impactos atuais e futuros da Inteligência Artificial; Desenvolvimento de startups na visão dos investidores; Desenvolvimento de Lean canvas; Apresentação do _pitch Problem-Solution-Opportunity_, e; Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento (i.e., desenvolvimento de código de forma colaborativa, testes automatizados, padronização de código e documentação).
 
 ## Objetivos
 
@@ -14,17 +21,16 @@ Ao final da disciplina o estudante será capaz de:
 
 ## Conteúdo Programático
 
-
-1. O que é empreendedorismo. 
-1. Impactos atuais e futuros da Inteligência Artificial (IA). 
+1. O que é empreendedorismo.
+1. Impactos atuais e futuros da Inteligência Artificial (IA).
 1. Exemplos de soluções que fazem uso de IA.
 1. Desenvolvimento de startups na visão dos investidores.
 1. Contato com investidores e com corporações com desemandas de IA.
 1. Desenvolvimento de Lean canvas.
-1. Apresentação do *pitch Problem-Solution-Opportunity*.
+1. Apresentação do _pitch Problem-Solution-Opportunity_.
 1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
 1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
-1. Padronização de código e documentação. 
+1. Padronização de código e documentação.
 1. Desenvolvimento de um MVP (Produto Viável Mínimo) utilizando boas práticas de desenvolvimento.
 1. Definição de infra-estrutura e processos para desenvolvimento de código de forma colaborativa.
 1. Implementação e utilização de testes automatizados.
@@ -35,7 +41,7 @@ Ao final da disciplina o estudante será capaz de:
 ## Bibliografia Básica
 
 1. Cooper, B. and Vlaskovits, P., 2010. The entrepreneur's guide to customer development: a" cheat sheet" to The Four Steps to the Epiphany (pp. 90-110). Newport Beach, CA: Cooper-Vlaskovits.
-1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons. 
+1. Blank, S. and Dorf, B., 2020. The startup owner's manual: The step-by-step guide for building a great company. John Wiley & Sons.
 
 ## Bibliografia Complementar
 

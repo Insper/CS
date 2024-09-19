@@ -1,3 +1,10 @@
+---
+titulo: Sprint Session 2
+cargaHoraria: 44
+periodo: 2
+ordem: 6
+---
+
 ## Ementa:
 
 Elaboração da arquitetura de um software de armazenamento ou processamento de dados; Desenvolvimento de solução; Prototipação de software; Comunicação oral e escrita.

@@ -1,3 +1,10 @@
+---
+titulo: Linguagens e Paradigmas
+cargaHoraria: 72
+periodo: 4
+ordem: 3
+---
+
 ## Ementa
 
 Fundamentos de linguagens formais. Linguagens regulares. Linguagens livres de contexto. Linguagens sensíveis ao contexto. Linguagens recursivamente enumeráveis. Paradigma imperativo. Paradigma estruturado. Paradigma funcional. Compiladores e interpretadores. Computabilidade. Intratabilidade.
@@ -28,17 +35,16 @@ Ao final da disciplina o aluno será capaz de:
 
 Livros:
 
-
-1.	RAMOS, M.V.M.; JOSÉ NETO, J.; VEGA, Í.S. Linguagens Formais: Teorias e Conceitos. 1. ed. Blucher, 2023. 608 p.
-2.	AHO, A.V.; LAM, M.S.; SETHI, R.; ULLMAN, J.D. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo: Pearson, 2008. 634 p.
-3.	SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
+1. RAMOS, M.V.M.; JOSÉ NETO, J.; VEGA, Í.S. Linguagens Formais: Teorias e Conceitos. 1. ed. Blucher, 2023. 608 p.
+2. AHO, A.V.; LAM, M.S.; SETHI, R.; ULLMAN, J.D. Compiladores: princípios, técnicas e ferramentas. 2. ed. São Paulo: Pearson, 2008. 634 p.
+3. SIPSER, M., Introdução à Teoria da Computação, 2ª ed., Thomson Pioneira, 2007. [Biblioteca Digital]
 
 ## Bibliografia Complementar
 
 Livros:
 
-1.	SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
-2.	HOPCROFT, J.E.; ULLMAN, J.D.; MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 1. ed. Rio de Janeiro: Elsevier, 2002. 560 p.
-3.	MICHAELSON, G. An Introduction to Functional Programming Through Lambda Calculus. Dover Publications, 2011. 336p.
-4.	VIEIRA DE MELO, A.C.; CORRÊA DA SILVA, F.S. Princípios de Linguagens de Programação. 1. ed. Blucher, 2003. 304 p.
-5.	CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Elsevier, 2012. 926 p.
+1. SEBESTA, R.W. Concepts of Programming Languages. 11ª ed., Pearson, 2016. [Biblioteca Digital]
+2. HOPCROFT, J.E.; ULLMAN, J.D.; MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 1. ed. Rio de Janeiro: Elsevier, 2002. 560 p.
+3. MICHAELSON, G. An Introduction to Functional Programming Through Lambda Calculus. Dover Publications, 2011. 336p.
+4. VIEIRA DE MELO, A.C.; CORRÊA DA SILVA, F.S. Princípios de Linguagens de Programação. 1. ed. Blucher, 2003. 304 p.
+5. CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L.; STEIN, C. Algoritmos: teoria e prática. 3. ed. Rio de Janeiro: Elsevier, 2012. 926 p.

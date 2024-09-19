@@ -1,3 +1,10 @@
+---
+titulo: Sprint Session 3 - Inovação Social
+cargaHoraria: 44
+periodo: 3
+ordem: 6
+---
+
 ## Ementa
 
 Computação como elemento de transformação e inovação na sociedade; Vieses inconscientes; Conhecimento do contexto sócio-econonômico dos usuários; Design Thinking para inovação social; Análise de requisitos; Modelagem de sistemas; Desenvolvimento, testes e deploy de solução de software; Exercício de práticas ágeis; Técnicas de feedback dentro de times; Reflexões sobre qualidade de trabalho em equipe.
