@@ -1,4 +1,5 @@
 ---
+toc-title: "Ementário"
 pagebreak:
   break-on:
     plaintext-command: true
