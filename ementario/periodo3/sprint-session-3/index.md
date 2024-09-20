@@ -1,5 +1,6 @@
 ---
-titulo: Sprint Session 3 - Inovação Social
+titulo: Sprint Session 3
+subtitulo: Inovação Social
 cargaHoraria: 44
 periodo: 3
 ordem: 6

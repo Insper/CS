@@ -1,5 +1,6 @@
 ---
-titulo: Projeto Final - Capstone
+titulo: Projeto Final
+subtitulo: Capstone
 cargaHoraria: 360
 periodo: 6
 ordem: 2

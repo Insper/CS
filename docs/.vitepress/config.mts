@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 import { carregaEmentasPorPeriodo } from '../utils'
 
 const ementasPorPeriodo = carregaEmentasPorPeriodo()
@@ -8,6 +9,19 @@ export default defineConfig({
   title: "Insper Computer Science",
   description: "Ementário do bacharelado em Ciência da Computação do Insper",
   lang: 'pt-BR',
+
+  vite: {
+    plugins: [pagefindPlugin({
+      locales: {
+        root: {
+          btnPlaceholder: 'Buscar',
+          placeholder: 'Buscar ementa...',
+          emptyText: 'Sem resultados',
+          heading: 'Total: {{searchResult}} resultados.',
+        }
+      }
+    })],
+  },
 
   transformPageData: (pageData) => {
     if (!pageData.params) {

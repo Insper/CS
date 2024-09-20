@@ -1,5 +1,6 @@
 ---
-titulo: Vida de Desenvolvedor de Software - Developer Life
+titulo: Vida de Desenvolvedor de Software
+subtitulo: Developer Life
 cargaHoraria: 320
 periodo: 1
 ordem: 1
