@@ -61,8 +61,9 @@ if __name__ == '__main__':
     for periodo in sorted(ementas):
         periodo_ementas = ementas[periodo]
         for disciplina in periodo_ementas:
+            if disciplina.get('subtitulo'):
+                disciplina['titulo'] = f"{disciplina['titulo']} - {disciplina['subtitulo']}"
             conteudo += template.format(**disciplina) + '\n\n\\newpage\n\n'
     OUT.mkdir(exist_ok=True)
     with open(OUT / 'ementario.md', 'w') as outfile:
         outfile.write(conteudo)
-
