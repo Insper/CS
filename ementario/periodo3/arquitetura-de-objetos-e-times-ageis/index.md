@@ -3,6 +3,9 @@ titulo: Arquitetura de Objetos e Times Ágeis
 cargaHoraria: 72
 periodo: 3
 ordem: 5
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa

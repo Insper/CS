@@ -3,6 +3,9 @@ titulo: Projeto de Software e Gestão Ágil
 cargaHoraria: 72
 periodo: 4
 ordem: 5
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa

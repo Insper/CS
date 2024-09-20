@@ -3,6 +3,9 @@ titulo: Megadados
 cargaHoraria: 80
 periodo: 5
 ordem: 2
+docs:
+  slots: 1
+  trilha: "ia"
 ---
 
 ## Ementa

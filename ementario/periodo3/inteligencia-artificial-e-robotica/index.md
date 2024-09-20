@@ -3,6 +3,9 @@ titulo: Inteligência Artificial e Robótica
 cargaHoraria: 72
 periodo: 3
 ordem: 2
+docs:
+  slots: 1
+  trilha: "ia"
 ---
 
 ## Ementa

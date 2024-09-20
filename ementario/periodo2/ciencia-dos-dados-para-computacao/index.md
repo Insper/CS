@@ -3,6 +3,9 @@ titulo: Ciência dos Dados para Computação
 cargaHoraria: 72
 periodo: 2
 ordem: 2
+docs:
+  slots: 1
+  trilha: "ia"
 ---
 
 ## Ementa

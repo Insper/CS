@@ -3,6 +3,9 @@ titulo: Análise de Algoritmos e Entrevistas Técnicas
 cargaHoraria: 80
 periodo: 5
 ordem: 1
+docs:
+  slots: 1
+  trilha: "programacao"
 ---
 
 ## Ementa

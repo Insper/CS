@@ -3,6 +3,9 @@ titulo: Vida de Desenvolvedor de Software - Developer Life
 cargaHoraria: 320
 periodo: 1
 ordem: 1
+docs:
+  slots: 4
+  trilha: "projeto"
 ---
 
 ## Ementa

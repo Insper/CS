@@ -3,6 +3,9 @@ titulo: Plataformas, Microsserviços e APIs
 cargaHoraria: 80
 periodo: 5
 ordem: 5
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa

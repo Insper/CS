@@ -3,6 +3,9 @@ titulo: Cybersegurança para Ciência da Computação
 cargaHoraria: 80
 periodo: 6
 ordem: 1
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa:

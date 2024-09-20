@@ -3,6 +3,9 @@ titulo: AI Startup
 cargaHoraria: 80
 periodo: 5
 ordem: 3
+docs:
+  slots: 1
+  trilha: "ia"
 ---
 
 ## Ementa

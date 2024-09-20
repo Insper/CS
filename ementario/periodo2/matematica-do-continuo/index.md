@@ -3,6 +3,9 @@ titulo: Matemática do Contínuo
 cargaHoraria: 98
 periodo: 2
 ordem: 3
+docs:
+  slots: 1
+  trilha: "matematica"
 ---
 
 ## Ementa

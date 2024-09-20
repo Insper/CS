@@ -3,6 +3,9 @@ titulo: Técnicas de Programação
 cargaHoraria: 72
 periodo: 3
 ordem: 1
+docs:
+  slots: 1
+  trilha: "programacao"
 ---
 
 ## Ementa

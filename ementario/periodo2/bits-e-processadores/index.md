@@ -3,6 +3,9 @@ titulo: Bits e Processadores
 cargaHoraria: 72
 periodo: 2
 ordem: 1
+docs:
+  slots: 1
+  trilha: "programacao"
 ---
 
 ## Ementa

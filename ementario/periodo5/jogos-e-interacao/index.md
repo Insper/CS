@@ -3,6 +3,9 @@ titulo: Jogos e Interação
 cargaHoraria: 80
 periodo: 5
 ordem: 4
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa

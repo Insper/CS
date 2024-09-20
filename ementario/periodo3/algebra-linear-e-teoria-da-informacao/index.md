@@ -3,6 +3,9 @@ titulo: Álgebra Linear e Teoria da Informação
 cargaHoraria: 98
 periodo: 3
 ordem: 3
+docs:
+  slots: 1
+  trilha: "matematica"
 ---
 
 ## Ementa

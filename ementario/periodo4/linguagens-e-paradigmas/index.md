@@ -3,6 +3,9 @@ titulo: Linguagens e Paradigmas
 cargaHoraria: 72
 periodo: 4
 ordem: 3
+docs:
+  slots: 1
+  trilha: "matematica"
 ---
 
 ## Ementa

@@ -3,6 +3,9 @@ titulo: Sistemas Hardware-Software
 cargaHoraria: 72
 periodo: 4
 ordem: 4
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa

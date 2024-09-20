@@ -3,6 +3,9 @@ titulo: Algoritmos e Estruturas de Dados
 cargaHoraria: 72
 periodo: 4
 ordem: 1
+docs:
+  slots: 1
+  trilha: "programacao"
 ---
 
 ## Ementa

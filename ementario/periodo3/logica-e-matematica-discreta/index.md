@@ -3,6 +3,9 @@ titulo: Lógica e Matemática Discreta
 cargaHoraria: 72
 periodo: 3
 ordem: 4
+docs:
+  slots: 1
+  trilha: "matematica"
 ---
 
 ## Ementa

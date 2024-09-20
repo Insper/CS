@@ -3,6 +3,9 @@ titulo: Sprint Session 3 - Inovação Social
 cargaHoraria: 44
 periodo: 3
 ordem: 6
+docs:
+  slots: 1
+  trilha: "sprint"
 ---
 
 ## Ementa

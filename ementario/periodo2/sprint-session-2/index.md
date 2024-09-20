@@ -3,6 +3,9 @@ titulo: Sprint Session 2
 cargaHoraria: 44
 periodo: 2
 ordem: 6
+docs:
+  slots: 1
+  trilha: "sprint"
 ---
 
 ## Ementa:

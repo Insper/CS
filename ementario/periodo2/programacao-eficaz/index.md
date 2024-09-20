@@ -3,6 +3,9 @@ titulo: Programação Eficaz
 cargaHoraria: 72
 periodo: 2
 ordem: 5
+docs:
+  slots: 1
+  trilha: "projeto"
 ---
 
 ## Ementa:

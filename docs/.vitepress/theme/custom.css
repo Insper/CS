@@ -1,0 +1,190 @@
+:root {
+  --clr-etica: #B9F6CA;
+  --clr-matematica: #B388FF;
+  --clr-programacao: #F980AB;
+  --clr-projeto: #FEE57F;
+  --clr-ia: #80D8FF;
+  --clr-eletiva: #EEEEEE;
+  --clr-profissional: #c3cbda;
+  --clr-sprint: #F5F5F5;
+}
+
+.grade {
+  margin-block: 1em;
+  display: grid;
+  grid-template-columns: auto repeat(5, 1fr);
+  max-width: 100%;
+  font-size: 0.8em;
+}
+
+.grade--header, .grade--cell {
+  display: grid;
+  place-items: center;
+  padding: 0.8em 1em;
+  border: 1px solid #fafafa;
+  line-height: 1.1;
+}
+
+.grade--header {
+  background-color: #424242;
+  color: white;
+  min-width: max-content;
+}
+
+.grade .grade--cell {
+  min-height: 4em;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.grade a.grade--cell:hover {
+  color: #0d0d0d;
+  filter: brightness(110%);
+}
+
+.grade--span--1 {
+  grid-column: span 1;
+}
+
+.grade--span--2 {
+  grid-column: span 2;
+}
+
+.grade--span--3 {
+  grid-column: span 3;
+}
+
+.grade--span--4 {
+  grid-column: span 4;
+}
+
+.grade--span--5 {
+  grid-column: span 5;
+}
+
+.grade--span--6 {
+  grid-column: span 6;
+}
+
+@media (max-width: 768px) {
+  .grade {
+    font-size: xx-small;
+    grid-template-columns: 3em repeat(5, calc((100% - 3em) / 5));
+  }
+
+  .grade--header {
+    display: grid;
+    place-content: center;
+    writing-mode: vertical-lr;
+  }
+
+  .grade--cell {
+    line-break: anywhere;
+  }
+}
+
+.trilha--etica {
+  background-color: var(--clr-etica);
+}
+
+.trilha--matematica {
+  background-color: var(--clr-matematica);
+}
+
+.trilha--programacao {
+  background-color: var(--clr-programacao);
+}
+
+.trilha--projeto {
+  background-color: var(--clr-projeto);
+}
+
+.trilha--ia {
+  background-color: var(--clr-ia);
+}
+
+.trilha--eletiva {
+  background-color: var(--clr-eletiva);
+}
+
+.trilha--profissional {
+  background-color: var(--clr-profissional);
+}
+
+.trilha--sprint {
+  display: grid;
+  place-items: center;
+  min-height: 2em;
+  color: black;
+  text-align: center;
+  background-color: var(--clr-sprint);
+}
+
+.legenda {
+  text-align: center;
+}
+
+.legenda--titulo {
+  font-weight: bold;
+}
+
+.legenda--conteudo {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5em;
+  font-size: small;
+  text-align: start;
+}
+
+@media (max-width: 768px) {
+  .legenda--conteudo {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.legenda--item {
+  display: flex;
+  align-items: center;
+}
+
+.legenda--item::before {
+  content: "";
+  display: block;
+  min-width: 1.5em;
+  min-height: 2.5em;
+  margin-right: 1em;
+  background-color: #0d0d0d;
+}
+
+.legenda--etica::before {
+  background-color: var(--clr-etica);
+}
+
+.legenda--matematica::before {
+  background-color: var(--clr-matematica);
+}
+
+.legenda--programacao::before {
+  background-color: var(--clr-programacao);
+}
+
+.legenda--projeto::before {
+  background-color: var(--clr-projeto);
+}
+
+.legenda--ia::before {
+  background-color: var(--clr-ia);
+}
+
+.legenda--eletiva::before {
+  background-color: var(--clr-eletiva);
+}
+
+.legenda--profissional::before {
+  background-color: var(--clr-profissional);
+}
+
+.legenda--sprint::before {
+  background-color: var(--clr-sprint);
+}

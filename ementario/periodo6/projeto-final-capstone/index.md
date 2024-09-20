@@ -3,6 +3,9 @@ titulo: Projeto Final - Capstone
 cargaHoraria: 360
 periodo: 6
 ordem: 2
+docs:
+  slots: 4
+  trilha: "profissional"
 ---
 
 ## Ementa

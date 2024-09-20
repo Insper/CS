@@ -3,6 +3,9 @@ titulo: Machine Learning Para Computação
 cargaHoraria: 72
 periodo: 4
 ordem: 2
+docs:
+  slots: 1
+  trilha: "ia"
 ---
 
 ## Ementa

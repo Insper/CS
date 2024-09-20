@@ -3,6 +3,9 @@ titulo: Ética, Computação e Sociedade
 cargaHoraria: 72
 periodo: 1
 ordem: 2
+docs:
+  slots: 1
+  trilha: "etica"
 ---
 
 ## Ementa
