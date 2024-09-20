@@ -11,5 +11,3 @@ hero:
       text: Ver ementário
       link: /ementario
 ---
-
-# ASD

@@ -7,8 +7,10 @@ export default {
 
     let grade = '<div class="grade">\n';
     Object.entries(ementasPorPeriodo).forEach(([periodo, ementas]) => {
+      const ementasSemSprint = ementas.filter(e => e.docs.trilha !== "sprint");
+
       grade += `  <div class="grade--header">${periodo}º SEM</div>\n`;
-      grade += ementas.sort((e1, e2) => getIndiceTrilha(e1) - getIndiceTrilha(e2)).map(({ titulo, subtitulo, docs }) => {
+      grade += ementasSemSprint.sort((e1, e2) => getIndiceTrilha(e1) - getIndiceTrilha(e2)).map(({ titulo, subtitulo, docs }) => {
         const { slots, trilha, slug } = docs;
         let classList = ["grade--cell", `trilha--${trilha}`];
         if (slots > 1) {
@@ -21,7 +23,19 @@ export default {
       }
       ).join("\n");
       if (parseInt(periodo) <= 4) {
-        grade += `  <div class="grade--span--6 trilha--sprint">Sessão Sprint ${periodo}</div>\n`;
+        const sprint = ementas.find(e => e.docs.trilha === "sprint");
+        if (sprint) {
+          const { titulo, subtitulo, docs } = sprint;
+          const className = "grade--span--6 trilha--sprint";
+          const tituloCompleto = `${titulo}${subtitulo ? " - " + subtitulo : ""}`;
+          if (docs.slug) {
+            grade += `  <a href="./periodo${periodo}/${docs.slug}" class="${className}">${tituloCompleto}</a>\n`;
+          } else {
+            grade += `  <span class="${className}">${tituloCompleto}</span>\n`;
+          }
+        } else {
+          grade += `  <div class="grade--span--6 trilha--sprint">Sessão Sprint ${periodo}</div>\n`;
+        }
       }
     });
     grade += "</div>\n";
