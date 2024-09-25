@@ -9,4 +9,4 @@ pagebreak:
 
 **Ementário**
 
-**Versão 4.7**
+**Versão 5.3**
