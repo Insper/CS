@@ -38,7 +38,6 @@ Livros:
 
 1. FACELI, K.; LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F, Inteligência artificial: Uma abordagem de aprendizado de máquina, LTC, 2011
 2. GÉRON, A., Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition, O'Reilly Media, 2022, ISBN: 9781098125974
-3. GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A., Deep Learning, MIT Press, 2016, http://www.deeplearningbook.org
 
 Artigos:
 
@@ -51,5 +50,7 @@ Livros:
 2. DUDA, R. O., HART, P. E., STORK, D. G, Pattern Classification, 2ª ed., Wiley, 2001
 3. MURPHY, K. P., , Machine Learning: A Probabilistic Perspective, MIT Press, 2012
 4. BURKOV, A., The Hundred-Page Machine Learning Book, 2019, ISBN-10 1777005477
+5. GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A., Deep Learning, MIT Press, 2016, http://www.deeplearningbook.org
+
    Artigos:
    SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v. 550 , p. 354-359 , 2017. ; Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
