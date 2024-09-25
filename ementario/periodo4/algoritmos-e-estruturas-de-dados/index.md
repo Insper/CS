@@ -50,21 +50,12 @@ Livros:
 
 1. FEOFILOFF, P, Algoritmos em Linguagem C., Elsevier, 2008
 2. CORMEN, T. H.; LEISERSON, C.E.; RIVEST, R. L.; STEIN, C., Algoritmos: Teoria e Prática, 3ª ed., Elsevier, 2012
-3. SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
-
-Artigos:
-
-RUBIO, M. A. et al.. Closing the gender gap in an introductory programming course.. Computers & Education. , v. 82 , p. 409-420 , 2015. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0360131514002802. Acesso em: 27 maio 2019.
 
 ## Bibliografia Complementar
 
 Livros:
 
-1. SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008 CORMEN, T. H., Algorithms Unlocked, MIT Press,, 2013
-2. BENTLEY, J., Programming Pearls, Addison-Wesley, 1999
-3. AHO, A. V.; ULLMAN, J. D. , Foundations of Computer Science: C Edition. W. H. , Freeman, 1994
-4. R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
+1. SEDGEWICK, R. , Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3ª ed., Addison-Wesley Professional, 1997
+2. R.SEDGEWICK., Algorithms in C, Part 5, 3ª ed., Addison-Wesley, 2001
+3. SKIENA, S. S., The Algorithm Design Manual, 2ª ed., Springer, 2008
 
-Artigos:
-
-CODISH, M. et al.. Sorting nine inputs requires twenty-five comparisons.. Journal of Computer and System Sciences. , v. 82 , n. 3 , p. 551-563 , 2016. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0022000015001397. Acesso em: 27 maio 2019.
