@@ -45,21 +45,15 @@ Livros:
 
 1.  NISAN, Noam; SCHOCKEN, Shimon., The Elements of Computing Systems, Second Edition: Building a Modern Computer from First Principles MIT Press, 2021
 1.  TOCCI, R. J.; WIDMER, N. S.; MOSS, G. L., Sistemas Digitais: Princípios e Aplicações, 11ª ed., Pearson, 2011
-1.  HENNESSY, John. Arquitetura de Computadores - Uma Abordagem Quantitativa. Rio de Janeiro: GEN LTC, 2019. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595150669. Acesso em: 31 de May 2022.
-
-Artigos:
-
-KHAN, S. et. Al.. A high performance processor architecture for multimedia applications.. Computer & Electrical Engineering. , v. 66 , p. 14-29 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0045790616305894. Acesso em: 27 maio 2019.
 
 ## Bibliografia Complementar
 
 Livros:
 
+1.  HENNESSY, John. Arquitetura de Computadores - Uma Abordagem Quantitativa. Rio de Janeiro: GEN LTC, 2019. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595150669. Acesso em: 31 de May 2022.
 1. HENNESSY, John. Organização e Projeto de Computadores. Rio de Janeiro: GEN LTC, 2017. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595152908. Acesso em: 31 de Mai 2022.
 1. FLOYD, Thomas. Sistemas Digitais. Porto Alegre: Bookman, 2011. E-book. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577801077. Acesso em: 31 de Mai 2022.
-1. MOORE, Cristopher ; MERTENS, Stephan., The Nature of Computation, University Press, 2011
 1. STALLINGS, W., Arquitetura e organização de computadores, 8ª ed., Prentice Hall Brasil, 2010
-1. LAING, Gordon., Digital Retro: The Evolution and Design of the Personal Computer, Sybex, 2004 NIELSEN, L., Computing: A Business History, New Street Communications LLC, 2012
 
 Artigos:
 
