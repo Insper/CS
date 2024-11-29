@@ -36,21 +36,26 @@ O aluno deve ser capaz de:
 
 Livros:
 
-1. FACELI, K.; LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F, Inteligência artificial: Uma abordagem de aprendizado de máquina, LTC, 2011
-2. GÉRON, A., Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition, O'Reilly Media, 2022, ISBN: 9781098125974
+1. GÉRON, Aurélien. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems. 3. ed. O'Reilly Media, 2022, 861 p. ISBN 978-1098125974
+2. McKINNEY, WES. Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy & Jupyter. Novatec Editora; 3ª edição (16 março 2023), ISBN 978-8575228418
 
 Artigos:
-
 LE CUN, Y.; BENGIO, Y.; HINTON, G.. Deep Learning.. Nature. , v. 521 , p. 436-444 , 0. ; Disponível em: http://dx.doi.org/10.1038/nature14539. Acesso em: 27 maio 2019.
 
-Bibliografia Complementar
+Bibliografia complementar:
+
 Livros:
 
-1. HASTIE, T., TIBSHIRANI, R., FRIEDMAN, J., , The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2ª ed., Springer, 2009
-2. DUDA, R. O., HART, P. E., STORK, D. G, Pattern Classification, 2ª ed., Wiley, 2001
-3. MURPHY, K. P., , Machine Learning: A Probabilistic Perspective, MIT Press, 2012
-4. BURKOV, A., The Hundred-Page Machine Learning Book, 2019, ISBN-10 1777005477
-5. GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A., Deep Learning, MIT Press, 2016, http://www.deeplearningbook.org
+1. HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The elements of statistical learning: data
+mining, inference, and prediction. 2. ed. Stanford: Springer, 2017. 745 p.
 
-   Artigos:
-   SILVER, D.et al.. Mastering the game of Go without human knowledge.. Nature. , v. 550 , p. 354-359 , 2017. ; Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
+2. DUDA, Richard O.; HART, Peter E.; STORK, David G. Pattern Classification. 2. ed. New York: Wiley, 2001.
+654 p
+
+3. MURPHY, Kevin P. Machine learning: a probabilistic perspective. 1. ed. Cambridge: MIT Press, 2012.
+1071 p.
+
+4. ANTON, H., RORRES, C. Álgebra Linear com Aplicações. 10. ed. Porto Alegre: Bookman, 2012
+
+Artigos: 
+SILVER, D.et al.. Mastering the game of Go without human knowledge.., v.550, p.354-359, 2017. Disponível em: Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
