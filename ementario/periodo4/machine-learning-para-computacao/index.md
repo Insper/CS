@@ -43,7 +43,7 @@ Artigos:
 
 LE CUN, Y.; BENGIO, Y.; HINTON, G.. Deep Learning.. Nature. , v. 521 , p. 436-444 , 0. ; Disponível em: http://dx.doi.org/10.1038/nature14539. Acesso em: 27 maio 2019.
 
-Bibliografia complementar:
+## Bibliografia complementar:
 
 Livros:
 
