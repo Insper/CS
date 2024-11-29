@@ -44,13 +44,12 @@ Arquitetura da Web: IP, TCP/IP e roteamento
 
 Livros:
 
-1.  DATE, C. J., Introdução a sistemas de banco de dados, Campus, 2004
-2.  COMER, D. E., Redes de Computadores e Internet, 6ª ed., Bookman, 2016
-3.  LUCKOW, D. H.; DE MELO, A. A., Programação Java para a Web, 2ª ed., Novatec, 2015
+1.  COMER, D. E., Redes de Computadores e Internet, 6ª ed., Bookman, 2016
+2.  LUCKOW, D. H.; DE MELO, A. A., Programação Java para a Web, 2ª ed., Novatec, 2015
 
 Artigos:
 
-GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the making of HTML 5.. Telematics and Informatics. , v. 35 , n. 5 , p. 1438-1449 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0736585317306342 . Acesso em: 27 maio 2019.
+1. GUTIERREZ, R. T.. Understanding the role of digital commons in the web: the making of HTML 5.. Telematics and Informatics. , v. 35 , n. 5 , p. 1438-1449 , 2018. ; Disponível em: https://www.sciencedirect.com/science/article/pii/S0736585317306342 . Acesso em: 27 maio 2019.
 
 ## Bibliografia Complementar
 
@@ -60,7 +59,6 @@ Livros:
 2.  DUCKETT, J.; RUPPERT, G.; MOORE, J., JavaScript & JQuery: desenvolvimento de interfaces web interativas, Alta Books, 2016
 3.  DUCKETT, J. HTML & CSS, Projete e construa websites, Alta Books, 2016
 4.  CANTELON, M. , Node. js in Action, 2ª ed., Manning, 2017
-5.  MCGOVERN, J., Java web services architecture, Morgan Kaufmann, 2003
 
 Artigos:
 
