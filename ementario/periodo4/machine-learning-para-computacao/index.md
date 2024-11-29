@@ -40,6 +40,7 @@ Livros:
 2. McKINNEY, WES. Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy & Jupyter. Novatec Editora; 3ª edição (16 março 2023), ISBN 978-8575228418
 
 Artigos:
+
 LE CUN, Y.; BENGIO, Y.; HINTON, G.. Deep Learning.. Nature. , v. 521 , p. 436-444 , 0. ; Disponível em: http://dx.doi.org/10.1038/nature14539. Acesso em: 27 maio 2019.
 
 Bibliografia complementar:
@@ -57,5 +58,6 @@ mining, inference, and prediction. 2. ed. Stanford: Springer, 2017. 745 p.
 
 4. ANTON, H., RORRES, C. Álgebra Linear com Aplicações. 10. ed. Porto Alegre: Bookman, 2012
 
-Artigos: 
+Artigos:
+
 SILVER, D.et al.. Mastering the game of Go without human knowledge.., v.550, p.354-359, 2017. Disponível em: Disponível em: http://dx.doi.org/10.1038/nature24270. Acesso em: 27 maio 2019.
