@@ -58,8 +58,6 @@ HOHPE, GREGOR. The Software Architect’s Elevator.
 
 MARTIN, C. ROBERT. Clean Architecture: A Craftsman’s Guide to Software Structure and Design. 1.a ed. 2017.
 
-NEWMAN, SAM. Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados. 1.a ed. São Paulo: Novatec Editora, 2022.
-
 Artigos:
 
 S. Silva, A. Tuyishime, T. Santilli, P. Pelliccione and L. Iovino, "Quality Metrics in Software Architecture," 2023 IEEE 20th International Conference on Software Architecture (ICSA), L'Aquila, Italy, 2023, pp. 58-69
@@ -73,8 +71,6 @@ VALENTE, M. T. Engenharia de Software Moderna: Principios e Práticas para Desen
 FOWLER, MARTIN. Refactoring: Improving the Design of Existing Code. 2.a ed. 2018.
 
 KRUCHTEN, PHILIPPE; IPEK OZKAYA. Managing Technical Debt: Reducing Friction in Software Development. 1.a ed. 2019.
-
-RICHARDSON, CHRIS. Microservices Patterns: With Examples in Java. 1.a ed. 2018.
 
 Artigos:
 
