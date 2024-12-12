@@ -9,6 +9,7 @@ export default defineConfig({
   title: "Insper Computer Science",
   description: "Ementário do bacharelado em Ciência da Computação do Insper",
   lang: 'pt-BR',
+  base: '/CS/',
 
   vite: {
     plugins: [pagefindPlugin({
