@@ -5,7 +5,7 @@ periodo: eletiva
 ordem: eletiva
 docs:
   slots: 1
-  trilha: "eletivas"
+  trilha: "eletiva"
 ---
 
 ## Ementa
