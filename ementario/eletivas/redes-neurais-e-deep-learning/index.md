@@ -2,7 +2,7 @@
 titulo: Redes Neurais e Deep Learning
 cargaHoraria: 80
 periodo: eletiva
-ordem: eletiva
+ordem: 1
 docs:
   slots: 1
   trilha: "eletiva"
